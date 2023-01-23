@@ -21,5 +21,9 @@ Une accélération de la technologie a commencé à s'installer en Europe à la 
 |:--:|
 |*Forst, Averell & Co. • Affiche pour imprimerie Hoe • 1870.*|
 
+| ![Thomas Barratt d'après œuvre de John Everett Millais, Affiche pour Pear's,1890.](/src/assets/img/Pears'Bubbles-JohnEverettMillais-ThomasBarratt-1890.jpg) |
+|:--:|
+|*Thomas Barratt d'après œuvre de John Everett Millais • Affiche pour Pear's • 1890.*|
+
 Pour les inventeurs européens, l'Angleterre était un débouché. Le Français Nicolas Robert (1761-1828) conçoit sa première machine à fabriquer du papier au rouleau en 1799, ce qui lui vaut d'être breveté et développé en Angleterre par les frères Fourdrinier. L'impression à la vapeur a rapidement suivi, introduite dans le Times de Londres en 1814 par un Allemand, Friedrich Koenig (1774-1833). La fabrication du papier et la vitesse des presses ont réduit le coût des promotions imprimées, les rendant plus accessibles au public. Par conséquent, la conception de publicités et de ﬂiers est devenue une activité spécialisée, considérée comme une tâche distincte de l'impression et de la production. Les possibilités commerciales et artistiques se sont développées au fur et à mesure que la technologie dont disposaient les concepteurs progressait.
 
