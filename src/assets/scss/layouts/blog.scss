@@ -1,4 +1,46 @@
 /* Article card */
+article p {
+  font-size: 1.5094rem;
+  text-align: justify;
+  text-align: justify !important;
+  text-justify: inter-character !important;
+  -moz-font-feature-settings: "dlig", "calt", "onum";
+  -webkit-font-feature-settings: "dlig", "calt", "onum";
+  font-feature-settings: "dlig", "calt", "onum";
+  -webkit-hyphens: auto;
+  -webkit-hyphenate-limit-before: 4;
+  -webkit-hyphenate-limit-after: 4;
+  -webkit-hyphenate-limit-chars: 9 4 4;
+  -webkit-hyphenate-limit-lines: 2;
+  -webkit-hyphenate-limit-last: always;
+  -webkit-hyphenate-limit-zone: 8%;
+  -moz-hyphens: auto;
+  -moz-hyphenate-limit-chars: 9 4 4;
+  -moz-hyphenate-limit-lines: 2;
+  -moz-hyphenate-limit-last: always;
+  -moz-hyphenate-limit-zone: 8%;
+  -ms-hyphens: auto;
+  -ms-hyphenate-limit-chars: 9 4 4;
+  -ms-hyphenate-limit-lines: 2;
+  -ms-hyphenate-limit-last: always;
+  -ms-hyphenate-limit-zone: 8%;
+  hyphens: auto;
+  hyphenate-limit-chars: 9 4 4;
+  hyphenate-limit-lines: 2;
+  hyphenate-limit-last: always;
+  hyphenate-limit-zone: 8%;
+}
+
+article figure {
+  display: flex;
+  align-items: flex-end;
+  &:nth-child(odd){
+   flex-direction: row-reverse;
+  }
+  img{margin-bottom: 0rem!important;}
+ 
+} 
+
 .article-card {
   margin-top: 20px;
   padding: 4px 6px;
