@@ -9,8 +9,11 @@ section: post
       <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
     </p>
     <hr/>
+    
 
-    {{ layoutContent | safe }}
+   {{ content | safe | replace("<table>", "<figure>") | replace("</table>", "</figure>")
+                       | replace("<em>", "<figcaption>") | replace("</em>", "</figcaption>")
+                       | replace("../","../../") | replace(" •",",<br>") }}
 
     {% if tags %}
       <p class="tag-list">
