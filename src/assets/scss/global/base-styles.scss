@@ -19,7 +19,7 @@ body {
   font-size: 1.8rem;
   line-height: 1.618;
   color: var(--color-text);
-  background-color: red;
+  background-color: var(--color-bg);
 
   @media (max-width: 684px) {
     font-size: 1.53rem;
