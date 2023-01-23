@@ -3,6 +3,7 @@
   width: 100%;
   border-top: 3px solid var(--color-secondary);
   z-index: var(--z-header);
+  background: #000;
 }
 
 .site-header__container {
@@ -11,11 +12,7 @@
   align-items: center;
   justify-content: space-between;
   margin: 3px 12px 0;
-  padding: 8px 10px;
-  border: 1px solid var(--color-border);
-  border-radius: var(--border-radius);
-  background-color: var(--color-bg);
-  box-shadow: var(--shadow);
+  padding: 8px 10px;;
 
   @media (min-width: 1024px) {
     max-width: var(--site-width);
