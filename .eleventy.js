@@ -2,6 +2,9 @@ const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const imageShortcode = require('./src/_11ty/shortcodes/image-shortcode');
 const markdownLibrary = require('./src/_11ty/libraries/markdown-library');
+const markdownItAnchor = require('markdown-it-anchor');
+const markdownIt = require('markdown-it');
+const pluginTOC = require('eleventy-plugin-toc');
 const minifyHtml = require('./src/_11ty/utils/minify-html');
 const markdownFilter = require('./src/_11ty/filters/markdown-filter');
 const svgFilter = require('./src/_11ty/filters/svg-filter');
@@ -12,6 +15,17 @@ module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginTOC, {
+    tags: ['h2', 'h3'],
+    wrapper: 'div'
+  });
+
+  // Markdown
+  eleventyConfig.setLibrary(
+    'md',
+    markdownIt().use(markdownItAnchor)
+  );
+
 
   // Filters
   eleventyConfig.addFilter('markdown', markdownFilter);

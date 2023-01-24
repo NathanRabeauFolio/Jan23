@@ -9,7 +9,7 @@ let markdown = markdownIt({
   linkify: true
 }).use(anchor, {
   permalink: anchor.permalink.linkInsideHeader({
-    symbol: '#',
+    symbol: '',
     placement: 'before'
   })
 });
