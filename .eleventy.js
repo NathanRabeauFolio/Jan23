@@ -17,7 +17,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h2', 'h3'],
-    wrapper: 'div'
+    wrapper: 'nav'
   });
 
   // Markdown
