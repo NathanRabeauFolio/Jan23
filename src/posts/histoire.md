@@ -6,7 +6,7 @@ tags:
   - Histoire du graphisme
   - Culture G
 ---
-| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Forst-Averell-Co.-Affiche-the-Hoe-printing-press-1870.jpg) |
+| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Pears'Bubbles-JohnEverettMillais-ThomasBarratt-1890.jpg) |
 |:--:|
 
 Le graphisme a été façonné par les circonstances sociales, culturelles, politiques et technologiques tout au long de son évolution. Les hiéroglyphes égyptiens ont été créés pour enregistrer l'histoire, ciselés dans la pierre pour durer une éternité.
