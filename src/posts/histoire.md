@@ -15,6 +15,10 @@ En tant qu'objet graphique, les affiches appartiennent à la catégorie de la pr
 |:--:|
 |*Affiche pour excursion en train • 1876.*|
 
+| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Imprimerie-Schildknecht-Specimen-typographie.jpg.jpg) |
+|:--:|
+|*Imprimerie Schildknecht • Specimen-typographie • 1876.*|
+
 Avant la lithographie, les affiches étaient imprimées par typographie, comme les livres, à l'encre noire à partir de caractères d'imprimerie, avec parfois des illustrations sur bois. C'est l'imprimeur qui choisissait les caractères et les disposait, généralement pour remplir la feuille imprimée.
 Bien que la photographie existât depuis quelques décennies, ses images ne pouvaient être reproduites en grand format, ni en grand nombre.
 
