@@ -6,6 +6,9 @@ tags:
   - Histoire du graphisme
   - Culture G
 ---
+| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Forst-Averell-Co.-Affiche-the-Hoe-printing-press-1870.jpg) |
+|:--:|
+
 Le graphisme a été façonné par les circonstances sociales, culturelles, politiques et technologiques tout au long de son évolution. Les hiéroglyphes égyptiens ont été créés pour enregistrer l'histoire, ciselés dans la pierre pour durer une éternité.
 
 L'impression chinoise sur bois, qui a débuté au troisième siècle comme méthode d'impression sur tissu, a rendu la reproduction du texte et de l'image économiquement possible.

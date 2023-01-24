@@ -39,6 +39,10 @@ article figure {
   > * {
     width: 50%;
   } 
+  &:first-of-type{
+    display: block;
+    width: 100%;
+  }
 } 
 
 .article-card {

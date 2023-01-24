@@ -119,12 +119,15 @@
     color: var(--color-secondary);
     font-size: 2.65rem;
     font-variation-settings: "wght" 335, "wdth" 30, "opsz" 30;
-    transition: font-size .3s, font-variation-settings .3s;
+    transition: font-size 0.3s, font-variation-settings 0.3s, letter-spacing .3s;
+    letter-spacing: .05rem;
   }
 
   &[aria-current] {
     color: var(--color-secondary);
     font-size: 2.65rem;
     font-variation-settings: "wght" 335, "wdth" 30, "opsz" 30;
+    transition: font-size 0.3s, font-variation-settings 0.3s, letter-spacing .3s;
+    letter-spacing: .05rem;
   }
 }
