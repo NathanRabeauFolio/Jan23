@@ -97,30 +97,34 @@
 
 .site-header__item {
   margin: 0 6px;
-  font-weight: 500;
-  font-size: 14px;
+  font-family: var(--font-family-heading);
 
   @media (min-width: 1024px) {
     margin: 0 15px;
-    font-size: 15px;
   }
 }
 
 .site-header__link {
   display: flex;
   align-items: center;
-  padding: 6px 8px;
-  border-radius: var(--border-radius-sm);
   color: var(--color-text);
+  font-variation-settings: "wght" 735, "wdth" 100, "opsz" 0;
+  font-size: 1rem;
+  text-transform: uppercase;
+  transition: font-size .3s, font-variation-settings .3s;
+  line-height: 0;
 
   &:hover {
     border-bottom: none;
-    background-color: var(--color-bg-secondary);
     color: var(--color-secondary);
+    font-size: 2.65rem;
+    font-variation-settings: "wght" 335, "wdth" 30, "opsz" 30;
+    transition: font-size .3s, font-variation-settings .3s;
   }
 
   &[aria-current] {
-    background-color: var(--color-bg-secondary);
     color: var(--color-secondary);
+    font-size: 2.65rem;
+    font-variation-settings: "wght" 335, "wdth" 30, "opsz" 30;
   }
 }
