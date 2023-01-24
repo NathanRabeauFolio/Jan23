@@ -5,6 +5,9 @@ article h1{
   background-color: aliceblue;
   z-index: +1;
   top: 50%;
+  font-size: 3.55em;
+  font-variation-settings: "wght" 370, "wdth" 50, "opsz" 5;
+  line-height: 0.8;
 }
 
 article h2{counter-reset: H3;
