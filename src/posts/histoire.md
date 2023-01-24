@@ -15,7 +15,7 @@ En tant qu'objet graphique, les affiches appartiennent à la catégorie de la pr
 |:--:|
 |*Affiche pour excursion en train • 1876.*|
 
-| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Imprimerie-Schildknecht-Specimen-typographie.jpg.jpg) |
+| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Imprimerie-Schildknecht-Specimen-typographie.jpg) |
 |:--:|
 |*Imprimerie Schildknecht • Specimen-typographie • 1876.*|
 
