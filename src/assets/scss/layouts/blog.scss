@@ -37,8 +37,9 @@ article figure {
   &:nth-child(odd){
    flex-direction: row-reverse;
   }
-  img{margin-bottom: 0rem!important;}
- 
+  > * {
+    width: 50%;
+  } 
 } 
 
 .article-card {
