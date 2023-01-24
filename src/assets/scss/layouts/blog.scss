@@ -82,7 +82,7 @@ article figure {
 
   img {
     width:auto!important;
-    max-height:80vh;
+    max-height:60vh;
     margin: 0 0 0 auto !important;
     @media (max-width: 960px) {
     margin: 0 auto !important;
@@ -93,10 +93,11 @@ article figure {
     font-size: 1rem;
     font-variation-settings: "wght" 735,"wdth" 100,"opsz" 0;
     width:33%;
-    line-height: 1;
+    line-height: 1.2;
     &:first-line{
-      font-size: 2.65rem;
-      font-variation-settings: "wght" 335, "wdth" 30, "opsz" 30;
+      font-size: 1.475rem;
+      font-variation-settings: "wght" 535, "wdth" 65, "opsz" 20;
+      line-height: 1.2;
     }
     @media (max-width: 960px) {
       width:100%;

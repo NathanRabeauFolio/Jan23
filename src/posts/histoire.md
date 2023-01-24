@@ -22,7 +22,7 @@ Les artistes peignaient donc des affiches, qui étaient transférées à la main
 
 | ![Thomas Barratt d'après œuvre de John Everett Millais, Affiche pour Pear's,1890.](/src/assets/img/Pears'Bubbles-JohnEverettMillais-ThomasBarratt-1890.jpg) |
 |:--:|
-|*Thomas Barratt d'après œuvre de John Everett Millais • Affiche pour Pear's • 1890.*|
+|*Thomas Barratt • Affiche pour Pear's • d'après œuvre • de John Everett Millais • 1890.*|
 
 L'intégration de la production artistique et industrielle est illustrée par la carrière de Jules Chéret. Fils d'un compositeur de caractères et apprenti chez un lithographe à Paris, il se rend à Londres pour étudier les dernières techniques. De retour à Paris dans les années 1860, Chéret a progressivement développé un système d'impression en trois ou quatre couleurs : un dessin noir sur une couleur de fond graduée et pâle, généralement du bleu en haut, avec l'ajout d'un rouge fort et d'un jaune délicat. Chéret et les artistes qui ont suivi son exemple dans les années 1890 pouvaient eux-mêmes dessiner à l'encre, à la craie ou à la peinture librement sur la pierre d'impression pour donner de grandes surfaces de couleur unie, ou ils pouvaient éclabousser la surface pour obtenir une texture brisée. La pierre sur laquelle ils dessinaient donnait une texture dense ou ouverte aux marques qu'ils y traçaient à la craie, offrant une gamme de tons photographiques. De cette façon, l'artiste avait un accès direct au processus de reproduction, sans les exigences techniques et les limites graphiques de la gravure sur métal et sur bois.
 
