@@ -1,4 +1,34 @@
 /* Article card */
+article h1{
+  margin: 0;
+  position: absolute;
+  background-color: aliceblue;
+  z-index: +1;
+  top: 50%;
+}
+
+article h2{counter-reset: H3;
+  position: relative;
+&:before{
+  content: counter(H2 , upper-roman) ".";
+counter-increment: H2;
+position: absolute;
+width: 3rem;
+padding-right: 1em;
+text-align: right;
+left: -1em;}
+}
+article h3{
+  &:before{
+  content: counter(H3 , upper-alpha) ".";
+  counter-increment: H3;
+  position: absolute;
+  width: 3rem;
+  padding-right: 1em;
+  text-align: right;
+  left: -0.5em;}
+  }
+
 article p {
   text-align: justify;
   text-align: justify !important;
@@ -34,7 +64,7 @@ article figure {
   display: flex;
   align-items: flex-end;
   &:nth-child(odd){
-   flex-direction: row-reverse;
+  flex-direction: row-reverse;
   }
   > * {
     width: 50%;
@@ -42,18 +72,18 @@ article figure {
   &:first-of-type{
     display: block;
     width: 100%;
-    filter: grayscale(1);
+    filter: contrast(12.5);
     picture{
-      
       display: block;
       width: 100%;
       object-fit: fill;
       background: white;
       position: relative;
-      filter: contrast(500%);
+      filter: brightness(0.66);
       overflow: hidden;
       > * {
         max-width: 100%;
+        filter: grayscale(1);
       }
       &:after {
         --dot-size: 5px;
