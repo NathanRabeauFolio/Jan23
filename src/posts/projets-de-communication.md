@@ -2,7 +2,7 @@
 title: Projet de communication
 date: 2020-01-01T08:00:00.000Z
 summary: L'histoire du design graphique est une étude fascinante de la mode, des styles et des idéaux. C'est aussi une chronique de personnes et d'événements qui ont changé notre vision du monde. En raison de tout cela, c'est une base importante pour les étudiants et les professionnels
-permalink: /projets-de-communication/index.html
+permalink: '{{ title | slugify }}.html'
 tags:
   - Histoire du graphisme
   - Culture G
