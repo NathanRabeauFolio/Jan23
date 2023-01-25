@@ -20,16 +20,16 @@ article h1{
   line-height: 0.8;
 }
 
-article h2{counter-reset: H3;
-  position: relative;
-&:before{
+article h2{
+  &:before{
   content: counter(H2 , upper-roman) ".";
-counter-increment: H2;
-position: absolute;
-width: 3rem;
-padding-right: 1em;
-text-align: right;
-left: -1em;}
+  counter-increment: H2;
+  position: absolute;
+  width: 3rem;
+  padding-right: 1em;
+  text-align: right;
+  left: 1em;}
+  counter-reset: H3;
 }
 article h3{
   &:before{
@@ -39,7 +39,7 @@ article h3{
   width: 3rem;
   padding-right: 1em;
   text-align: right;
-  left: -0.5em;}
+  left: 1em;}
   }
 
 article p {
