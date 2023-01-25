@@ -8,7 +8,7 @@ tags:
   - Culture G
 
 ---
-| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/histoire-de-laffiche.jpg) |
+| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/illustrator-intro.jpg) |
 |:--:|
 
 Dans Illustrator, vous créez et travaillez principalement avec des formes vectoriels (parfois appelés objets vectoriels). Les formes vectoriels sont constitués de lignes et de courbes définies par des objets mathématiques appelés vecteurs. Vous pouvez les déplacer ou modifier librement sans perdre de détails ou de netteté car elles sont indépendants de la résolution. En d'autres termes, les objets vectoriels conservent des bords nets lorsqu'ils sont redimensionnés, imprimés sur une imprimante PostScript, enregistrés dans un fichier PDF ou importés dans une application graphique vectorielle. Par conséquent, ces objets constituent le meilleur choix pour les illustrations, telles que les logos, qui seront utilisées à différentes tailles et sur différents supports de sortie.
