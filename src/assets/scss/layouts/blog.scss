@@ -10,17 +10,22 @@ aside{
   @media (max-width: 1200px){
     display:none;
   }
-  
 }
 
 .toc{
   font-family: var(--font-family-heading);
   font-size: 1.475rem;
+  line-height: 1em;
   font-variation-settings: "wght" 535, "wdth" 65, "opsz" 20;
   width:calc(75% - var(--site-width))!important;
   ol{
-
+    list-style-type : upper-roman;
+    ol{
+      list-style-type : upper-alpha;
+      
+    }
   }
+  a{color:var(--color-text)}
 }
 
 article h1{
@@ -37,24 +42,36 @@ article h1{
 
 article h2{
   &:before{
-  content: counter(H2 , upper-roman) ".";
-  counter-increment: H2;
-  position: absolute;
-  width: 3rem;
-  padding-right: 1em;
-  text-align: right;
-  left: 1em;}
+    content: counter(H2, upper-roman) ".\00a0";
+    counter-increment: H2;
+    position: absolute;
+    width: 4rem;
+    text-align: right;
+    left: -4rem;
+   }
   counter-reset: H3;
+  font-size: 2.15rem;
+  font-variation-settings: "wght" 372, "wdth" 110, "opsz" 15;
+  text-transform: uppercase;
+  position: relative;
+  margin-left: 4rem;
+  margin-bottom: 1rem;
 }
 article h3{
   &:before{
-  content: counter(H3 , upper-alpha) ".";
+  content: counter(H3 , upper-alpha) ".\00a0";
   counter-increment: H3;
   position: absolute;
-  width: 3rem;
-  padding-right: 1em;
+  width: 4rem;
   text-align: right;
-  left: 1em;}
+  left: -4rem;}
+  font-size: 1.65rem;
+    font-variation-settings: "wght" 550, "wdth" 100, "opsz" 0;
+    text-transform: uppercase;
+    position: relative;
+    margin-left: 8rem;
+    margin-top: 2.85rem;
+    margin-bottom: 0.85rem;
   }
 
 article p {
