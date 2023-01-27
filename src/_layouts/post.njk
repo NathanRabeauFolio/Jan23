@@ -4,7 +4,7 @@ section: post
 ---
 <div class="page-container">
 <aside>
-{{ content | toc | safe }}
+{{ content | toc | safe | replace("˙","'") }}
 </aside>
   <article>
     <h1>{{ title }}</h1>
@@ -12,7 +12,7 @@ section: post
 
    {{ content | safe | replace("<table>", "<figure>") | replace("</table>", "</figure>")
                        | replace("<em>", "<figcaption>") | replace("</em>", "</figcaption>")
-                       | replace("../","../../") | replace(" •",",<br>") }}
+                       | replace("../","../../") | replace(" •",",<br>") | replace("˙","'") }}
 
     {% if tags %}
       <p class="tag-list">
