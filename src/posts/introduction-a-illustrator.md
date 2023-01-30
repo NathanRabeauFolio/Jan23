@@ -6,7 +6,8 @@ permalink: '{{ title | slugify }}.html'
 tags:
   - Histoire du graphisme
   - Culture G
-
+image: /assets/img/illustrator-intro.jpg
+imageAlt: This is a test
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/illustrator-intro.jpg) |
 |:--:|

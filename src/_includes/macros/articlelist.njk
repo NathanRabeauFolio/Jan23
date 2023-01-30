@@ -8,7 +8,7 @@
       >
 
         <a class="article-card__link" href="{{ article.url | url }}">
-       
+       <img src="{{ article.data.image | url }}" alt="{{ article.data.imageAlt | safe }}">
           <h5 class="article-card__title">{{ article.data.title }}</h5>
           {% if article.data.summary %}
             <p class="article-card__summary">
