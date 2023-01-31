@@ -38,3 +38,14 @@
 .project-card__emoji {
   margin-right: 8px;
 }
+
+
+body:has(.project){
+  background: var(--color-projet);
+  .site-header {
+  background: var(--color-projet);
+  &::before {
+    display: none;}
+  .site-header__link, .site-header__logo{color:#FFFFFF}
+}
+}

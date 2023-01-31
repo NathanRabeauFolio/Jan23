@@ -2,7 +2,12 @@
 layout: base.njk
 section: project
 ---
-<div class="page-container">
+
+<style>
+  :root {--color-projet: #{{ color }};}
+</style>
+
+<div class="page-container {{ section }}">
   <h1>
     {% if emoji %}
       <span class="project-card__emoji">{{ emoji }}</span>
