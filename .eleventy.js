@@ -11,6 +11,7 @@ const svgFilter = require('./src/_11ty/filters/svg-filter');
 const browserSyncConfig = require('./src/_11ty/utils/browser-sync-config');
 const { readableDateFilter, machineDateFilter } = require('./src/_11ty/filters/date-filters');
 
+
 module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -20,7 +21,9 @@ module.exports = function (eleventyConfig) {
     wrapper: 'nav',
   });
   
-  
+  //
+
+
 
   // Markdown
   eleventyConfig.setLibrary(
