@@ -1,0 +1,4 @@
+Sitemap: https://animated-lily-68e918.netlify.app/sitemap.xml
+
+User-agent: *
+Disallow:

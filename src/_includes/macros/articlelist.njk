@@ -8,7 +8,12 @@
       >
 
         <a class="article-card__link" href="{{ article.url | url }}">
-       <img loading="eager" decoding="async"  src="{{ article.data.image | url }}" alt="{{ article.data.imageAlt | safe }}" >
+       
+        <div class="thumbnails">
+         <div class="thumbnails-halftone">
+       <img  loading="eager" decoding="async"  src="{{ article.data.image | url }}" alt="{{ article.data.imageAlt | safe }}" >
+       </div>
+       </div>
           <h5 class="article-card__title">{{ article.data.title }}</h5>
           {% if article.data.summary %}
             <p class="article-card__summary">
