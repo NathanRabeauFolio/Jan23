@@ -221,45 +221,18 @@ section:has(.article-card){
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items:stretch
 
 }
 
-.article .thumbnails{
-  filter: contrast(12.5);
-  .thumbnails-halftone{
-    display: block;
-    width: 100%;
-    object-fit: fill;
-    background: white;
-    position: relative;
-    filter: brightness(0.66);
-    overflow: hidden;
-    height: 30rem;
-    &:after {
-      --dot-size: 5px;
-      content: "";
-      position: absolute;
-      top: -100%;
-      left: -100%;
-      right: -100%;
-      bottom: -100%;
-      background-blend-mode: multiply;
-      background: radial-gradient(var(--dot-size) var(--dot-size), black, white);
-      background-size: var(--dot-size) var(--dot-size);
-      mix-blend-mode: screen;
-      pointer-events: none;
-      transform: rotate(27.5deg);
-  }
-  img   {width: 100% !important;
-    max-height: none !important;
-    filter: grayscale(1);
-    height: auto;}
-}
-}
+
+
 .article-card {
   width: calc(33.333% - 1rem);
-  
   border-radius: var(--border-radius);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 
   &:hover {
     color: var(--color-text);
@@ -279,13 +252,26 @@ section:has(.article-card){
       background-color: transparent;
     }
   }
+  picture{
+    height:auto!important
+  }
+  figure{
+    margin-bottom: 0;
+  }
+  @media (max-width: 1200px){
+    width: calc(50% - 1rem);
+  }
 }
 
 .article-card__link {
   color: var(--color-text);
-
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   &:hover {
     color: var(--color-text);
+    border-bottom: none;
   }
 
   .article-card--tags & {
@@ -296,12 +282,19 @@ section:has(.article-card){
 }
 
 .article-card__title {
-  margin: 5px 0;
+  margin: 0;
+  font-size: 2.65rem;
+  font-variation-settings: "wght" 335, "wdth" 30, "opsz" 30;
+  letter-spacing: 0.05rem;
+
 }
 
 .article-card__summary {
   margin-bottom: 0;
-  color: var(--color-text-gray);
+  font-family: var(--font-family-heading);
+  font-size: 1rem;
+  font-variation-settings: "wght" 735, "wdth" 100, "opsz" 0;
+  text-align: left!important;
 }
 
 /* Tags */
