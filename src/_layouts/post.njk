@@ -9,10 +9,7 @@ section: post
 
   <article>
     <h1>{{ title }}</h1>
-    <a href="https://www.facebook.com/sharer/sharer.php?u={{ article.url }}" target="_blank" rel="noopener">
-    Share on Facebook
-</a>
-
+ 
    {{ content | safe | replace("<table>", "<figure>") | replace("</table>", "</figure>")
                        | replace("<em>", "<figcaption>") | replace("</em>", "</figcaption>")
                        | replace("../","../../") | replace(" •",",<br>") | replace("˙","'") }}
