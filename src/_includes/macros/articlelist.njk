@@ -25,7 +25,9 @@
               {% for tag in article.data.tags %}
                 {%- if tag != "post" -%}
                   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-                <a class="tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                <a class="tag" href="{{ tagUrl | url }}" rel="tag">
+                {{ tag }}
+                </a>
                 {%- endif -%}
               {% endfor %}
             </p>

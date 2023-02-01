@@ -22,10 +22,10 @@ aside{
     list-style-type : upper-roman;
     ol{
       list-style-type : upper-alpha;
-      
     }
   }
-  a{color:var(--color-text)}
+  a{color:var(--color-text);
+  }
 }
 
 article h1{
@@ -221,7 +221,8 @@ section:has(.article-card){
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items:stretch
+  align-items:stretch;
+  margin:0 -0.5rem
 
 }
 
@@ -233,7 +234,8 @@ section:has(.article-card){
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-
+  flex-grow: 1;
+  padding: 0 .5rem;
   &:hover {
     color: var(--color-text);
     background-color: var(--color-bg-hover);
@@ -241,7 +243,7 @@ section:has(.article-card){
 
   
   &--tags {
-    border-bottom: 2px solid var(--color-border);
+    
     border-radius: 0;
 
     &:last-child {
@@ -268,7 +270,7 @@ section:has(.article-card){
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  
   &:hover {
     color: var(--color-text);
     border-bottom: none;

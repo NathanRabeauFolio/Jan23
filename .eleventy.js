@@ -21,8 +21,7 @@ module.exports = function (eleventyConfig) {
     wrapper: 'nav',
   });
   
-  //
-
+  
 
 
   // Markdown
