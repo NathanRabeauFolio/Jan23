@@ -5,10 +5,10 @@ summary: L'histoire du design graphique est une étude fascinante de la mode, de
 tags:
   - Histoire du graphisme
   - Culture G
-image: /assets/img/histoire-de-laffiche.jpg
+image: /assets/img/action-de-com.jpg
 imageAlt: This is a test
 ---
-| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/histoire-de-laffiche.jpg) |
+| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/action-de-com.jpg) |
 |:--:|
 
 En tant qu'objet graphique, les affiches appartiennent à la catégorie de la présentation et de la promotion, où l'image et le mot doivent être économiques, reliés dans un sens unique et mémorisables. Dans les rues des villes en expansion à la fin du XIXe siècle, les affiches étaient l'expression de la vie économique, sociale et culturelle, rivalisant pour attirer les acheteurs de marchandises et le public de spectacles. L'attention des passants était captée par la couleur des affiches, rendue possible par le développement de l'impression lithographique. Leurs illustrations, replacées dans un contexte précis par le texte, reflétaient la mode artistique de l'époque et introduisaient une nouvelle esthétique d'images simplifiées et économiques qui découlait de leur mode de reproduction. 

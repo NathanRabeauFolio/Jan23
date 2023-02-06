@@ -16,7 +16,7 @@ imageAlt: This is a test
 ### Les figures d˙adjonction
 
 #### Accumulation
-
+L’accumulation et l’énumération sont des figures de style qui consistent à aligner un grand nombre de mots ou de groupes de mots de même catégorie grammaticale et de même fonction syntaxique, de manière à insister sur l’idée exprimée. Dans l’énumération, les éléments sont moins nombreux et mieux ordonnés que dans l’accumulation.
 #### Antanaclase
 
 #### Antithèse
