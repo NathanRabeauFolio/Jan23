@@ -14,4 +14,4 @@ eleventyNavigation:
 ---
 
 
-Un peu sur mes contenus, mais pas trop. Ces cours aide mes élève à construire une base solide du processus de création efficace et des compétences de recherche pour recueillir et analyser des informations pour des projets créatifs. À l'issue de cet enseignement, vous serez en mesure de développer vos propres concepts originaux en examinant les précédents historiques, les théories pertinentes et les styles actuels.
+Un peu sur mes contenus, mais pas trop. Ces supports aident mes élève à construire une base solide du processus de création efficace et des compétences de recherche pour recueillir et analyser des informations pour des projets créatifs. À l'issue de cet enseignement, vous serez en mesure de développer vos propres concepts originaux en examinant les précédents historiques, les théories pertinentes et les styles actuels.
