@@ -326,6 +326,7 @@ section:has(.article-card){
   height: 100%;
   display: flex;
   flex-direction: column;
+  position: relative;
   
   &:hover {
     color: var(--color-text);
@@ -334,7 +335,9 @@ section:has(.article-card){
 
   .article-card--tags & {
     &:hover {
-      color: var(--color-secondary);
+      filter: grayscale(1);
+      background-color: white;
+
     }
   }
 }
@@ -353,6 +356,16 @@ section:has(.article-card){
   font-size: 1rem;
   font-variation-settings: "wght" 735, "wdth" 100, "opsz" 0;
   text-align: left!important;
+}
+
+.article-card__link .color-overlay{
+  display: block;
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  z-index: +1;
+  mix-blend-mode: plus-lighter;
+  top: 0;
 }
 
 /* Tags */

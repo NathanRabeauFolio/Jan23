@@ -7,6 +7,7 @@ tags:
   - Communication
 image: /assets/img/Max-Arthur_the-V-D.jpg
 imageAlt: Max Arthur, A happy crowd gathers at State and Madison streets to celebrate the V-J Day, 1945
+color: 36b564
 ---
 
 | ![Max Arthur, A happy crowd gathers at State and Madison streets to celebrate the V-J Day, 1945](/src/assets/img/Max-Arthur_the-V-D.jpg) |

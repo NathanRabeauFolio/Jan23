@@ -7,6 +7,7 @@ tags:
   - Culture G
 image: /assets/img/action-de-com.jpg
 imageAlt: This is a test
+color: 9b97c9
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/action-de-com.jpg) |
 |:--:|
