@@ -9,7 +9,7 @@ section: post
 
   <article>
     <h1>{{ title }}</h1>
- 
+    <div class="color-overlay" style="background-color:#{{ color }}"></div>
    {{ content | safe | replace("<table>", "<figure>") | replace("</table>", "</figure>")
                        | replace("<em>", "<figcaption>") | replace("</em>", "</figcaption>")
                        | replace("../","../../") | replace(" •",",<br>") | replace("˙","'") }}

@@ -33,11 +33,19 @@ aside{
     &:hover{border: none;}
   }
 }
-
+article .color-overlay{
+  display: block;
+  height: 36rem;
+  width: var(--site-width);
+  position: absolute;
+  z-index: +1;
+  mix-blend-mode: plus-lighter;
+  top: 0;
+}
 article h1{
   margin: 0;
   position: absolute;
-  z-index: +1;
+  z-index: +2;
   font-size: 3.55em;
   font-variation-settings: "wght" 535, "wdth" 55, "opsz" 20;
   line-height: 0.8;
@@ -208,16 +216,7 @@ article figure {
     width: 100%;
     height: auto;
     filter: contrast(12.5);
-    &:before {
-      width:100%;
-      height:100%;
-      content: '';
-      position: absolute;
-      top:0;
-      left:0;
-      background-color: brown;
-
-    }
+   
     picture{
       display: block;
       width: 100%;
