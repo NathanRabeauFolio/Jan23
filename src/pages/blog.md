@@ -14,4 +14,4 @@ eleventyNavigation:
 ---
 
 
-Lorem   vsdfpl,^$gfz
+Un peu sur mes contenus, mais pas trop. En quelques exemples de supports pedagogique
