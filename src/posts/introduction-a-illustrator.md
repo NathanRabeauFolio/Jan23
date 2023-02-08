@@ -7,7 +7,7 @@ tags:
   - Culture G
 image: /assets/img/illustrator-intro.jpg
 imageAlt: This is a test
-color: FF5733;
+color: f5712a
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/illustrator-intro.jpg) |
 |:--:|

@@ -6,7 +6,7 @@ tags:
   - Histoire du graphisme
   - Culture G
 image: /assets/img/histoire-de-laffiche.jpg
-
+color: dcc599
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/histoire-de-laffiche.jpg) |
 |:--:|

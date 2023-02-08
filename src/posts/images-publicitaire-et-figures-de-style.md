@@ -7,6 +7,7 @@ tags:
   - Culture G
 image: /assets/img/figures-de-style-intro.jpg
 imageAlt: This is a test
+color: 009da7
 ---
 | ![Etude de mains - Baccio Bandinelli](/src/assets/img/figures-de-style-intro.jpg) |
 |:--:|
