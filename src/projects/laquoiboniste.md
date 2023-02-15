@@ -24,9 +24,6 @@ reponse: Bring to the table win-win survival strategies to ensure proactive domi
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Aquoiboniste-SousBoc.jpg) |
 |:--:|
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 <video width="100%" height="100%" autoplay loop muted playsinline>
     <source 
         src="/assets/img/Vins-hevc-safari.mp4" 
@@ -35,9 +32,3 @@ reponse: Bring to the table win-win survival strategies to ensure proactive domi
         src="/assets/img/Vins-vp9-chrome.webm" 
         type="video/webm">
 </video>
-=======
-<iframe src="https://player.vimeo.com/video/23146479?h=cdd942e799" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
->>>>>>> parent of 889225d (project)
-=======
-<iframe src="https://player.vimeo.com/video/23146479?h=cdd942e799" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
->>>>>>> parent of 889225d (project)
