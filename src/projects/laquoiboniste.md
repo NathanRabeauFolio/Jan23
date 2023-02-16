@@ -26,6 +26,24 @@ reponse: Bring to the table win-win survival strategies to ensure proactive domi
 
 <video width="100%" height="100%" autoplay loop muted playsinline>
     <source 
+        src="/assets/img/DameJeanne-hevc-safari.mp4" 
+        type='video/mp4; codecs="hvc1"'>
+    <source 
+        src="/assets/img/DameJeanne-vp9-chrome.webm" 
+        type="video/webm">
+</video>
+
+<video width="100%" height="100%" autoplay loop muted playsinline>
+    <source 
+        src="/assets/img/Aqb-element-Graphique-hevc-safari.mp4" 
+        type='video/mp4; codecs="hvc1"'>
+    <source 
+        src="/assets/img/Aqb-element-Graphique-vp9-chrome.webm" 
+        type="video/webm">
+</video>
+
+<video width="100%" height="100%" autoplay loop muted playsinline>
+    <source 
         src="/assets/img/Vins-hevc-safari.mp4" 
         type='video/mp4; codecs="hvc1"'>
     <source 
