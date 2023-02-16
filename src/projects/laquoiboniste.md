@@ -24,7 +24,7 @@ reponse: Bring to the table win-win survival strategies to ensure proactive domi
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Aquoiboniste-SousBoc.jpg) |
 |:--:|
 
-<video width="100%" height="100%" autoplay loop muted playsinline>
+<video width="66%" height="66%" autoplay loop muted playsinline>
     <source 
         src="/assets/img/DameJeanne-hevc-safari.mp4" 
         type='video/mp4; codecs="hvc1"'>
@@ -33,7 +33,7 @@ reponse: Bring to the table win-win survival strategies to ensure proactive domi
         type="video/webm">
 </video>
 
-<video width="100%" height="100%" autoplay loop muted playsinline>
+<video width="66%" height="66%" autoplay loop muted playsinline>
     <source 
         src="/assets/img/Aqb-element-Graphique-hevc-safari.mp4" 
         type='video/mp4; codecs="hvc1"'>
@@ -42,7 +42,7 @@ reponse: Bring to the table win-win survival strategies to ensure proactive domi
         type="video/webm">
 </video>
 
-<video width="100%" height="100%" autoplay loop muted playsinline>
+<video width="66%" height="66%" autoplay loop muted playsinline>
     <source 
         src="/assets/img/Vins-hevc-safari.mp4" 
         type='video/mp4; codecs="hvc1"'>
