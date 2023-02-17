@@ -20,11 +20,12 @@ section: project
           <a class="tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
         {%- endif -%}
       {% endfor %}
-        <h2>outils</h2>
+    {% if techs %}
+      <h2>outils</h2>
       <div class="tech">
-      
       {{ techs | safe | replace(",", "") }}
       </div>
+    {%- endif -%}
       </div>
 {% endif %}
 
