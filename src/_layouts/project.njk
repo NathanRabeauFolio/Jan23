@@ -13,13 +13,16 @@ section: project
  
   {% if tags %}
       <div class="tag-list">
+        <h2>domaine</h2>
       {% for tag in tags %}
-        {%- if tag != "project" -%}
+        {%- if tag != "project" -%}  
           {% set tagUrl %}/project-tags/{{ tag }}/{% endset %}
           <a class="tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
         {%- endif -%}
       {% endfor %}
+        <h2>outils</h2>
       <div class="tech">
+      
       {{ techs | safe | replace(",", "") }}
       </div>
       </div>
