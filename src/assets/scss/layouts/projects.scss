@@ -62,20 +62,31 @@ td, th {
 }
 .project{position: relative;}
 .intro{
-
-
+  display: flex;
+  font-family: var(--font-family-third);
+  font-variation-settings: "wght" 500, "MONO" 1000;
+background-color: #FFFFFF;
+font-size: 1rem;
 h1 {
   margin: 0;
   text-align: center;}
-h2 {margin: 0;
-padding: 0;}
-p{font-family: var(--font-family-third);
-  font-size: 1.15rem;
-  margin: 0;
-  padding: 0;}
+h2 {    margin: 0;
+  padding: 0 0 0 0.075em;
+  font-family: var(--font-family-third);
+  font-variation-settings: "wght" 700, "MONO" 1000;
+  text-transform: uppercase;
+  font-size: 0.725rem;
+  letter-spacing: 0.25em;
+ }
+p{
+}
+.tag-list{width: 25%;}
+.redac{
+  width: 75%;
 }
 
 
+}
 video{padding-left:16.5%;
   max-height: 80vh;}
 }
