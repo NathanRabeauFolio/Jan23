@@ -14,11 +14,12 @@ section: project
   <p>{{ brief }}</p>
   <h2>réponse</h2>
   <p>{{ reponse }}</p>
+
 {% if tags %}
       <div class="tag-list">
       {% for tag in tags %}
         {%- if tag != "post" -%}
-          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+          {% set tagUrl %}/project-tags/{{ tag }}/{% endset %}
           <a class="tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
         {%- endif -%}
       {% endfor %}

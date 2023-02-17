@@ -13,13 +13,15 @@ aside{
 }
 
 .toc{
-  font-family: var(--font-family-heading);
+  
   line-height: 1em;
   font-size: 1.475rem;
   font-variation-settings: "wght" 535, "wdth" 65, "opsz" 20;
   width:calc(75% - var(--site-width))!important;
   ol{
     list-style-type : upper-roman;
+    font-family: var(--font-family-heading);
+    
     ol{
       list-style-type : upper-alpha;
       font-size: 1rem;
@@ -31,6 +33,7 @@ aside{
   }
   a{color:var(--color-text);
     &:hover{border: none;}
+    font-family: var(--font-family-heading);
   }
 }
 article .color-overlay{
