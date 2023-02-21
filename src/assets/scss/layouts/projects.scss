@@ -61,6 +61,10 @@ td, th {
   border-bottom: none;
 }
 .project{position: relative;}
+h1 {
+  margin: 0;
+  text-align: center;
+}
 
 .intro{
   display: flex;
@@ -79,11 +83,6 @@ td, th {
     background-color: #FFF;
     position: absolute;
     z-index: -1;
-    
-  }
-  h1 {
-    margin: 0;
-    text-align: center;
   }
   h2 {
     margin: 0;
@@ -93,7 +92,6 @@ td, th {
     text-transform: uppercase;
     font-size: 0.725rem;
     letter-spacing: 0.25em;
-
   }
   p {
     margin-bottom: 1rem;
@@ -115,6 +113,9 @@ td, th {
   }
   .redac{
     width: 75%;
+    @media (max-width: 960px) {
+      width: 100%;
+     }
   }
   .tech{
     width: 100%;
@@ -127,6 +128,9 @@ td, th {
         padding-right: .25rem;
         margin:0;
       }
+  }
+  @media (max-width: 960px) {
+    flex-direction: column-reverse;
   }
 }
 video{padding-left:16.5%;
