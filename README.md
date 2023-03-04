@@ -3,7 +3,7 @@
 # Fernfolio — An 11ty Portfolio Template
 Launch your personal portfolio in minutes and modify content without opening a code editor!
 
-<img width="1280" alt="fernfolio screenshot" src="https://raw.githubusercontent.com/TylerMRoderick/fernfolio-11ty-template/master/fernfolio-preview.jpeg">
+<img width="1280" alt="fernfolio screenshot" src="NR-Folio-preview.jpg">
 
 ### <pre>🖥  [Demo](https://fernfolio.netlify.app/)</pre>
 
@@ -79,4 +79,4 @@ see a text link to "Generate access token in GitHub".
 This is a fun side project for me and I always welcome questions/comments. If you run into any problems or have a feature request, please open an issue. I try to read every one and will gladly assist you whenever possible.
 
 ## Credit
-*This project was originally forked from [eleventy-netlify-boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate), but completely revamped to match the needs of a modern porfolio.*
+*This project is based on the [Fernefolio](https://github.com/TylerMRoderick/fernfolio-11ty-template) template by Tyler M Roderick.*
