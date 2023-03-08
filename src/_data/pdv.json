@@ -172,35 +172,39 @@
 
     {
       "ville": "Chevaigné",
-      "prox1": "",
-      "prox2": "",
-      "prox3": "",
-      "prox4": "",
-      "prox5": ""    },
-
+      "prox1": "Mouazé Ille-et-Vilaine",
+      "prox2": "Saint-Sulpice-la-Forêt Ille-et-Vilaine",
+      "prox3": "Melesse Ille-et-Vilaine",
+      "prox4": "Saint-Aubin-d'Aubigné Ille-et-Vilaine",
+      "prox5": "Saint-Germain-sur-Ille Ille-et-Vilaine"
+    },
+    
     {
       "ville": "Saint-Jacques-de-la-Lande",
-      "prox1": "",
-      "prox2": "",
-      "prox3": "",
-      "prox4": "",
-      "prox5": ""    },
+      "prox1": "Chartres-de-Bretagne Ille-et-Vilaine",
+      "prox2": "Chavagne Ille-et-Vilaine",
+      "prox3": "Bruz Ille-et-Vilaine",
+      "prox4": "Noyal-Châtillon-sur-Seiche Ille-et-Vilaine",
+      "prox5": "Pont-Péan Ille-et-Vilaine"
+    },
 
     {
       "ville": "Le Rheu",
-      "prox1": "",
-      "prox2": "",
-      "prox3": "",
-      "prox4": "",
-      "prox5": ""    },
+      "prox1": "Vezin-le-Coquet Ille-et-Vilaine",
+      "prox2": "L'Hermitage Ille-et-Vilaine",
+      "prox3": "Pacé Ille-et-Vilaine",
+      "prox4": "Cintré Ille-et-Vilaine",
+      "prox5": "Chavagne Ille-et-Vilaine"
+    },
 
     {
       "ville": "Chartres-de-Bretagne",
-      "prox1": "",
-      "prox2": "",
-      "prox3": "",
-      "prox4": "",
-      "prox5": ""    },
+      "prox1": "Chavagne Ille-et-Vilaine",
+      "prox2": "Pont-Péan Ille-et-Vilaine",
+      "prox3": "Saint-Jacques-de-la-Lande Ille-et-Vilaine",
+      "prox4": "Bruz Ille-et-Vilaine",
+      "prox5": "Saint-Erblon Ille-et-Vilaine"
+    },
 
     {
       "ville": "Montfort-sur-Meu",
