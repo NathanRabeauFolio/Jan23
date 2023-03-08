@@ -1,0 +1,843 @@
+[
+    {
+      "ville": "Rennes",
+      "prox1": "Montgermont",
+      "prox2": "La Chapelle-des-Fougeretz",
+      "prox3": "Saint-Grégoire",
+      "prox4": "Vezin-le-Coquet",
+      "prox5": "Melesse"
+    },
+
+    {
+      "ville": "Montgermont",
+      "prox1": "La Chapelle-des-Fougeretz",
+      "prox2": "Pacé",
+      "prox3": "Saint-Grégoire",
+      "prox4": "Saint-Grégoire",
+      "prox5": "Melesse"
+    },
+
+    {
+      "ville": "La Chapelle-des-Fougeretz",
+      "prox1": "Montgermont",
+      "prox2": "Pacé",
+      "prox3": "Saint-Grégoire",
+      "prox4": "La Mézière",
+      "prox5": "Melesse"
+    },
+
+    {
+      "ville": "Saint-Grégoire",
+      "prox1": "Montgermont",
+      "prox2": "La Chapelle-des-Fougeretz",
+      "prox3": "Melesse",
+      "prox4": "Pacé",
+      "prox5": "Betton"
+    },
+
+    {
+      "ville": "Vezin-le-Coquet",
+      "prox1": "Pacé",
+      "prox2": "Le Rheu",
+      "prox3": "L'Hermitage",
+      "prox4": "Montgermont",
+      "prox5": "Saint-Gilles"
+    },
+
+    {
+      "ville": "Melesse",
+      "prox1": "Montreuil-le-Gast",
+      "prox2": "La Mézière",
+      "prox3": "Saint-Germain-sur-Ille",
+      "prox4": "Chevaigné",
+      "prox5": "La Chapelle-des-Fougeretz"
+    },
+
+    {
+      "ville": "La Mézière",
+      "prox1": "Gévezé",
+      "prox2": "Melesse",
+      "prox3": "Montreuil-le-Gast",
+      "prox4": "Vignoc",
+      "prox5": "La Chapelle-des-Fougeretz"
+    },
+
+    {
+      "ville": "Thorigné-Fouillard",
+      "prox1": "Acigné",
+      "prox2": "Cesson-Sévigné",
+      "prox3": "Noyal-sur-Vilaine",
+      "prox4": "Chevaigné",
+      "prox5": "Liffré"
+    },
+
+    {
+      "ville": "Gévezé",
+      "prox1": "Vignoc",
+      "prox2": "La Mézière",
+      "prox3": "Langouet",
+      "prox4": "Parthenay-de-Bretagne",
+      "prox5": "Saint-Gondran"
+    },
+
+    {
+      "ville": "Cesson-Sévigné",
+      "prox1": "Thorigné-Fouillard",
+      "prox2": "Chantepie",
+      "prox3": "Acigné",
+      "prox4": "Noyal-sur-Vilaine",
+      "prox5": "Brécé"
+    },
+
+    {
+      "ville": "Betton",
+      "prox1": "Chevaigné",
+      "prox2": "Melesse",
+      "prox3": "Mouazé",
+      "prox4": "Saint-Grégoire",
+      "prox5": "Saint-Sulpice-la-Forêt"
+    },
+
+    {
+      "ville": "Saint-Gilles",
+      "prox1": "Clayes",
+      "prox2": "Parthenay-de-Bretagne",
+      "prox3": "Pacé",
+      "prox4": "L'Hermitage",
+      "prox5": "Romillé"
+    },
+
+    {
+      "ville": "Vignoc",
+      "prox1": "Langouet",
+      "prox2": "Gévezé",
+      "prox3": "Montreuil-le-Gast",
+      "prox4": "Saint-Gondran",
+      "prox5": "La Mézière"
+    },
+
+    {
+      "ville": "Montreuil-le-Gast",
+      "prox1": "Vignoc",
+      "prox2": "Melesse",
+      "prox3": "La Mézière",
+      "prox4": "Saint-Germain-sur-Ille",
+      "prox5": "Saint-Gondran"
+    },
+
+    {
+      "ville": "Clayes",
+      "prox1": "Parthenay-de-Bretagne",
+      "prox2": "Saint-Gilles",
+      "prox3": "Romillé",
+      "prox4": "Pleumeleuc",
+      "prox5": "Pacé"
+    },
+
+    {
+      "ville": "Chantepie",
+      "prox1": "Cesson-Sévigné",
+      "prox2": "Noyal-Châtillon-sur-Seiche",
+      "prox3": "Vern-sur-Seiche",
+      "prox4": "Thorigné-Fouillard",
+      "prox5": "Noyal-sur-Vilaine"
+    },
+
+    {
+      "ville": "Noyal-Châtillon-sur-Seiche",
+      "prox1": "Vern-sur-Seiche",
+      "prox2": "Saint-Erblon",
+      "prox3": "Saint-Armel",
+      "prox4": "Chartres-de-Bretagne",
+      "prox5": "Pont-Péan"
+    },
+
+    {
+      "ville": "Acigné",
+      "prox1": "Noyal-sur-Vilaine",
+      "prox2": "Thorigné-Fouillard",
+      "prox3": "Brécé",
+      "prox4": "Servon-sur-Vilaine",
+      "prox5": "Cesson-Sévigné"
+    },
+
+    {
+      "ville": "L'Hermitage",
+      "prox1": "Vezin-le-Coquet",
+      "prox2": "Saint-Gilles",
+      "prox3": "Le Rheu",
+      "prox4": "La Chapelle-Thouarault",
+      "prox5": "Breteil"
+    },
+
+    {
+      "ville": "Chevaigné",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Jacques-de-la-Lande",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Le Rheu",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Chartres-de-Bretagne",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Montfort-sur-Meu",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Noyal-sur-Vilaine",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Parthenay-de-Bretagne",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Mouazé",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Symphorien",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Liffré",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Bédée",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Sulpice-la-Forêt",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Gondran",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Hédé-Bazouges",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Brécé",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Romillé",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Langouet",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Aubin-d'Aubigné",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Pleumeleuc",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Germain-sur-Ille",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Brieuc-des-Iffs",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Vern-sur-Seiche",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Pont-Péan",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "La Chapelle-Thouarault",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Tinténiac",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Mordelles",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Chavagne",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "La Chapelle-Chaussée",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Servon-sur-Vilaine",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Breteil",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Erblon",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Armel",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Gosné",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Ercé-près-Liffré",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Guipel",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Chasné-sur-Illet",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Langan",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Bruz",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Pacé",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Bréal-sous-Montfort",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Orgères",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Andouillé-Neuville",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "La Baussaine",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Les Iffs",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Domloup",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Cintré",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "La Nouaye",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Châteaubourg",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Laillé",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Nouvoitou",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Québriac",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Médard-sur-Ille",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Cardroc",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Aubigné",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Trimer",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Montauban-de-Bretagne",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Aubin-du-Cormier",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Corps-Nuds",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Domineuc",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Châteaugiron",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Guichen",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "La Bouëxière",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Bourgbarré",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Goven",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Crevin",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Irodouër",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Thurial",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Mézières-sur-Couesnon",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Le Verger",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Thual",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Longaulnay",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Feins",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Uniac",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Rives-du-Couesnon",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Talensac",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Domagné",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Saint-Didier",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Pleugueneuc",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Chanteloup",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Lassy",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Gahard",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Poligné",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Miniac-sous-Bécherel",
+      "prox1": "",
+      "prox2": "",
+      "prox3": "",
+      "prox4": "",
+      "prox5": ""    },
+
+    {
+      "ville": "Plesder",
+      "prox1": "Montgermont",
+      "prox2": "Montgermont",
+      "prox3": "Montgermont"        
+      }
+  ]

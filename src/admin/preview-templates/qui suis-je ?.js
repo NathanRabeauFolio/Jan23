@@ -19,4 +19,4 @@ const About = createClass({
   },
 });
 
-export default About;
+export default about;

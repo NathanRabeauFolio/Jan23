@@ -1,21 +1,21 @@
 ---
+layout: a-propos
 title: About Me
 subtitle: ""
 metaDescription: This page is all about me
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
 eleventyNavigation:
-  key: About
+  key: qui suis-je ?
   order: 1
 ---
-
 ### What is Fernfolio?
 An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
 
 ### Why create this?
 
 **Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
-
+<div class="col">
 **Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
 
 ### How do I edit content?

@@ -26,18 +26,19 @@ section: home
 
   {# Projects #}
   <div class="list-header">
-    <h2 class="list-header__title">Projects</h2>
-    <a class="btn btn--outline btn--sm" href="/projects">View All</a>
+    <h2 class="list-header__title">Mes Projets</h2>
+    <a class="btn btn--outline btn--sm" href="/projects">découvrir</a>
   </div>
+
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 
   {# Articles #}
   <div class="list-header">
-    <h2 class="list-header__title">Articles</h2>
-    <a class="btn btn--outline btn--sm" href="/cours">View All</a>
-   
+    <h2 class="list-header__title">Mes Contenues</h2>
+    <a class="btn btn--outline btn--sm" href="/cours">Parcourir</a>
   </div>
+  <p>Retrouvez ici quelques uns de mes cours dispensé en temps que formateur pour les écoles Digital Campus Nantes ou Pigier</p>
   {% from "macros/articlelist.njk" import articlelist %}
   {{ articlelist(
     articles = collections.post | reverse,

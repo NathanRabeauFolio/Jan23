@@ -1,6 +1,7 @@
 {
   "title": "Nathan Rabeau",
   "image": "src/assets/img/fern-in-hand.jpeg",
+  "image_portrait":"src/assets/img/portrait.jpg",
   "image_alt": "Fern in hand",
   "body": "The super simple portfolio template built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
 }

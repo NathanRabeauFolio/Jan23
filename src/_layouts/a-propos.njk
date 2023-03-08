@@ -1,0 +1,33 @@
+---
+layout: base.njk
+section: page
+---
+<div class="page-container {{ title | slug }}">
+<section class="intro">
+{% image
+        "src/assets/img/portrait.png",
+        home.image_alt,
+        "(min-width: 1024px) 50vw, 100vw",
+        "eager"
+      %}
+  <div class="intro-in">
+  <h1>{{ title }}</h1>
+  </div>
+  </section>
+  {% if subtitle %}
+    <p>{{ subtitle }}</p>
+  {% endif %}
+  {{ layoutContent | safe }}
+  
+  <section class="outro">
+  {% image
+        "src/assets/img/portrait-2.png",
+        home.image_alt,
+        "(min-width: 1024px) 50vw, 100vw",
+        "eager"
+      %}
+      <div class="outro-in">
+  <h1>{{ title }}</h1>
+  </div>
+ </section>
+</div>
