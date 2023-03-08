@@ -1,0 +1,189 @@
+---
+layout: 'base.njk'
+section: page
+pagination:
+    data: pdv
+    size: 1
+    alias: pdv
+permalink: "developpeur-proche-de-{{ pdv.ville | slugify }}/"
+---
+
+<h1>{{ pdv.ville }}</h1>
+<a href="../graphiste-proche-de-{{ pdv.prox1 | slugify }}">{{ pdv.prox1 }}</a>
+<a href="../developpeur-proche-de-{{ pdv.prox2 | slugify }}">{{ pdv.prox2 }}</a>
+<a href="../graphiste-proche-de-{{ pdv.prox3 | slugify }}">{{ pdv.prox3 }}</a>
+<a href="../developpeur-proche-de-{{ pdv.prox4 | slugify }}">{{ pdv.prox4 }}</a>
+<a href="../graphiste-proche-de-{{ pdv.prox5 | slugify }}">{{ pdv.prox5 }}</a>
+<div class="col" id="map" style="width:320px; height:320px">
+</div>
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1t5qpyT1mkOXLqghKgk0m7pKjx1JyQ1Y&callback=initMap"
+async defer></script>
+
+
+<script>
+    
+    var map;
+    
+    async function fetchJSONData(url){
+        var response =await fetch(url)
+        if (response.status == 200) {
+            let data=await  response.json();
+            //console.log(data);
+            return data;
+        } else {
+            throw new HttpError(response);
+        }
+    }
+    function initMap(lat=48.1159343,lng=-1.6884435,city1="{{ pdv.ville }}",
+												   city2="Ille-et-Vilaine",
+					  							   citylocal="{{ pdv.ville }}") {
+        var myLatLng = {lat: lat, lng: lng};			
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 10.5,
+            center: myLatLng,
+            mapTypeId: 'terrain',
+            disableDefaultUI: true,
+		
+
+        });
+        fetchJSONData("https://nominatim.openstreetmap.org/search.php?q="+city1+"&polygon_geojson=1&format=json")
+        .then(function(jsn){
+            var type = jsn[0].geojson.type;
+            if(type == "MultiPolygon"){
+                var cordLen = jsn[0].geojson.coordinates.length;
+                for (var j = 0; j < cordLen; j++){
+                    var triangleCoords = []; 
+                    var len = jsn[0].geojson.coordinates[j][0].length;
+                    for(var i = 0; i < len; i++){
+                        var obj = new Object();
+                        obj.lat = jsn[0].geojson.coordinates[j][0][i][1];
+                        obj.lng = jsn[0].geojson.coordinates[j][0][i][0];
+                        triangleCoords.push(obj);
+                    }
+                    var bermudaTriangle = new google.maps.Polygon({
+                        paths: triangleCoords,
+                        strokeColor: '#4C90D1',
+                        strokeOpacity: 0,
+                        strokeWeight: 2,
+                        fillColor: '#4C90D1',
+                        fillOpacity: 0.2
+                    });
+                    bermudaTriangle.setMap(map);
+                }
+            }
+            else if(type == "Polygon"){
+                var len = jsn[0].geojson.coordinates[0].length;
+                var triangleCoords = []; 
+                for(var i = 0; i < len; i++){
+                    var obj = new Object();
+                    obj.lat = jsn[0].geojson.coordinates[0][i][1];
+                    obj.lng = jsn[0].geojson.coordinates[0][i][0];
+                    triangleCoords.push(obj);
+                }
+                var bermudaTriangle = new google.maps.Polygon({
+                  paths: triangleCoords,
+                  strokeColor: '#4C90D1',
+                  strokeOpacity: 0,
+                  strokeWeight: 4,
+                  fillColor: '#4C90D1',
+                  fillOpacity: 0.5
+                });
+                bermudaTriangle.setMap(map);
+            }
+			});
+		fetchJSONData("https://nominatim.openstreetmap.org/search.php?q="+city2+"&polygon_geojson=1&format=json")
+        .then(function(jsn){
+            var type = jsn[0].geojson.type;
+            if(type == "MultiPolygon"){
+                var cordLen = jsn[0].geojson.coordinates.length;
+                for (var j = 0; j < cordLen; j++){
+                    var triangleCoords = []; 
+                    var len = jsn[0].geojson.coordinates[j][0].length;
+                    for(var i = 0; i < len; i++){
+                        var obj = new Object();
+                        obj.lat = jsn[0].geojson.coordinates[j][0][i][1];
+                        obj.lng = jsn[0].geojson.coordinates[j][0][i][0];
+                        triangleCoords.push(obj);
+                    }
+                    var bermudaTriangle = new google.maps.Polygon({
+                        paths: triangleCoords,
+                        strokeColor: '#4C90D1',
+                        strokeOpacity: 0,
+                        strokeWeight: 2,
+                        fillColor: '#4C90D1',
+                        fillOpacity: 0
+                    });
+                    bermudaTriangle.setMap(map);
+                }
+            }
+            else if(type == "Polygon"){
+                var len = jsn[0].geojson.coordinates[0].length;
+                var triangleCoords = []; 
+                for(var i = 0; i < len; i++){
+                    var obj = new Object();
+                    obj.lat = jsn[0].geojson.coordinates[0][i][1];
+                    obj.lng = jsn[0].geojson.coordinates[0][i][0];
+                    triangleCoords.push(obj);
+                }
+                var bermudaTriangle = new google.maps.Polygon({
+                  paths: triangleCoords,
+                  strokeColor: '#4C90D1',
+                  strokeOpacity: 0,
+                  strokeWeight: 4,
+                  fillColor: '#4C90D1',
+                  fillOpacity: 0.5
+                });
+                bermudaTriangle.setMap(map);
+            }
+			});
+		
+		fetchJSONData("https://nominatim.openstreetmap.org/search.php?q="+citylocal+"&polygon_geojson=1&format=json")
+        .then(function(jsn){
+            var type = jsn[0].geojson.type;
+            if(type == "MultiPolygon"){
+                var cordLen = jsn[0].geojson.coordinates.length;
+                for (var j = 0; j < cordLen; j++){
+                    var triangleCoords = []; 
+                    var len = jsn[0].geojson.coordinates[j][0].length;
+                    for(var i = 0; i < len; i++){
+                        var obj = new Object();
+                        obj.lat = jsn[0].geojson.coordinates[j][0][i][1];
+                        obj.lng = jsn[0].geojson.coordinates[j][0][i][0];
+                        triangleCoords.push(obj);
+                    }
+                    var bermudaTriangle = new google.maps.Polygon({
+                        paths: triangleCoords,
+                        strokeColor: '#4C90D1',
+                        strokeOpacity: 0,
+                        strokeWeight: 2,
+                        fillColor: '#4C90D1',
+                        fillOpacity: 0.2
+                    });
+                    bermudaTriangle.setMap(map);
+                }
+            }
+            else if(type == "Polygon"){
+                var len = jsn[0].geojson.coordinates[0].length;
+                var triangleCoords = []; 
+                for(var i = 0; i < len; i++){
+                    var obj = new Object();
+                    obj.lat = jsn[0].geojson.coordinates[0][i][1];
+                    obj.lng = jsn[0].geojson.coordinates[0][i][0];
+                    triangleCoords.push(obj);
+                }
+                var bermudaTriangle = new google.maps.Polygon({
+                  paths: triangleCoords,
+                  strokeColor: '#4C90D1',
+                  strokeOpacity: 0,
+                  strokeWeight: 4,
+                  fillColor: '#3172B6',
+                  fillOpacity: 0.5
+                });
+                bermudaTriangle.setMap(map);
+            }
+			});
+		}
+  </script>
