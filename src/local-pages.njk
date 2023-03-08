@@ -4,12 +4,12 @@ pagination:
     data: pdv
     size: 1
     alias: pdv
-permalink: "{{ pdv.ville | slug }}/"
+permalink: "{{ pdv.ville | slugify }}/"
 ---
 
 <h1>{{ pdv.ville }}</h1>
-<a href="../{{ pdv.prox1 | slug }}">{{ pdv.prox1 }}</a>
-<a href="../{{ pdv.prox2 | slug }}">{{ pdv.prox2 }}</a>
-<a href="../{{ pdv.prox3 | slug }}">{{ pdv.prox3 }}</a>
-<a href="../{{ pdv.prox4 | slug }}">{{ pdv.prox4 }}</a>
-<a href="../{{ pdv.prox5 | slug }}">{{ pdv.prox5 }}</a>
+<a href="../{{ pdv.prox1 | slugify }}">{{ pdv.prox1 }}</a>
+<a href="../{{ pdv.prox2 | slugify }}">{{ pdv.prox2 }}</a>
+<a href="../{{ pdv.prox3 | slugify }}">{{ pdv.prox3 }}</a>
+<a href="../{{ pdv.prox4 | slugify }}">{{ pdv.prox4 }}</a>
+<a href="../{{ pdv.prox5 | slugify }}">{{ pdv.prox5 }}</a>
