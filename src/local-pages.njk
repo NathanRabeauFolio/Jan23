@@ -140,7 +140,7 @@ async defer></script>
             }
 			});
 		
-		fetchJSONData("https://nominatim.openstreetmap.org/search.php?q="+citylocal+"&polygon_geojson=1&format=json")
+		fetchJSONData("https://nominatim.openstreetmap.org/search.php?q="+R1655027+"&polygon_geojson=1&format=json")
         .then(function(jsn){
             var type = jsn[0].geojson.type;
             if(type == "MultiPolygon"){
