@@ -1,7 +1,7 @@
 ---
 title: Design et révolution numérique 
 date: 2020-01-01T08:00:00.000Z
-summary: L'histoire du design graphique est une étude fascinante de la mode, des styles et des idéaux. C'est aussi une chronique de personnes et d'événements qui ont changé notre vision du monde. 
+summary: Les années 1990 ont été marquées par une révolution dans le monde de la publication assistée par ordinateur. La possibilité pour tout un chacun d'utiliser un ordinateur pour réalisé des design de qualité professionnelle a donné naissance à une nouvelle ère de conception graphique. 
 tags:
   - Histoire du graphisme
   - Culture G

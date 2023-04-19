@@ -9,8 +9,8 @@ permalink: "cours{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumbe
 metaDescription: A sample Blog page listing various posts.
 subtitle: A collection of technical blog posts and random thoughts
 eleventyNavigation:
-  key: Cours
-  order: 2
+  key: Mes Contenus
+  order: 3
 ---
 
 

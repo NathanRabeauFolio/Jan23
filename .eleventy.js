@@ -21,9 +21,6 @@ module.exports = function (eleventyConfig) {
     wrapper: 'nav',
   });
   
-  
-
-
   // Markdown
   eleventyConfig.setLibrary(
     'md',
