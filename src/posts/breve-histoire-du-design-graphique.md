@@ -118,10 +118,41 @@ Le mouvement Arts and Crafts est né des théories de Ruskin. William Morris en 
 
 
 ### Esthétisme (1870-1914)
+
+| ![Hishikawa Moronobu Un jeune homme avec deux courtisanes 1682](/src/assets/img/Hishikawa-Moronobu-Young-Man-with-Two-Courtesans-1682.jpg) |
+|:--:|
+|*Hishikawa Moronobu • Un jeune homme avec deux courtisanes • 1682*|
+
+| ![Kitagawa Utamaro portrait d’une courtisane fin XVIIIe](/src/assets/img/Kitagawa-Utamaro-portrait-d-une-courtisane-fin-des-annees-1700.jpg) |
+|:--:|
+|*Kitagawa Utamaro • portrait d’une courtisane • fin XVIIIe*|
+
+| ![Aubrey Beardsley • Illustration pour «Salomé» d’Oscar Wilde • 1894](/src/assets/img/Aubrey-Beardsley-2.jpg) |
+|:--:|
+|*Aubrey Beardsley • Illustration pour «Salomé» d’Oscar Wilde • 1894*|
+
+| ![Aubrey Beardsley • Illustration pour «Salomé» d’Oscar Wilde • 1894](/src/assets/img/Aubrey-Beardsley-theClimax.jpg) |
+|:--:|
+|*Aubrey Beardsley • Illustration pour «Salomé» d’Oscar Wilde • 1894*|
+
+
 L'esthétisme a poussé plus loin l'idée de l'Arts and Crafts, en séparant l'art de la moralité et de l'utilité. Victor Cousin, philosophe français, a introduit le concept "l'art pour l'art" dès 1818. Le mouvement recherchait la beauté idéale et voulait éloigner l'art du commerce et de l'industrie. Oscar Wilde, écrivain, et Aubrey Beardsley, illustrateur, en étaient d'éminents représentants. Beardsley a notamment illustré la pièce de Wilde "Salomé" en 1894, mêlant le style curviligne de l'Art Nouveau à des formes contrastées inspirées des estampes japonaises.
 
+| ![Eugène Grasset La semeuse pour Larousse 1890](/src/assets/img/Larousse-Grasset-1.jpg) |
+|:--:|
+|*Eugène Grasset • La semeuse pour Larousse • 1890*|
+
 ### Art Nouveau (1890-1910)
+
+| ![Hector Guimard Le Castel Béranger 1900](/src/assets/img/Guimard-Castel.jpg) |
+|:--:|
+|*Hector Guimard • Le Castel Béranger • 1900*|
+
 L'Art Nouveau a été directement inspiré par les mouvements Arts and Crafts et esthétique. Influencé par les estampes japonaises, il privilégiait les formes naturelles et les motifs contrastés. Victor Horta, architecte belge, a initié le style en architecture avec des réalisations telles que la Maison Tassel. L'Art Nouveau a touché tous les domaines, y compris les marques General Electric et Coca-Cola, dont les logos ont été conçus dans ce style et sont encore utilisés aujourd'hui avec seulement de légères modifications.
+
+| ![A. L. Rich Logotype pour General Electric 1890](/src/assets/img/General_Electric_1930_last.jpg) |
+|:--:|
+|*A. L. Rich • Logotype pour General Electric • 1890*|
 
 L'Art Nouveau a également trouvé une expression exubérante dans l'œuvre de l'artiste français Henri de Toulouse-Lautrec. Les progrès de l'impression commerciale ont permis de reproduire des graphismes et des couleurs sans perte de qualité, encourageant des artistes comme Toulouse-Lautrec à travailler dans ce médium. L'inspiration des estampes japonaises est visible dans "La Goulue" de Toulouse-Lautrec, avec l'utilisation de couleurs plates et de lignes. L'affiche intègre également des avancées typographiques et des observations personnelles de l'artiste, offrant de nouvelles possibilités expressives pour le design graphique.
 
