@@ -166,7 +166,7 @@ Tassel-100_xgaplus.jpg
 |:--:|
 |*A. L. Rich • Logotype pour General Electric • 1890*|
 
-| ![A. L. Rich Logotype pour General Electric 1890](/src/assets/img/Coca-Cola.jpg) |
+| ![A. L. Rich Logotype pour General Electric 1890](/src/assets/img/coca-cola.jpg) |
 |:--:|
 |*A. L. Rich • Logotype pour General Electric • 1890*|
 
