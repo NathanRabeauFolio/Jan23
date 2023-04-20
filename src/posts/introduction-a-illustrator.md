@@ -1,10 +1,11 @@
 ---
 title: Introduction à Illustrator
 date: 2020-01-01T08:00:00.000Z
-summary: L'histoire du design graphique est une étude fascinante de la mode, des styles et des idéaux. C'est aussi une chronique de personnes et d'événements qui ont changé notre vision du monde. 
+summary: Adobe Illustrator est le logiciel de référence pour la conception graphique vectorielle. Dans ce cours, vous apprendrez toutes ses fonctionnalités essentielles pour libérer votre créativité et maîtriser le logiciel de graphisme vectoriel le plus puissant !. 
 tags:
-  - Histoire du graphisme
-  - Culture G
+  - savoir-faire technique
+  - logiciel
+  - débutant
 image: /assets/img/illustrator-intro.jpg
 imageAlt: This is a test
 color: f5712a

@@ -15,4 +15,6 @@ eleventyNavigation:
 
 
 Un peu sur mes contenus, mais pas trop.
-Ces supports aident mes élève à construire une base solide du processus de création efficace et des compétences de recherche pour recueillir et analyser des informations pour des projets créatifs. À l'issue de cet enseignement, vous serez en mesure de développer vos propres concepts originaux en examinant les précédents historiques, les théories pertinentes et les styles actuels.
+Ces supports aident mes élève à construire une base solide du processus de création efficace et des compétences de recherche pour recueillir et analyser des informations pour des projets créatifs. 
+À l'issue de cet enseignement, mes élève de BTS, Bachelore ou Master sont mesure de développer et réaliser leurs propres projets originaux en examinant les précédents historiques, des théories graphiques pertinentes et les styles graphiques d'aujourd'hui.
+Mes formations couvrent aussi l'utilisation des logiciels incontournables de la suite Adobe, tels que Photoshop, InDesign et Illustrator, pour permettre de maîtriser la mise en page, la retouche d'images, création graphique et la réalisation divers supports de communication.

@@ -4,55 +4,56 @@ date: 2020-01-01T08:00:00.000Z
 summary: Dans ce cours, vous verrez l'évolution du design, en commençant par le début du 20e siècle, lorsque la machine a été intégrée à l'industrialisation, puis le mouvement des arts et de l'artisanat et plus tard, dans la première moitié du 20e siècle, la façon dont le design a évolué.
 tags:
   - Histoire du graphisme
-  - Culture G
+  - Chronologie
+  - Culture de l'image
+  - Débutant
 image: /assets/img/histoire-de-laffiche.jpg
 color: dcc599
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/histoire-de-laffiche.jpg) |
 |:--:|
 
-Le design graphique a été façonné par des circonstances sociales, culturelles, politiques et technologiques tout au long de son évolution. Les hiéroglyphes égyptiens ont été créés pour enregistrer l'histoire, gravés dans la pierre pour durer une éternité. L'impression sur bois en Chine a commencé au IIIe siècle comme méthode d'impression sur tissu, rendant la reproduction de textes et d'images économiquement possible.
+Le design graphique a été façonné par des circonstances sociales, culturelles, politiques et technologiques tout au long de son évolution. On peut faire remonter l'histoire de la communication visuelle aux hiéroglyphes égyptiens créés pour consigner faits et croyances, gravés dans la pierre pour durer une éternité. Le passage au supports imprimés à lieu en Chine, où L'impression sur bois commence au IIIe siècle d'abord sur tissu, rendant la reproduction de textes et d'images matériellement possible.
 
 | ![Billet de banque et sa Matrice dynastie yuan xylographiee 1287](/src/assets/img/billet-de-banque-dynastie-yuan-xylographiee-1287.jpg) |
 |:--:|
 |*Billet de banque + Matrice • dynastie yuan xylographiee • 1287*|
 
-Le papier, inventé en Chine pour remplacer l'impression sur tissu, est devenu un substitut aux parchemins en Occident au VIIIe siècle. Les premiers livres reliés entièrement en papier sont rapidement apparus au Moyen-Orient, leurs pages protégées de l'humidité en étant aplaties les unes contre les autres. Bien que les Chinois aient commencé les processus d'impression, les Bibles européennes ont continué d'être écrites à la plume pendant des siècles. Ce processus laborieux était un rite religieux pour les moines qui servaient de copistes, d'éditeurs et d'enseignants, jusqu'à ce que Johannes Gutenberg imprime une Bible avec des caractères mobiles. Chaque innovation reflétait les besoins culturels et économiques de la société qui l'a produite.
+Le papier, inventé en Chine pour remplacer l'impression sur tissu, est devenu un substitut aux parchemins en Occident au VIIIe siècle. Les premiers livres reliés entièrement en papier sont rapidement apparus au Moyen-Orient, leurs pages protégées de l'humidité en étant aplaties les unes contre les autres. Bien que les Chinois aient commencé les processus d'impression, les Bibles européennes ont continué d'être reproduit à la plume pendant des siècles. Ce processus laborieux était un rite religieux pour les moines qui servaient de copistes, d'éditeurs et d'enseignants, jusqu'à ce que Johannes Gutenberg imprime une Bible avec des caractères mobiles.
 
 | ![Johaness Gutemberg bible 1455](/src/assets/img/gutenberg-bible-1455.jpg) |
 |:--:|
 |*Johaness Gutemberg • bible • 1455*|
 
-L'imagination des designers graphiques est guidée par les innovations et les besoins de la société contemporaine ; leurs créations reflètent les mondes sociaux, culturels et politiques dans lesquels ils vivent. En regardant en arrière l'histoire de leur art, les designers graphiques peuvent mieux comprendre leur propre travail dans un contexte plus large. Comme dans tout domaine, connaître l'histoire donne la connaissance et la liberté d'innover et de grandir.
+L'imagination des designers graphiques est guidée par les innovations et les besoins de la société contemporaine ; leurs créations et leurs pratique de leur métiers d'art reflètent les mutations sociales, culturelles et politiques dont ils sont témoins. Connaitre l'histoire de la conception graphique, permet aux infographistes, maquettiste et directeurs artistiques d'aujourd'hui de mieux comprendre leur propre travail et nourrir leurs pratiques créatives. Comme dans tout domaine, la connaissance de l'histoire est requise pour d'ouvrir son regard, developper son talent et être pertinent.
 
 ## Expansion industrielle
 
-Une accélération de la technologie a commencé à prendre forme en Europe à la fin des années 1700, lorsque les économies sont passées du travail manuel à la production basée sur les machines. Des inventions telles que la machine à vapeur, perfectionnée par James Watt (1736-1819), ont contribué à stimuler cette révolution industrielle, en particulier en Angleterre. Dès les années 1850, l'économie nationale anglaise était dominée par l'industrie, et sa structure de pouvoir passait des propriétaires terriens aux industriels. À mesure que les gens affluaient dans les villes pour travailler dans les usines, leur pouvoir d'achat augmentait. Les produits proposés ont suivi le rythme, tout comme la publicité. Les journaux, les magazines et les affiches se sont développés.
+Une accélération de la technologie a commencé à prendre forme en Europe à la fin des années 1700, lorsque les économies sont passées du travail manuel une production basée sur la machine. Des inventions telles que la machine à vapeur, perfectionnée par James Watt (1736-1819), ont contribué à stimuler cette révolution industrielle, en particulier en Angleterre. Dès les années 1850, l'économie nationale anglaise était dominée par l'industrie, et sa structure de pouvoir passait des propriétaires terriens aux industriels. À mesure que les gens affluaient dans les villes pour travailler dans les usines, leur pouvoir d'achat augmentait. Les produits proposés ont suivi le rythme, tout comme la publicité. Les journaux, les magazines et les affiches se sont développés parallèlement à une forme plus massive de consomation
 
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Inconnue-Affiche-Excursion-Train-1876.jpg) |
 |:--:|
 |*Prospectus pour excursion en train • 1876.*|
 
-Pour les inventeurs européens, l'Angleterre était une opportunité. Nicholas Robert (1761-1828) de France a conçu sa première machine pour fabriquer du papier en rouleau en 1799, ce qui a conduit à des brevets et à un développement ultérieur en Angleterre par les frères Fourdrinier. L'impression à vapeur a rapidement suivi, introduite au Times de Londres en 1814 par l'Allemand Friedrich Koenig (1774-1833). La fabrication du papier et la vitesse de presse ont réduit le coût des promotions imprimées, les rendant plus accessibles au public. Par conséquent, la conception des publicités et des prospectus est devenue une activité spécialisée, considérée comme distincte de l'impression et de la production. Les possibilités commerciales et artistiques se sont développées à mesure que la technologie disponible pour les designers progressait.
+Pour les inventeurs européens, le continent souffrant s'embourbant dans l'épopée napoléonniene, l'Angleterre était une opportunité. Le Français Nicolas Robert par exemple a conçu sa première machine pour fabriquer du papier en rouleau en 1799, un brevets amelioré ultérieur  par les frères Fourdrinier. L'impression à vapeur a rapidement suivi, introduite au journal du Times de Londres en 1814 par l'Allemand Friedrich Koenig (1774-1833). La fabrication du papier et la vitesse des presses ont alors réduit le coût d'impressions, les rendant plus accessibles au public. Par conséquent, la conception des publicités, prospectus et autres supports imprimés est devenue une activité spécialisée, considérée comme distincte de la production industrielle. L'ouvrier imprimeur se vivant comme une petite aristocratie ouvriere consciente de sa position particulière dans la société du XIXe siècle.
 
 | ![Rotative Wilhelm Koenig 1876](/src/assets/img/rotative-Wilhelm-koenig-1876.jpg) |
 |:--:|
 |*Rotative Wilhelm Koenig • 1876.*|
 
-
-Le premier cliché photographique permanent a été réalisé en 1826 par l'inventeur français [Joseph Nicéphore Niépce](https://fr.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce) (1765-1833). Le partenaire de Niépce, Louis-Jacques-Mandé Daguerre (1787-1851), a perfectionné l'invention en accélérant le processus de développement de huit heures à trente minutes et en inventant un moyen de fixer l'image sur la plaque argentée exposée.
+Outre les technologies de press, l'invention de la photographie à particulièrement armée le domaine naissant de la création visuelle. Le premier cliché photographique permanent a été réalisé en 1826 par l'inventeur français [Joseph Nicéphore Niépce](https://fr.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce) (1765-1833). Le partenaire de Niépce, Louis-Jacques-Mandé Daguerre (1787-1851), a perfectionné l'invention en racourcissant le processus d'exposition du sujet photographié de huit heures à trente minutes et en inventant un moyen de fixer l'image sur la plaque argentée.
 
 | ![Joseph Nicéphore Niépce Point de vue du Gras Héliogravure 1826.](/src/assets/img/joseph-nicephore-Niepce-oint-de-vue-du-gras-heliogravure-1826.jpg) |
 |:--:|
 |*Joseph Nicéphore Niépce, • Point de vue du Gras Héliogravure • 1826.*|
 
+Developpé en 1839, le daguerréotype, terme désignant ce type de photographie ancienne, permet pour la première fois de capter l'évenement. Notons cependant que, les photographies semblaient d'abord irréelles pour un grand public le temps de pause, encore long, materialisant souvent des silhouettse phantomatiques. La pratique de la retouche phtographique ainsi que les premiers photomontages comme ceux d'Ernest et Eugène Appert (1830-1905) témoigne de conflits de perception de ce nouveau medium entre l'authentique et la fiction.
+
 | ![Alphonse Liébert La colonne Vendôme Daguerréotype 1871.](/src/assets/img/alphonse-liebert-place-vendome-1871.jpg) |
 |:--:|
 |*Alphonse Liébert • La colonne Vendôme • Daguerréotype • 1871.*|
 
-En 1839, l'invention du daguerréotype, terme désignant ce type de photographie ancienne, a été officiellement annoncée. Les photographies semblaient d'abord irréelles pour un grand public habitué aux illustrations faites à la main. Cependant, les entreprises de presse et les annonceurs ont rapidement commencé à s'appuyer sur des photographies publiées pour vendre leurs journaux et produits.
-
-Un autre développeur précoce du procédé photographique, le scientifique anglais William Henry Fox Talbot (1800-1877), a créé une image négative à partir de laquelle un nombre illimité de tirages sur papier (appelés calotypes) pouvaient être réalisés. Talbot était non seulement un scientifique, écrivain et photographe brillant, mais aussi un designer graphique. Sa publication "The Pencil of Nature" était le premier livre illustré par des photographies, et la planche 6, intitulée "The Open Door", est un exemple de communication significative créée grâce à ce nouveau médium.
+Le perfectionnement du procédé photographique passe le scientifique anglais William Henry Fox Talbot (1800-1877). Ainsi invente t'il une image négative à partir de laquelle un nombre illimité de tirages sur papier (appelés calotypes) pouvaient être réalisés. Talbot publie en outre "The Pencil of Nature" que l'on retient comme le premier livre illustré par des photographies, et une planche en particulier, intitulée "The Open Door", est un exemple notoire de l'utilisation d'un medium moderne, mais reprend formellement la composition de peintures néerlandaise du XVIIe siècle.
 
 | ![William Henry Fox Talbot Spécimen de plantes Photogramme 1839](/src/assets/img/william-henry-fox-talbot-plantes-photogramme-1839.jpg) |
 |:--:|
@@ -62,7 +63,7 @@ Un autre développeur précoce du procédé photographique, le scientifique angl
 |:--:|
 |*William Henry Fox Talbot • The Open Door • 1844*|
 
-La composition typographique évoluait également. Jusqu'au XIXe siècle, l'impression était principalement limitée aux livres. La révolution industrielle a entraîné une demande de brochures imprimées, d'annonces de produits et d'affiches publicitaires. Une variété de caractères d'affichage en bois a vu le jour, ainsi que des catalogues de spécimens de caractères. Jusque-là, les prospectus ressemblaient aux pages de titre des livres, les caractères de livre simplement agrandis. Deux fondateurs anglais de caractères typographiques du XVIIIe siècle sont William Caslon (1692-1766), dont le caractère de 1724 était si distinct et lisible qu'il a été utilisé pour la Déclaration d'indépendance, et l'imprimeur John Baskerville (1706-1775), dont les caractères ont été adoptés par le gouvernement américain pour ses publications.
+La composition typographique évoluait également. Jusqu'au XIXe siècle, l'impression était principalement limitée aux livres. La révolution industrielle a entraîné une demande de brochures imprimées, d'annonces de produits et d'affiches publicitaires. Une grande variété de caractères typo d'affichage en bois a vu le jour comme en témoigne le developement de catalogues de spécimens de typographique. Jusque-là, les prospectus ressemblaient aux pages de titre des livres, les caractères simplement agrandis en reprenant des fonts créer au XVIIIe par William Caslon (1692-1766), John Baskerville (1706-1775) ou Giambattista Bodoni (1740-1813).
 
 | ![Henry Caslon Ionic-type-specimen milieux-1840s](/src/assets/img/Henry-Caslon-Ionic-type-specimen-mid-1840s.jpg) |
 |:--:|
@@ -72,7 +73,7 @@ La composition typographique évoluait également. Jusqu'au XIXe siècle, l'impr
 |:--:|
 |*Robert Thorne • fat-face-types • 1821*|
 
-En matière de publicité, de nouveaux caractères d'affichage étaient introduits. Les caractères Slab Serif britanniques ont été conçus pour aider les informations à se démarquer de manière notable. Ces caractères ont été utilisés sur des brochures, des affiches et tout ce qui avait de courtes longueurs de texte. Le typographe britannique Robert Thorne (d. 1820) a inventé le terme "Egyptian serifs" pour décrire ces épais Slab Serifs parce que les formes des lettres rappelaient le poids et la lourdeur des hiéroglyphes. En 1803, Thorne a développé ce qu'il a appelé les caractères Fat Face, qui avaient un aspect et un poids encore plus audacieux que les caractères égyptiens. Les Fat Faces plaisaient aux annonceurs en raison de l'impact qu'ils créaient sur la page. De nombreuses variantes des Fat Faces ont rapidement suivi, notamment des italiques inclinées vers l'avant et vers l'arrière, des lettres en ligne, ombrées et en relief tridimensionnel.
+Les caractères Slab Serif britanniques ont été conçus pour aider les informations à se démarquer de manière notable. Ces caractères ont été utilisés sur des brochures, des affiches et tout ce qui avait de courtes longueurs de texte. Le typographe britannique Robert Thorne (d. 1820) a inventé le terme "Egyptian serifs" pour décrire ces épais Slab Serifs parce que les formes des lettres rappelaient le poids et la lourdeur des hiéroglyphes. En 1803, Thorne a développé ce qu'il a appelé les caractères Fat Face, qui avaient un aspect et un poids encore plus audacieux que les caractères égyptiens. Les Fat Faces plaisaient aux annonceurs en raison de l'impact qu'ils créaient sur la page. De nombreuses variantes des Fat Faces ont rapidement suivi, notamment des italiques inclinées vers l'avant et vers l'arrière, des lettres en ligne, ombrées et en relief tridimensionnel.
 
 La composition des livres a également évolué avec la demande croissante, car l'alphabétisation augmentait. En 1886, l'inventeur allemand Ottmar Mergenthaler (1854-1899) a perfectionné ce qu'il a appelé sa "machine Linotype". Le processus mécanique de composition des caractères a transformé l'industrie. La composition manuelle lente des caractères, lettre par lettre, a été remplacée par des caractères composés à partir d'un clavier et transmis à une série de matrices contenant des lettres en laiton, qui ont moulé des lignes de caractères en plomb en relief (appelées "line o' type").
 
