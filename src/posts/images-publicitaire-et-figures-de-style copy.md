@@ -11,6 +11,15 @@ color: 009da7
 ---
 | ![Etude de mains - Baccio Bandinelli](/src/assets/img/figures-de-style-intro.jpg) |
 |:--:|
+
+Dans le domaine de la rhétorique, les figures de style sont des procédés employés par les orateurs et écrivains pour persuader leur auditoire et enrichir leur discours. Les techniques littéraires, telles que les figures de rhétorique, ont leurs racines dans la tradition grecque et ont été développées par des penseurs tels qu'Aristote, Socrate et Cicéron. Les figures de style sont utilisées dans divers genres, notamment en littérature et dans l'art oratoire, pour renforcer l'argumentation et capter l'attention du destinataire.
+
+Les figures de style incluent des procédés tels que l'allégorie, la métaphore, la synecdoque, l'oxymore, l'anaphore et la litote. Ces techniques rhétoriques sont employées pour créer des effets stylistiques et soutenir l'argumentation dans des textes argumentatifs ou des discours persuasifs.
+
+En mettant l'accent sur le fait que les figures de style nourrissent également la rhétorique publicitaire, il est important de repérer ces techniques lors de campagnes publicitaires, d'affiches ou de spots télévisés. Les figures de style, telles que la métaphore, la personnification ou l'hyperbole, sont couramment utilisées pour capter l'attention du consommateur et renforcer le message publicitaire.
+
+En somme, les figures de style sont des outils essentiels pour les orateurs, les écrivains et les penseurs qui cherchent à persuader leur auditoire, à développer leur éloquence et à enrichir leur discours. Les différentes figures de style et leurs effets rhétoriques permettent de créer des textes argumentatifs, persuasifs et littéraires qui traversent le temps et marquent l'histoire de la rhétorique.
+
 ## LES FIGURES D'ADJONCTION
 
 ### Accumulation
