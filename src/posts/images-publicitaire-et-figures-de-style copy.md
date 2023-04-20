@@ -3,7 +3,7 @@ title: Images publicitaire et figures de style 2
 date: 2020-01-01T08:00:00.000Z
 summary: L'histoire du design graphique est une étude fascinante de la mode, des styles et des idéaux. C'est aussi une chronique de personnes et d'événements qui ont changé notre vision du monde. En raison de tout cela, c'est une base importante pour les étudiants et les professionnels
 tags:
-  - Culture de l'image
+  - Culture de l˙image
   - Communication publicitaire
   - Réthorique visuelle
 image: /assets/img/figures-de-style-intro.jpg

@@ -5,7 +5,7 @@ summary: Dans ce cours, vous verrez l'évolution du design, en commençant par l
 tags:
   - Histoire du graphisme
   - Chronologie
-  - Culture de l'image
+  - Culture de l˙image
   - Débutant
 image: /assets/img/histoire-de-laffiche.jpg
 color: dcc599

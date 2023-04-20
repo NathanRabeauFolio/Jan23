@@ -4,7 +4,7 @@ date: 2020-01-01T08:00:00.000Z
 summary: Les années 1990 ont été marquées par une révolution dans le monde de la publication assistée par ordinateur. La possibilité pour tout un chacun d'utiliser un ordinateur pour réalisé des design de qualité professionnelle a donné naissance à une nouvelle ère de conception graphique. 
 tags:
   - Histoire du graphisme
-  - Culture de l'image
+  - Culture de l˙image
   - Aller plus loins
 image: /assets/img/digital-cours.jpg
 imageAlt: This is a test
