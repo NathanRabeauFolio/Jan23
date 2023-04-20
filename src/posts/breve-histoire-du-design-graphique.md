@@ -73,9 +73,9 @@ La composition typographique évoluait également. Jusqu'au XIXe siècle, l'impr
 |:--:|
 |*Robert Thorne • fat-face-types • 1821*|
 
-Les caractères Slab Serif britanniques ont été conçus pour aider les informations à se démarquer de manière notable. Ces caractères ont été utilisés sur des brochures, des affiches et tout ce qui avait de courtes longueurs de texte. Le typographe britannique Robert Thorne (d. 1820) a inventé le terme "Egyptian serifs" pour décrire ces épais Slab Serifs parce que les formes des lettres rappelaient le poids et la lourdeur des hiéroglyphes. En 1803, Thorne a développé ce qu'il a appelé les caractères Fat Face, qui avaient un aspect et un poids encore plus audacieux que les caractères égyptiens. Les Fat Faces plaisaient aux annonceurs en raison de l'impact qu'ils créaient sur la page. De nombreuses variantes des Fat Faces ont rapidement suivi, notamment des italiques inclinées vers l'avant et vers l'arrière, des lettres en ligne, ombrées et en relief tridimensionnel.
+Les caractères à empatement carré britanniques ont été conçus pour permettre aux textes de se démarquer de manière notable. Ces caractères ont été utilisés sur des brochures, des affiches et tout ce qui avait de courtes longueurs de texte comme des titres et des accroches. Le typographe britannique Robert Thorne (1753–1820) a inventé le terme "Egyptian serifs" pour décrire ces épais empatement parce que les formes des lettres rappelaient la lourdeur des hiéroglyphes. En 1803, Thorne a développé ce qu'il a appelé les caractères Fat Face, qui avaient un aspect et une graisse encore plus audacieux que les caractères égyptiens. Les Fat Faces plaisaient aux annonceurs en raison de l'impact qu'ils créaient sur la page. De nombreuses variantes des Fat Faces ont rapidement suivi, notamment des italiques inclinées vers l'avant et vers l'arrière, des lettres en ligne, ombrées et en relief tridimensionnel.
 
-La composition des livres a également évolué avec la demande croissante, car l'alphabétisation augmentait. En 1886, l'inventeur allemand Ottmar Mergenthaler (1854-1899) a perfectionné ce qu'il a appelé sa "machine Linotype". Le processus mécanique de composition des caractères a transformé l'industrie. La composition manuelle lente des caractères, lettre par lettre, a été remplacée par des caractères composés à partir d'un clavier et transmis à une série de matrices contenant des lettres en laiton, qui ont moulé des lignes de caractères en plomb en relief (appelées "line o' type").
+La composition des livres et journaux a également évolué avec la demande croissante, car l'alphabétisation augmentait. En 1886, l'inventeur allemand Ottmar Mergenthaler (1854-1899) a perfectionné ce qu'il a appelé sa "machine Linotype". La composition manuelle lente des caractères, lettre par lettre, a été remplacée par des caractères composés à partir d'un clavier et transmis à une série de matrices contenant des lettres en laiton, qui ont moulé des lignes de caractères en plomb en relief (appelées "line o' type").
 
 | ![Ottmar Mergenthaler The-Model-5-Linotype 1906](/src/assets/img/The-Model-5-Linotype.jpg) |
 |:--:|
@@ -83,13 +83,15 @@ La composition des livres a également évolué avec la demande croissante, car 
 
 
 ### Une réponse au tournant du siècle face à l˙industrialisation
-La révolution industrielle a provoqué une réaction de la part des artistes, écrivains et critiques sociaux qui s'opposaient à la déshumanisation engendrée par la mécanisation. Parmi eux, John Ruskin, écrivain et peintre britannique, qui défendait le style gothique pour contrer la production de masse. Ses idées ont inspiré un renouveau gothique en Angleterre et en Amérique, avec des réalisations architecturales majeures, telles que le Brooklyn Bridge, conçu par l'immigrant allemand John Augustus Roebling. Ce pont, avec ses arches en ogive, contrastait avec le système de suspension en fil d'acier, technologie de pointe de l'époque.
+La révolution industrielle a provoqué une réaction de la part des artistes, écrivains et observateur contemporains qui s'opposaient à la déshumanisation engendrée par la mécanisation. Parmi eux, John Ruskin, écrivain et peintre britannique, défend le style gothique pour contrer la production de masse. Ses idées ont inspiré un renouveau gothique en Angleterre et en Amérique, avec des réalisations architecturales majeures, telles que le Brooklyn Bridge, conçu par l'immigrant allemand John Augustus Roebling. Ce pont, avec ses arches en ogive, contrastait avec le système de suspension en fil d'acier, technologie de pointe de l'époque.
 
 | ![John Augustus Roebling pont de Brooklyn 1869-83](/src/assets/img/brooklyn-bridge.jpg) |
 |:--:|
 |*John Augustus Roebling • pont de Brooklyn • 1869-83*|
 
 ### Mouvement Arts and Crafts (1880-1910)
+
+Le mouvement Arts and Crafts est né des théories de Ruskin. Ce mouvement prônait la beauté et la satisfaction du travail manuel et l'importance des formes artisanales dans l'art et le design. Morris a lui-même créé des meubles, du papier peint, de la céramique, des textiles et des vitraux, reflétant sa philosophie.
 
 | ![Morris and Company Buffet peint 1861](/src/assets/img/Cabinet-design-for-Morris-and-Company.jpg) |
 |:--:|
@@ -99,11 +101,12 @@ La révolution industrielle a provoqué une réaction de la part des artistes, �
 |:--:|
 |*William Morris • Tapisserie aux Roses • 1883*|
 
+William Morris en était le leader, promouvant un retour aux formes naturelles de l'époque médiévale. Il a fondé la Kelmscott Press, qui a produit de magnifiques livres imprimés, tels que "The Canterbury Tales", pour lesquels Morris a conçu les trois caractères typographiques utilisés (Golden, Troy et Chaucer).
+
 | ![William Morris Colophon Kelmscoot Press 1892](/src/assets/img/Kelmscoot_Press_Colophon-1.jpg) |
 |:--:|
 |*William Morris • Colophon Kelmscoot Press • 1892*|
 
-Le mouvement Arts and Crafts est né des théories de Ruskin. William Morris en était le leader, promouvant un retour aux formes naturelles de l'époque médiévale. Il a fondé la Kelmscott Press, qui a produit de magnifiques livres imprimés, tels que "The Canterbury Tales", pour lesquels Morris a conçu les trois caractères typographiques utilisés (Golden, Troy et Chaucer). Le mouvement prônait la beauté et la satisfaction du travail manuel et l'importance des formes artisanales dans l'art et le design. Morris a lui-même créé des meubles, du papier peint, de la céramique, des textiles et des vitraux, reflétant sa philosophie.
 | ![William Morris The Poem of Percy Bysshe Shelly 1895](/src/assets/img/William-Morris-title-Percy-Bysshe-Shelly.jpg) |
 |:--:|
 |*William Morris • The Poem of Percy Bysshe Shelly • 1895*|
@@ -117,16 +120,9 @@ Le mouvement Arts and Crafts est né des théories de Ruskin. William Morris en 
 |*C. H. St. John Hornby • la légende de Saint François d’Assise • 1922*|
 
 
-
 ### Esthétisme (1870-1914)
 
-| ![Hishikawa Moronobu Un jeune homme avec deux courtisanes 1682](/src/assets/img/Hishikawa-Moronobu-Young-Man-with-Two-Courtesans-1682.jpg) |
-|:--:|
-|*Hishikawa Moronobu • Un jeune homme avec deux courtisanes • 1682*|
-
-| ![Kitagawa Utamaro portrait d’une courtisane fin XVIIIe](/src/assets/img/Kitagawa-Utamaro-portrait-d-une-courtisane-fin-des-annees-1700.jpg) |
-|:--:|
-|*Kitagawa Utamaro • portrait d’une courtisane • fin XVIIIe*|
+L'esthétisme a poussé plus loin l'idée de l'Arts and Crafts, en séparant l'art de la moralité et de l'utilité. Victor Cousin, philosophe français, a introduit le concept "l'art pour l'art" dès 1818.
 
 | ![Aubrey Beardsley • Illustration pour «Salomé» d’Oscar Wilde • 1894](/src/assets/img/Aubrey-Beardsley-2.jpg) |
 |:--:|
@@ -136,8 +132,11 @@ Le mouvement Arts and Crafts est né des théories de Ruskin. William Morris en 
 |:--:|
 |*Aubrey Beardsley • Illustration pour «Salomé» d’Oscar Wilde • 1894*|
 
+ Le mouvement recherchait la beauté idéale et voulait éloigner l'art commercial et industriel. Oscar Wilde, écrivain, et Aubrey Beardsley, illustrateur, en étaient d'éminents représentants. Beardsley a notamment illustré la pièce de Wilde "Salomé" en 1894, inspirées des estampes japonaises comme le sera en parallèle l'Art Nouveau mêlant le style curviligne et formes contrastées .
 
-L'esthétisme a poussé plus loin l'idée de l'Arts and Crafts, en séparant l'art de la moralité et de l'utilité. Victor Cousin, philosophe français, a introduit le concept "l'art pour l'art" dès 1818. Le mouvement recherchait la beauté idéale et voulait éloigner l'art du commerce et de l'industrie. Oscar Wilde, écrivain, et Aubrey Beardsley, illustrateur, en étaient d'éminents représentants. Beardsley a notamment illustré la pièce de Wilde "Salomé" en 1894, mêlant le style curviligne de l'Art Nouveau à des formes contrastées inspirées des estampes japonaises.
+| ![Kitagawa Utamaro portrait d’une courtisane fin XVIIIe](/src/assets/img/Kitagawa-Utamaro-portrait-d-une-courtisane-fin-des-annees-1700.jpg) |
+|:--:|
+|*Kitagawa Utamaro • portrait d’une courtisane • fin XVIIIe*|
 
 | ![Eugène Grasset La semeuse pour Larousse 1890](/src/assets/img/Larousse-Grasset-1.jpg) |
 |:--:|
@@ -145,13 +144,29 @@ L'esthétisme a poussé plus loin l'idée de l'Arts and Crafts, en séparant l'a
 
 ### Art Nouveau (1890-1910)
 
-| ![Hector Guimard Le Castel Béranger 1900](/src/assets/img/Guimard-Castel.jpg) |
+Privilegiant lui aussi les formes naturelles et les jeux de formes et contre-formes, L'Art Nouveau se developpe conjointement aux courant Esthetique. Il trouve ses racines notament dans des pratiques architecturals
+
+
+Tassel-100_xgaplus.jpg
+
+
+| ![Victor Horta Hotel Tassel 1893](/src/assets/img/Tassel-100_xgaplus.jpg) |
+|:--:|
+|*Victor Horta • Hotel Tassel • 1893*|
+
+ Victor Horta, architecte belge, a initié le style en architecture avec des réalisations telles que la Maison Tassel. En France on peut noter les réalisation d'Hector Guimard et son Castel Béranger, ou encore la bouche de métro de la station Porte Dauphine à Paris.
+ 
+ | ![Hector Guimard Le Castel Béranger 1900](/src/assets/img/Guimard-Castel.jpg) |
 |:--:|
 |*Hector Guimard • Le Castel Béranger • 1900*|
-
-L'Art Nouveau a été directement inspiré par les mouvements Arts and Crafts et esthétique. Influencé par les estampes japonaises, il privilégiait les formes naturelles et les motifs contrastés. Victor Horta, architecte belge, a initié le style en architecture avec des réalisations telles que la Maison Tassel. L'Art Nouveau a touché tous les domaines, y compris les marques General Electric et Coca-Cola, dont les logos ont été conçus dans ce style et sont encore utilisés aujourd'hui avec seulement de légères modifications.
+ 
+ L'Art Nouveau a touché tous les domaines, y compris celui du branding avec General Electric et Coca-Cola, dont les logos ont été conçus dans ce style et sont encore utilisés aujourd'hui avec seulement de légères modifications.
 
 | ![A. L. Rich Logotype pour General Electric 1890](/src/assets/img/General_Electric_1930_last.jpg) |
+|:--:|
+|*A. L. Rich • Logotype pour General Electric • 1890*|
+
+| ![A. L. Rich Logotype pour General Electric 1890](/src/assets/img/Coca-Cola.jpg) |
 |:--:|
 |*A. L. Rich • Logotype pour General Electric • 1890*|
 
