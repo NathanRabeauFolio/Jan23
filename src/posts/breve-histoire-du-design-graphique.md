@@ -146,10 +146,6 @@ L'esthétisme a poussé plus loin l'idée de l'Arts and Crafts, en séparant l'a
 
 Privilegiant lui aussi les formes naturelles et les jeux de formes et contre-formes, L'Art Nouveau se developpe conjointement aux courant Esthetique. Il trouve ses racines notament dans des pratiques architecturals
 
-
-Tassel-100_xgaplus.jpg
-
-
 | ![Victor Horta Hotel Tassel 1893](/src/assets/img/Tassel-100_xgaplus.jpg) |
 |:--:|
 |*Victor Horta • Hotel Tassel • 1893*|
@@ -166,30 +162,107 @@ Tassel-100_xgaplus.jpg
 |:--:|
 |*A. L. Rich • Logotype pour General Electric • 1890*|
 
-| ![A. L. Rich Logotype pour General Electric 1890](/src/assets/img/coca-cola.jpg) |
+| ![Frank Mason Robinson Logo Coca-Cola 1887](/src/assets/img/coca-cola.jpg) |
 |:--:|
-|*A. L. Rich • Logotype pour General Electric • 1890*|
+|*Frank Mason Robinson • Logo Coca-Cola • 1887*|
 
-L'Art Nouveau a également trouvé une expression exubérante dans l'œuvre de l'artiste français Henri de Toulouse-Lautrec. Les progrès de l'impression commerciale ont permis de reproduire des graphismes et des couleurs sans perte de qualité, encourageant des artistes comme Toulouse-Lautrec à travailler dans ce médium. L'inspiration des estampes japonaises est visible dans "La Goulue" de Toulouse-Lautrec, avec l'utilisation de couleurs plates et de lignes. L'affiche intègre également des avancées typographiques et des observations personnelles de l'artiste, offrant de nouvelles possibilités expressives pour le design graphique.
+L'Art Nouveau a également trouvé une expression exubérante dans l'œuvre de l'artiste français Henri de Toulouse-Lautrec. Les progrès de l'impression commerciale ont permis de reproduire des graphismes et des couleurs sans perte de qualité, encourageant des artistes comme Toulouse-Lautrec à travailler dans ce médium. L'inspiration des estampes japonaises est visible dans "La Goulue" de Toulouse-Lautrec, avec l'utilisation de couleurs en applat et de lignes claire.
+
+| ![Henri de Toulouse-Lautrec Affiche la Goulue 1891](/src/assets/img/lautrec-laGoulue.jpg) |
+|:--:|
+|*Henri de Toulouse-Lautrec • Affiche la Goulue • 1891*|
+
+L'affiche intègre également des avancées typographiques notament dans l'integration des lettres à même le visuel, une inovation qui sera notamment employé par Jules Chéret.
+
+| ![Jules Chéret affiche publicitaire pour le papier à cigarette Job 1900](/src/assets/img/Affiche_papier_cigarettes_job.jpg) |
+|:--:|
+|*Jules Chéret • affiche publicitaire pour le papier à cigarette Job • 1900*|
+
+Autre affichiste essentiel de la période, relevons le travail d'Alphonse Mucha (1860-1939) dont les affiches raffinée sont caractérisée par des motifs floraux, des courbes gracieuses et des formes naturelles. Ses œuvres sont souvent ornées de figures féminines élégantes rappelant les "Chérette" de son collègue, enveloppées dans des drapés fluides et des cheveux ondulés.
+
+| ![Alphonse Mucha Affiche pour Job 1898](/src/assets/img/job-alphonse-mucha.jpg) |
+|:--:|
+|*Alphonse Mucha • Affiche pour Job • 1898*|
 
 ## Vers une sensibilité moderne
-Au début du XXe siècle, la vie quotidienne est devenue plus complexe, et les innovations dans tous les domaines ont été influencées par des concepts abstraits. En conséquence, les artistes se sont concentrés sur les qualités intrinsèques de leur médium, comme la ligne, la forme et la couleur, et ont adopté l'abstraction. Cette approche a également touché l'architecture, qui s'est affranchie des styles historiques.
+Au début du XXe siècle, la vie quotidienne est devenue plus complexe, et les innovations dans tous les domaines ont été influencées par des concepts abstraits, pensons à la relativité restreinte est la théorie élaborée par Albert Einstein en 1905. Dans cette periode intellectuellement troublante les artistes se sont concentrés sur les qualités intrinsèques de leur médium, comme la ligne, la forme et la couleur, et ont peu à peu adopté l'abstraction.
 
-Henri van de Velde, formé en Belgique, a apporté une sensibilité moderne au design graphique. Influencé par William Morris et l'Art Nouveau, il a adopté une attitude contemporaine en regardant vers l'avenir. Son affiche pour le concentré alimentaire Tropon illustre cette modernité, avec des formes abstraites et des motifs géométriques.
+| ![Henri van de Velde Affiche pour Tropon 1899](/src/assets/img/tropon-2.jpg) |
+|:--:|
+|*Henri van de Velde • Affiche pour Tropon • 1899*|
 
-L'architecture et le design graphique ont commencé à partager des sensibilités abstraites et modernes. Charles Rennie Mackintosh et Frank Lloyd Wright ont intégré cette nouvelle géométrie dans leurs œuvres. Peter Behrens, architecte et graphiste allemand, a également adopté cette approche en travaillant pour AEG, où il a conçu le logotype et une police de caractères spécifique pour l'entreprise, ainsi que des produits industriels, faisant de lui le premier designer industriel. Ses réalisations ont contribué à l'émergence d'un style moderne basé sur la proportion, la géométrie et l'abstraction.
+Henri van de Velde, formé en Belgique, a apporté une sensibilité moderne au design graphique. Son affiche pour le concentré alimentaire Tropon illustre cette modernité, avec des formes abstraites et des motifs géométriques.
 
-Les architectes Walter Gropius, Ludwig Mies van der Rohe et Le Corbusier, qui ont travaillé avec Behrens, ont poursuivi cette approche logique et systématique tout au long du XXe siècle.
+| ![Charles Rennie Mackintosh Affiche pour la scottish Musical Review 1896](/src/assets/img/GlaswMakintosh.jpg) |
+|:--:|
+|*Charles Rennie Mackintosh • Affiche pour la scottish Musical Review • 1896*|
+
+| ![Charles Rennie Mackintosh Chaise 1903](/src/assets/img/Makintosh-Chaise.jpg) |
+|:--:|
+|*Charles Rennie Mackintosh • Chaise • 1903*|
+
+| ![Peter Behrens Mise en page pour Fêtes de la vie et de l’art une réflexion sur le théâtre en tant que symbole culturel suprême 1900](/src/assets/img/Behrens-1900.jpg) |
+|:--:|
+|*Peter Behrens • Mise en page pour Fêtes de la vie et de l’art : une réflexion sur le théâtre en tant que symbole culturel suprême • 1900*|
+
+Charles Rennie Mackintosh et Frank Lloyd Wright ont intégré cette nouvelle géométrie dans leurs œuvres. Peter Behrens, architecte et graphiste allemand, a également adopté cette approche en travaillant pour AEG, où il a conçu le logotype et une police de caractères spécifique pour l'entreprise, ainsi que des produits industriels, faisant de lui le premier designer industriel. Ses réalisations ont contribué à l'émergence d'un style moderne basé sur la proportion, la géométrie et l'abstraction.
+
+| ![Peter Behrens Logotype pour Allgemeine Elektricitäts-Gesellschaft 1907](/src/assets/img/aeg-logo.jpg) |
+|:--:|
+|*Peter Behrens •  Logotype pour Allgemeine Elektricitäts-Gesellschaft • 1907*|
+
+| ![Peter Behrens affiche pour AEG 1910](/src/assets/img/Behers-Aeg-Affiche.jpg) |
+|:--:|
+|*Peter Behrens • affiche pour AEG • 1910*|
+
 
 ### Le monde moderne
-L'œuvre et les écrits de l'artiste Paul Cézanne (1839-1906) ont contribué à déterminer la direction que prendrait l'abstraction visuelle. Son insistance sur les formes de base - le cylindre, la sphère et le cône - a eu un impact considérable sur le monde de l'art. Les graphistes, influencés par Cézanne, ont assimilé les principes de l'abstraction et du retour aux formes de base, apportant cette nouvelle pensée au design dans les couvertures de livres, les timbres-poste, les affiches, les emballages, les marques et la signalisation.
+L'œuvre de l'artiste Paul Cézanne (1839-1906) ont contribué à déterminer la direction que prendrait l'abstraction visuelle. Son insistance sur les formes de base - le cylindre, la sphère et le cône - a eu un impact considérable sur le monde de l'art.
 
-L'art de l'affiche du jeune designer Lucian Bernhard a eu des effets considérables sur l'approche réductionniste du design graphique. La soumission de Bernhard pour un concours organisé par Priester Matches a éliminé des parties d'une image plus grande qu'il avait créée. La table, la nappe et les danseuses ont été noircies jusqu'à ce qu'il ne reste plus que le produit annoncé, les allumettes et le nom, Priester. Le jury qui a examiné ce design l'a d'abord rejeté, mais l'un des jurés, un imprimeur nommé Ernst Growald, a vu le génie dans ce design. Il a convaincu ses collègues jurés qu'il devait remporter le premier prix, et ainsi est né l'affiche moderne. Une attitude d'"économie de moyens" a été instaurée, et une telle approche allait continuer à prospérer, influencée par des influences politiques et culturelles, tout au long du reste du siècle.
+| ![Paul Cezanne La Montagne Sainte Victoire 1885](/src/assets/img/Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg) |
+|:--:|
+|*Paule Cezanne • La Montagne Sainte Victoire • 1885*|
+
+Les graphistes, influencés par Cézanne, ont assimilé les principes de l'abstraction et du retour aux formes de base, apportant cette nouvelle pensée au design dans les couvertures de livres, les timbres-poste, les affiches, les emballages, les marques et la signalisation.
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Priester.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+L'art de l'affiche du jeune designer Lucian Bernhard a eu des effets considérables sur l'approche réductionniste du design graphique. D'abord rejeté, un imprimeur nommé Ernst Growald, a vu le génie dans ce design. Une attitude d'"économie de moyens" qui allait continuer à prospérer.
 
 ### Cubisme (1907-1921)
-L'artiste Pablo Picasso (1882-1973) a été grandement influencé par l'œuvre et les paroles de Cézanne. Picasso a combiné la philosophie de Cézanne avec son propre intérêt pour les qualités abstraites et brutes de l'art africain traditionnel. Les peintures et les sculptures de Picasso ont conduit au développement du cubisme, l'un des mouvements artistiques les plus influents du XXe siècle. Son tableau emblématique Les Demoiselles d'Avignon comportait des figures décomposées en formes semi-abstraites. Picasso a montré ces formes figurales sous plusieurs points de vue simultanément, remettant ainsi en question les notions établies de point de vue, de réalité, de temps et d'espace. Cette peinture a été achevée juste après la publication de la théorie de la relativité restreinte d'Einstein, qui explorait de nouvelles théories de l'espace et du temps. Gertrude Stein (1874-1946), une amie proche de Picasso, a utilisé les mêmes théories sur l'espace et le temps simultanés dans son écriture. Le compositeur Erik Satie (1866-1925) a également adopté des concepts similaires dans sa musique, revisitant les mêmes thèmes musicaux sous différents angles. Il a collaboré avec Picasso sur le ballet Parade. Les arts visuels, la littérature, la musique et la science évoluaient et s'influençaient mutuellement.
+L'artiste Pablo Picasso (1882-1973) a été grandement influencé par l'œuvre et les paroles de Cézanne.
 
-Un autre artiste et ami, Georges Braque (1882-1963), a particulièrement apprécié la manière dont le cubisme a rejeté toutes les techniques du passé (perspective, raccourci, modelage, clair-obscur) et a aidé Picasso à concevoir un nouveau mouvement artistique. Ensemble, Braque et Picasso ont peint une nouvelle réalité qui a laissé de côté les théories artistiques précédemment respectées. Le cubisme ne cherchait pas à imiter la nature. Sa nouvelle approche pouvait être appliquée à tous les arts, tant les beaux-arts que les arts appliqués, leur donnant la liberté d'interpréter la forme et l'espace d'une nouvelle manière. C'était une rupture totale avec le passé et offrait l'occasion d'explorer la créativité d'une manière jamais expérimentée auparavant.
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/incarnations_ngbaka.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+Picasso a combiné la philosophie de Cézanne avec son propre intérêt pour les qualités abstraites et brutes de l'art africain traditionnel. Les peintures et les sculptures de Picasso ont conduit au développement du cubisme, l'un des mouvements artistiques les plus influents du XXe siècle.
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Picasso_demoiselles_davignon.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+Son tableau emblématique Les Demoiselles d'Avignon comportait des figures décomposées en formes semi-abstraites. Picasso a montré ces formes figurales sous plusieurs points de vue simultanément, remettant ainsi en question les notions établies de point de vue, de réalité, de temps et d'espace. Cette peinture a été achevée juste après la publication de la théorie de la relativité restreinte d'Einstein, qui explorait de nouvelles théories de l'espace et du temps. Gertrude Stein (1874-1946), une amie proche de Picasso, a utilisé les mêmes théories sur l'espace et le temps simultanés dans son écriture. Le compositeur Erik Satie (1866-1925) a également adopté des concepts similaires dans sa musique, revisitant les mêmes thèmes musicaux sous différents angles.
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Costumes_du_ballet_Parade.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+Il a collaboré avec Picasso sur le ballet Parade. Les arts visuels, la littérature, la musique et la science évoluaient et s'influençaient mutuellement.
+
+Un autre artiste et ami, Georges Braque (1882-1963), a particulièrement apprécié la manière dont le cubisme a rejeté toutes les techniques du passé (perspective, raccourci, modelage, clair-obscur) et a aidé Picasso à concevoir un nouveau mouvement artistique.
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/braque-viaduc-de-lestaque-1907-1908.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/picasso-maison-s-sur-la-colline-a-Horta-de-Ebreo-1909.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+Ensemble, Braque et Picasso ont peint une nouvelle réalité qui a laissé de côté les théories artistiques précédemment respectées. Le cubisme ne cherchait pas à imiter la nature. Sa nouvelle approche pouvait être appliquée à tous les arts, tant les beaux-arts que les arts appliqués, leur donnant la liberté d'interpréter la forme et l'espace d'une nouvelle manière. C'était une rupture totale avec le passé et offrait l'occasion d'explorer la créativité d'une manière jamais expérimentée auparavant.
 
 ### Futurisme (1910-1918)
 Les artistes, graphistes et typographes ont également trouvé une nouvelle liberté dans un mouvement artistique appelé Futurisme. Le poète et écrivain Filippo Marinetti (1876-1944) a fondé le mouvement en 1909 avec un manifeste qui proclamait: «Le mouvement et la lumière détruisent la matérialité des corps.» Le langage visuel de Marinetti était basé sur la science plutôt que sur les formes classiques. Dans son poème de 1919 «Les mots en liberté», le chaos de la guerre, le bruit et la vitesse étaient intégrés dans la poésie visuelle de la page. Les alignements horizontaux et verticaux de la typographie avaient disparu. Les lettres étaient utilisées comme objets expressifs, et la page imprimée comme une œuvre d'art.
