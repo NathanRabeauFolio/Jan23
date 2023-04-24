@@ -244,7 +244,7 @@ Picasso a combiné la philosophie de Cézanne avec son propre intérêt pour les
 |:--:|
 |*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
 
-Son tableau emblématique Les Demoiselles d'Avignon comportait des figures décomposées en formes semi-abstraites. Picasso a montré ces formes figurales sous plusieurs points de vue simultanément, remettant ainsi en question les notions établies de point de vue, de réalité, de temps et d'espace. Cette peinture a été achevée juste après la publication de la théorie de la relativité restreinte d'Einstein, qui explorait de nouvelles théories de l'espace et du temps. Gertrude Stein (1874-1946), une amie proche de Picasso, a utilisé les mêmes théories sur l'espace et le temps simultanés dans son écriture. Le compositeur Erik Satie (1866-1925) a également adopté des concepts similaires dans sa musique, revisitant les mêmes thèmes musicaux sous différents angles.
+Son tableau emblématique Les Demoiselles d'Avignon comportait des figures décomposées en formes semi-abstraites. Picasso a montré ces formes figurales sous plusieurs points de vue simultanément, remettant ainsi en question les notions établies de point de vue, de réalité, de temps et d'espace. Cette peinture a été achevée juste après la publication de la théorie de la relativité restreinte d'Einstein, qui explorait de nouvelles théories de l'espace et du temps. Le compositeur Erik Satie (1866-1925) a également adopté des concepts similaires dans sa musique, revisitant les mêmes thèmes musicaux sous différents angles.
 
 | ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Costumes_du_ballet_Parade.jpg) |
 |:--:|
@@ -265,17 +265,65 @@ Un autre artiste et ami, Georges Braque (1882-1963), a particulièrement appréc
 Ensemble, Braque et Picasso ont peint une nouvelle réalité qui a laissé de côté les théories artistiques précédemment respectées. Le cubisme ne cherchait pas à imiter la nature. Sa nouvelle approche pouvait être appliquée à tous les arts, tant les beaux-arts que les arts appliqués, leur donnant la liberté d'interpréter la forme et l'espace d'une nouvelle manière. C'était une rupture totale avec le passé et offrait l'occasion d'explorer la créativité d'une manière jamais expérimentée auparavant.
 
 ### Futurisme (1910-1918)
-Les artistes, graphistes et typographes ont également trouvé une nouvelle liberté dans un mouvement artistique appelé Futurisme. Le poète et écrivain Filippo Marinetti (1876-1944) a fondé le mouvement en 1909 avec un manifeste qui proclamait: «Le mouvement et la lumière détruisent la matérialité des corps.» Le langage visuel de Marinetti était basé sur la science plutôt que sur les formes classiques. Dans son poème de 1919 «Les mots en liberté», le chaos de la guerre, le bruit et la vitesse étaient intégrés dans la poésie visuelle de la page. Les alignements horizontaux et verticaux de la typographie avaient disparu. Les lettres étaient utilisées comme objets expressifs, et la page imprimée comme une œuvre d'art.
+Les artistes, graphistes et typographes ont également trouvé une nouvelle liberté dans un mouvement artistique appelé Futurisme. Le poète et écrivain Filippo Marinetti (1876-1944) a fondé le mouvement en 1909 avec un manifeste qui proclamait: «Le mouvement et la lumière détruisent la matérialité des corps.» Le langage visuel de Marinetti était basé sur la science plutôt que sur les formes classiques.
 
-L'œuvre de deux graphistes, E. McKnight Kauffer (1890-1954) et A.M. Cassandre (1901-1968), illustre l'influence du futurisme sur les arts appliqués. Kauffer, un expatrié américain qui fut l'un des designers d'affiches les plus influents en Europe dans les années 1920 et 1930, a utilisé la dynamique du mouvement pour créer une affiche pour le journal progressiste anglais Daily Herald. Des oiseaux fragmentés, clairement influencés par le cubisme, s'envolent du haut de la page, débordant d'énergie, surtout en contraste avec la grande étendue d'espace vide au centre de l'affiche. Cassandre, un célèbre graphiste français, a intégré la typographie et l'image dans une composition énergisée pour L'Intransigeant, où des fils de télégraphe mènent directement à l'oreille d'un visage abstrait. Là encore, les attributs futuristes du mouvement et de la vitesse sont fusionnés avec l'abstraction cubiste. Le résultat est un hybride de styles au service de l'art appliqué de la promotion.
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/mots-en-liberte.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+Dans son poème de 1919 «Les mots en liberté», le chaos de la guerre, le bruit et la vitesse étaient intégrés dans la poésie visuelle de la page. Les alignements horizontaux et verticaux de la typographie avaient disparu. Les lettres étaient utilisées comme objets expressifs, et la page imprimée comme une œuvre d'art.
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Soaring_to_Success_The_Early_Bird_1918.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+L'œuvre de deux graphistes, E. McKnight Kauffer (1890-1954) et A.M. Cassandre (1901-1968), illustre l'influence du futurisme sur les arts appliqués. Kauffer, un expatrié américain qui fut l'un des designers d'affiches les plus influents en Europe dans les années 1920 et 1930, a utilisé la dynamique du mouvement pour créer une affiche pour le journal progressiste anglais Daily Herald. Des oiseaux fragmentés, clairement influencés par le cubisme, s'envolent du haut de la page, débordant d'énergie, surtout en contraste avec la grande étendue d'espace vide au centre de l'affiche.
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/cassandre.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+Cassandre, un célèbre graphiste français, a intégré la typographie et l'image dans une composition énergisée pour L'Intransigeant, où des fils de télégraphe mènent directement à l'oreille d'un visage abstrait. Là encore, les attributs futuristes du mouvement et de la vitesse sont fusionnés avec l'abstraction cubiste. Le résultat est un hybride de styles au service de l'art appliqué de la promotion.
 
 ### Suprématisme (1915-1934)
-En Russie, l'artiste Kazimir Malevich (1878-1935) a qualifié le mélange du cubisme avec le futurisme de Cubo-Futurisme. À la fois fracturé et énergisé, sa distillation a conduit au tableau Suprématiste de Malevich (Huit rectangles rouges). Le suprématisme, un mouvement artistique conçu par Malevich, signifiait "la suprématie du sentiment pur dans l'art créatif". Son mouvement a lancé une forme d'art qui éliminait complètement les objets et la représentation. La composition est devenue une abstraction géométrique pure et suggérait une sorte de spiritualité métaphysique, une quête d'une vérité supérieure. Réduire tout à l'essentiel était une façon de recommencer dans les arts visuels, tout comme la révolution bolchevique de 1917 cherchait à recommencer en nivelant la société en une organisation sociale sans classe et sans État. Le suprématisme, avec sa croyance en une forme et un concept purs, continue d'influencer les arts visuels aujourd'hui.
+En Russie, l'artiste Kazimir Malevich (1878-1935) a qualifié le mélange du cubisme avec le futurisme de Cubo-Futurisme.
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/remouleur.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Suprematist_Composition.jpg) |
+|:--:|
+|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+
+À la fois fracturé et énergisé, sa distillation a conduit au tableau Suprématiste de Malevich (Huit rectangles rouges). Le suprématisme, un mouvement artistique conçu par Malevich, signifiait "la suprématie du sentiment pur dans l'art créatif". Son mouvement a lancé une forme d'art qui éliminait complètement les objets et la représentation. La composition est devenue une abstraction géométrique pure et suggérait une sorte de spiritualité métaphysique, une quête d'une vérité supérieure. Réduire tout à l'essentiel était une façon de recommencer dans les arts visuels, tout comme la révolution bolchevique de 1917 cherchait à recommencer en nivelant la société en une organisation sociale sans classe et sans État. Le suprématisme, avec sa croyance en une forme et un concept purs, continue d'influencer les arts visuels aujourd'hui.
 
 ### Dada (1916-1923)
-La Première Guerre mondiale (1914-1918) a été menée avec des mitrailleuses, des chars, des avions et du gaz empoisonné. Cette mécanisation a déclenché un niveau de destruction que le monde n'avait jamais vu auparavant. Le mouvement Dada était une réaction des artistes face à un monde qu'ils considéraient comme devenu fou. Des perspectives alternatives, y compris l'ironie, l'irrationalité et même l'anarchie, semblaient être de meilleurs choix que la logique et la raison qui avaient conduit à de telles horreurs indicibles. Les dadaïstes ont rejeté toutes les traditions et les normes de l'art ; leurs publications et manifestes, tous écrits par Tristan Tzara (1896-1963), affirmaient que quoi que l'art représente, Dada représentait le contraire. Cet esprit absurde a commencé dans un petit cabaret en Suisse, mais s'est répandu, établissant des bases en Allemagne, en France et aux États-Unis.
+La Première Guerre mondiale (1914-1918) a été menée avec des mitrailleuses, des chars, des avions et du gaz empoisonné. Cette mécanisation a déclenché un niveau de destruction que le monde n'avait jamais vu auparavant. Le mouvement Dada était une réaction des artistes face à un monde qu'ils considéraient comme devenu fou. Des perspectives alternatives, y compris l'ironie, l'irrationalité et même l'anarchie, semblaient être de meilleurs choix que la logique et la raison qui avaient conduit à de telles horreurs indicibles.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/CoeraBarbe.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/7eme-face-du-de.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+Les dadaïstes ont rejeté toutes les traditions et les normes de l'art ; leurs publications et manifestes, tous écrits par Tristan Tzara (1896-1963), affirmaient que quoi que l'art représente, Dada représentait le contraire. Cet esprit absurde a commencé dans un petit cabaret en Suisse, mais s'est répandu, établissant des bases en Allemagne, en France et aux États-Unis.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/hoche1.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/hoche2.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
 
 En Allemagne, l'artiste dadaïste Hannah Höch (1889-1978) a apporté une perspective féministe à son travail. Elle fut l'une des pionnières du photomontage. Dans ses photomontages, Höch dépeignait ironiquement la culture de la beauté dans la photographie de mode en contraste avec des images de perfection féminine et des photos de vraies femmes. Dans son travail, elle a échangé des têtes et des corps et a fusionné le texte des journaux avec des images de journaux pour critiquer la culture dominée par les hommes de la République de Weimar et refléter le dégoût dadaïste pour le nationalisme allemand.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/aiz.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
 
 ### Surréalisme (1924-1955)
 Alors que le mouvement Dada touchait à sa fin, un autre mouvement artistique du XXe siècle naissait : le surréalisme, qui basait ses investigations sur des images psychologiquement fondées, notamment celles qui provoquaient choc et surprise. Le travail d'analyse des rêves mené par Sigmund Freud (1856-1939) nourrissait ce mouvement ; l'exploration de l'inconscient devenait un nouveau territoire pour les artistes. L'œuvre de l'artiste dada américain Man Ray (1890-1976) marquait une transition du dadaïsme au surréalisme.
