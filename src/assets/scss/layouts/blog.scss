@@ -461,3 +461,17 @@ section:has(.article-card){
     color: var(--color-secondary);
   }
 }
+
+.letter{position: absolute;
+top: 50px;
+left: 12px;
+z-index: 10;
+width: 20vw;
+}
+
+.abstract{
+  position: absolute;
+  right: -10vw;
+  top: 30vh;
+  z-index: -1;
+}

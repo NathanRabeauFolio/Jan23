@@ -330,33 +330,111 @@ Alors que le mouvement Dada touchait à sa fin, un autre mouvement artistique du
 
 Emmanuel Radnitzky (1890-1976) a changé son nom en Man Ray à cause de l'antisémitisme répandu aux États-Unis à l'époque. Le groupe d'artistes qu'il cofonda s'appelait "Others", reflétant son affinité avec les artistes fuyant la Première Guerre mondiale en Europe. Man Ray rencontra Marcel Duchamp, qui vint à New York en 1915. Il suivit Duchamp à Paris en 1921, convaincu que son esprit créatif y prospérerait. Cela se vérifia, notamment grâce à un processus photographique sans appareil photo qu'il appela les "rayographies".
 
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/manray-sol.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/02-Manraym-L-2.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+
 Dans Champs Délicieux, Man Ray étendit les possibilités de la photographie en tant que médium expressif. Par pure inventivité, il créa des formes et des ombres qui scintillent avec une apparence tridimensionnelle, un effet qu'il obtint en déplaçant des faisceaux de lumière sur le papier photo.
 
-L'impact du surréalisme sur le design graphique a été profond, tant visuellement que conceptuellement. L'affiche de Man Ray pour le métro de Londres a montré comment la théorie surréaliste pouvait être appliquée au design graphique. Ici, l'analogie faite entre le logo et une planète crée une communication efficace et humoristique. Malheureusement, les médias de masse ont exploité le surréalisme au point que la manipulation des rêves et l'utilisation de la psychologie sont davantage reconnues comme une campagne publicitaire qu'un mouvement artistique. Néanmoins, pendant de nombreuses années, l'influence du surréalisme sur les arts graphiques a été très significative et a ouvert l'esprit des designers à des possibilités créatives sans limites.
+L'impact du surréalisme sur le design graphique a été profond, tant visuellement que conceptuellement. L'affiche de Man Ray pour le métro de Londres a montré comment la théorie surréaliste pouvait être appliquée au design graphique.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/manray.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+Ici, l'analogie faite entre le logo et une planète crée une communication efficace et humoristique. Malheureusement, les médias de masse ont exploité le surréalisme au point que la manipulation des rêves et l'utilisation de la psychologie sont davantage reconnues comme une campagne publicitaire qu'un mouvement artistique. Néanmoins, pendant de nombreuses années, l'influence du surréalisme sur les arts graphiques a été très significative et a ouvert l'esprit des designers à des possibilités créatives sans limites.
 
 ## Concevoir l˙utopie
+
 Alors que la Première Guerre mondiale et la Révolution russe touchaient à leur fin, les artistes cherchaient un nouveau but dans leur travail. Un sentiment de recommencement était dans l'air. Tandis que Dada cherchait à renverser l'art en réponse à l'absurdité d'une guerre mondiale, d'autres mouvements voyaient la créativité en termes plus rationalistes. Des centres créatifs commencèrent à émerger, et les innovations majeures dans les arts changeaient la façon dont les designers graphiques se comprenaient eux-mêmes et leur rôle dans la société. Certains s'alignèrent sur certaines perspectives politiques,menant au constructivisme et à l'art de la propagande soviétique. D'autres se sont opposés complètement à ces approches, comme c'était le cas des principes du Bauhaus en Allemagne. Dans tous les cas, il y avait une pollinisation croisée, car les mouvements s'influençaient mutuellement à travers les conférences données par leurs partisans, les expositions et une empathie partagée entre les activistes sociaux aux idées similaires. Les artistes ont commencé à se voir comme ayant un rôle bien au-delà du visuel : ils sont devenus les porte-parole du changement politique et social.
 
 ### Constructivisme (1919-1934)
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/tatline.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
 En Russie, Vladimir Tatline (1885-1953) fonda l'art constructiviste, qui embrassa le communisme, rejeta l'art pour l'art et proclama que l'art devait avoir un but social. Son Monument à la Troisième Internationale était une construction en spirale de verre et d'acier glorifiant le déterminisme technologique des bolcheviks. Destiné à exister en tant que centre de propagande, sa forme épurée suivait sa fonction en tant que symbole non orné de l'industrie. Si elle avait été construite à l'échelle réelle, elle aurait éclipsé la Tour Eiffel. Pourtant, même en tant que modèle, il exprimait un manifeste de soutien à l'esthétique constructiviste. Le constructivisme était principalement préoccupé par l'espace, les matériaux et le mouvement. Son intention était de faire passer toutes les formes d'art d'expressions de style personnel vers un style collectif basé sur la machine. Les écrivains, photographes et designers pouvaient tous suivre cette voie.
 
-Alexander Rodtchenko (1891-1956), El Lissitzky (1890-1941) et les frères Vladimir Stenberg (1899-1982) et Georgii Stenberg (1900-1933) ont contribué à créer des designs graphiques audacieux qui parlaient le langage constructiviste. Dans l'affiche de Rodtchenko pour un éditeur d'État de Lenningrad, une femme crie les mots "Livres dans toutes les branches du savoir" dans un espace en forme de mégaphone. Le message socialiste et sa mise en page sont extrêmement utilitaires.
+Alexander Rodtchenko (1891-1956), El Lissitzky (1890-1941) et les frères Vladimir Stenberg (1899-1982) et Georgii Stenberg (1900-1933) ont contribué à créer des designs graphiques audacieux qui parlaient le langage constructiviste.
 
-Les mises en page de Lissitzky pour Les Ismes de l'art exprimaient comment le langage fonctionnel et mécanique du constructivisme pouvait être utilisé typographiquement. Parce que Lissitzky parlait plusieurs langues et collaborait avec de nombreux artistes et designers, il a pu diffuser ce langage visuel, sans serif, constructiviste à travers l'Europe. Inspirés par Lissitzky, les designers ont encore affiné et construit un système complet de typographie. Lissitzky a également réussi à fusionner son approche avec les aspects sociaux du communisme, comme on peut le voir dans son affiche pour une exposition à Zurich. Dans l'affiche, Lissitzky utilise un double portrait pour représenter l'idée d'une stature égale des jeunes hommes et femmes dans l'Union soviétique.
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/rodchenko.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+Dans l'affiche de Rodtchenko pour un éditeur d'État de Lenningrad, une femme crie les mots "Livres dans toutes les branches du savoir" dans un espace en forme de mégaphone. Le message socialiste et sa mise en page sont extrêmement utilitaires.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/ismes.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+Les mises en page de Lissitzky pour Les Ismes de l'art exprimaient comment le langage fonctionnel et mécanique du constructivisme pouvait être utilisé typographiquement. Parce que Lissitzky parlait plusieurs langues et collaborait avec de nombreux artistes et designers, il a pu diffuser ce langage visuel, sans serif, constructiviste à travers l'Europe. Inspirés par Lissitzky, les designers ont encore affiné et construit un système complet de typographie. Lissitzky a également réussi à fusionner son approche avec les aspects sociaux du communisme, comme on peut le voir dans son affiche pour une exposition à Zurich.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Lissitzky.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+Dans l'affiche, Lissitzky utilise un double portrait pour représenter l'idée d'une stature égale des jeunes hommes et femmes dans l'Union soviétique.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/manwithmoviecamera.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
 
 Pour le cinéma soviétique en plein essor, les artistes et designers Vladimir Stenberg et Georgii Stenberg ont conçu des œuvres extraordinaires dans le mode constructiviste. Travaillant en équipe, les frères Stenberg ont inventé le genre de l'affiche de film, combinant l'abstraction avec le récit visuel. L'affiche des frères Stenberg pour L'Homme à la caméra utilisait la typographie, la couleur et la perspective de manière inédite. Les bolcheviks ont vu l'utilité et la valeur du design graphique dans ces applications commerciales. Ces films et les affiches qui les promouvaient ont aidé à montrer aux masses qu'un nouvel ordre social était en place.
 
 ### De Stijl (1917-1931)
-Un mouvement d'art abstrait néerlandais appelé De Stijl ("Le Style") était connu pour ses lignes droites, ses angles droits et ses couleurs primaires. En 1920, Piet Mondrian (1872-1944) publia le manifeste de De Stijl intitulé Néo-Plasticisme, qui devint un autre nom pour le mouvement. Dans son manifeste, Mondrian rejeta la symétrie et privilégia la manipulation et l'agencement de formes géométriques et de couleurs dans ce qu'il appelait "l'équilibre dynamique".
+Un mouvement d'art abstrait néerlandais appelé De Stijl ("Le Style") était connu pour ses lignes droites, ses angles droits et ses couleurs primaires.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Piet_Mondriaan.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+En 1920, Piet Mondrian (1872-1944) publia le manifeste de De Stijl intitulé Néo-Plasticisme, qui devint un autre nom pour le mouvement. Dans son manifeste, Mondrian rejeta la symétrie et privilégia la manipulation et l'agencement de formes géométriques et de couleurs dans ce qu'il appelait "l'équilibre dynamique".
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/vanDoesburg-.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
 
 La Composition simultanée de Theo van Doesburg (1883-1931) est un exemple de la manière dont cette pureté spirituelle et universelle était appliquée à la peinture. Cette approche a également été appliquée au design graphique, comme on peut le voir dans les nombreuses formes de promotion de De Stijl gérées par van Doesburg, y compris les affiches et les livrets. Une police de caractères conçue par van Doesburg en 1919 a montré jusqu'où pouvait aller la suppression des courbes et des diagonales. Le point central du mouvement était le magazine De Stijl de Van Doesburg, qui contribua à diffuser les théories du mouvement. Les mises en page du magazine exprimaient la même conviction dynamique que l'on retrouve dans les peintures et l'architecture du mouvement. Les arrangements typographiques de Van Doesburg étaient structurellement poétiques, comme des meubles sur un plan d'étage. Le raffinement typographique et l'espace créé sur la page ont évolué vers le Style international typographique du design graphique.
 
 ### Bauhaus (1919-1933)
 Le mouvement Bauhaus a eu une influence majeure sur le graphisme. Fondée en 1919 à Weimar, en Allemagne, par l'architecte Walter Gropius, cette école d'art avait pour objectif d'éliminer la distinction entre les beaux-arts et les arts appliqués, et de créer une union entre les arts, l'artisanat et l'industrie. Le Bauhaus a jeté les bases de la pensée sur l'art, l'architecture et le design au XXe siècle.
 
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/lfa_bauhaus_0110_001.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/lfa_bauhaus_0110_034.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
 L'école a été fortement influencée par les théories expressionnistes des artistes associés au Bauhaus, tels que Johannes Itten, Josef Albers, Lyonel Feininger, Paul Klee et Wassily Kandinsky. Ils ont établi un socle de spiritualité, d'intuition et d'universalité, axé sur la nature physique des matériaux. De 1919 à 1922, Itten a enseigné au Bauhaus et développé le cours préliminaire innovant qui initiait les élèves aux bases de la composition, de la théorie des couleurs et des caractéristiques des matériaux.
 
-Le programme du Bauhaus a évolué sous l'influence d'autres mouvements, tels que De Stijl et le constructivisme. L'arrivée de Laszlo Moholy-Nagy en 1923 a marqué un véritable tournant. Il a adopté l'esthétique de la machine pour relier art et design aux masses. Herbert Bayer a poussé l'influence des arts appliqués encore plus loin en concevant un billet de banque et en utilisant des surimpressions de couleurs multiples pour prévenir la contrefaçon.
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/StaatlichesBauhausTitelseite.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Bauhausbucher14.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+Le programme du Bauhaus a évolué sous l'influence d'autres mouvements, tels que De Stijl et le constructivisme. L'arrivée de Laszlo Moholy-Nagy en 1923 a marqué un véritable tournant. Il a adopté l'esthétique de la machine pour relier art et design aux masses.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Herbert-Bayer-design-kiosque-a-journaux-1924.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+
+
+Herbert Bayer a poussé l'influence des arts appliqués encore plus loin en concevant un billet de banque et en utilisant des surimpressions de couleurs multiples pour prévenir la contrefaçon.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Herbert-Bayer-affiche-Ausstellung-Europaisches-Kunstgewerbe-1927.jpg) |
+|:--:|
+|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
 
 En 1925, le Bauhaus a déménagé de Weimar à Dessau, puis à Berlin en 1932. Les nazis ont fermé l'école en 1933 car ils préféraient un art et une architecture qui reflétaient leur vision grandiose de l'Allemagne. L'héritage du Bauhaus réside dans ses enseignants et ses élèves qui ont diffusé ses méthodes et ses idéaux dans le monde entier.
 
