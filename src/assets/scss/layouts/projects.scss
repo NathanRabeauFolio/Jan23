@@ -40,7 +40,7 @@
 }
 
 
-body:has(.project){
+body.project{
   background: var(--color-projet);
   .site-header {
   background: var(--color-projet);
@@ -48,8 +48,8 @@ body:has(.project){
     display: none;}
   .site-header__link, .site-header__logo{color:#FFFFFF}
   }
-}
-.project{
+
+.page-container{
   picture img {
     max-width: var(--site-width);
     max-height: 80vh;
@@ -60,7 +60,7 @@ td, th {
   padding: 0em;
   border-bottom: none;
 }
-.project{position: relative;}
+.page-containert{position: relative;}
 h1 {
   margin: 0;
   text-align: center;
@@ -135,4 +135,5 @@ h1 {
 }
 video{padding-left:16.5%;
   max-height: 80vh;}
+}
 }
