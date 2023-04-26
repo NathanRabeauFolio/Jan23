@@ -33,7 +33,8 @@ body {
 
 main {
   padding: var(--header-height) 13px 13px;
-
+  position: relative;
+  overflow-x: hidden;
   @media (min-width: 1024px) {
     padding-top: var(--header-height-lg);
   }

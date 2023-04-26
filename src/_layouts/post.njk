@@ -6,7 +6,6 @@ section: post
 <aside>
 {{ content | toc | safe | replace("˙","'") }}
 </aside>
-
   <article>
     <h1>{{ title }}</h1>
     <div class="color-overlay" style="background-color:#{{ color }}"></div>
@@ -32,6 +31,9 @@ section: post
   </nav>
 </div>
 
-<script>
-  
-</script>
+    <style>
+        .active {
+            text-decoration: underline;
+        }
+    </style>
+

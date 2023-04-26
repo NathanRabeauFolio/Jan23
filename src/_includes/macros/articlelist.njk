@@ -8,9 +8,7 @@
       >
 
         <a class="article-card__link" href="{{ article.url | url }}">
-       <div class="color-overlay" style="background: -moz-linear-gradient(0deg, rgba(0,0,0,1) 0%, #{{ article.data.color }} 66%);
-background: -webkit-linear-gradient(0deg, rgba(0,0,0,1) 0%,  #{{ article.data.color }} 66%);
-background: linear-gradient(0deg, rgba(0,0,0,1) 0%,  #{{ article.data.color }} 66%);"></div>
+       <div class="color-overlay" style="background: #{{ article.data.color }};"></div>
         <figure>
         <picture>
       <img  loading="eager" decoding="async"  src="{{ article.data.image | url }}" alt="{{ article.data.imageAlt | safe }}" >

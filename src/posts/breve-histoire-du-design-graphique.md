@@ -429,6 +429,9 @@ Le programme du Bauhaus a évolué sous l'influence d'autres mouvements, tels qu
 |:--:|
 |*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
 
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/futura.png) |
+|:--:|
+|*Paul Renner • Futura • 1922*|
 
 Herbert Bayer a poussé l'influence des arts appliqués encore plus loin en concevant un billet de banque et en utilisant des surimpressions de couleurs multiples pour prévenir la contrefaçon.
 
@@ -441,11 +444,27 @@ En 1925, le Bauhaus a déménagé de Weimar à Dessau, puis à Berlin en 1932. L
 ### Le modernisme en Amérique
 L'Exposition de Paris (1925) a fait découvrir l'Art déco et son modernisme inspiré de la machine aux Américains. Toutefois, l'Art déco était essentiellement un mouvement décoratif sans philosophie interne spécifique et a vite été commercialisé.
 
-L'ascension du nazisme a poussé de nombreux artistes européens à fuir aux États-Unis. Les designers et architectes influencés par le Bauhaus ont été accueillis favorablement. Dr. Mehemed Fehmy Agha, pionnier du design de magazines, a ouvert la voie à l'approche fonctionnaliste. Cipe Pineles a été la première directrice artistique d'un magazine grand public américain, Glamour, en 1942.
+L'ascension du nazisme a poussé de nombreux artistes européens à fuir aux États-Unis. Les designers et architectes influencés par le Bauhaus ont été accueillis favorablement. Dr. Mehemed Fehmy Agha, pionnier du design de magazines, a ouvert la voie à l'approche fonctionnaliste.
+
+| ![Dr. Mehemed Fehmy Agha & Edward Steichen couverture pour vogue 1932](/src/assets/img/vogue1.png) |
+|:--:|
+|*Dr. Mehemed Fehmy Agha & Edward Steichen • couverture pour vogue • 1932*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Cipe-Pineles-1949.jpg) |
+|:--:|
+|*Cipe Pineles • couverture pour Seventeen • 1949*|
+
+Cipe Pineles a été la première directrice artistique d'un magazine grand public américain, Glamour, en 1942.
 
 En 1937, Laszlo Moholy-Nagy a été invité à créer une école similaire au Bauhaus à Chicago, appelée "The New Bauhaus". Bien qu'elle ait fermé après un an, elle a été remplacée par l'École de design puis l'Institut de design. Le livre de Moholy Nagy, Vision in Motion, a documenté le programme de l'école et a influencé des générations d'éducateurs et de programmes de design.
 
-Paul Rand (1914-1996) est l'un des designers graphiques américains les plus influents. Son travail, son enseignement et ses écrits ont inspiré des générations de designers. Rand a intégré l'illustration dans la conception globale de la page et a travaillé comme directeur artistique pour Apparel Arts et Esquire. En 1946, il a écrit son premier livre, Thoughts on Design, qui explique le processus de conception comme une combinaison de raison, d'intuition et d'intelligence. Rand cherchait à élever les produits les plus ordinaires en objets à la fois beaux et utiles. Il a également conçu des identités visuelles pour des entreprises telles qu'IBM, ABC, UPS et Westinghouse.
+Paul Rand (1914-1996) est l'un des designers graphiques américains les plus influents. Son travail, son enseignement et ses écrits ont inspiré des générations de designers. Rand a intégré l'illustration dans la conception globale de la page et a travaillé comme directeur artistique pour Apparel Arts et Esquire.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/rand46.jpg) |
+|:--:|
+|*Cipe Pineles • couverture pour Seventeen • 1946*|
+
+En 1946, il a écrit son premier livre, Thoughts on Design, qui explique le processus de conception comme une combinaison de raison, d'intuition et d'intelligence. Rand cherchait à élever les produits les plus ordinaires en objets à la fois beaux et utiles. Il a également conçu des identités visuelles pour des entreprises telles qu'IBM, ABC, UPS et Westinghouse.
 
 Alvin Lustig (1915-1950) est connu pour ses couvertures de livres pour l'éditeur New Directions. Sa couverture pour A Season in Hell d'Arthur Rimbaud est un bel exemple de l'intégration de la peinture et du design. Bradbury Thompson (1911-1995) a travaillé pour la société papetière Westvaco et a modernisé le design du périodique Westvaco Inspirations for Printers. Son amour de la typographie expérimentale et de la manipulation d'images a fait d'Inspirations l'une des principales publications avant-gardistes du domaine.
 
