@@ -1,6 +1,6 @@
 ---
 title: breve histoire du design graphique
-date: 2020-01-01T08:00:00.000Z
+date: 2022-01-01T08:00:00.000Z
 summary: Dans ce cours, vous verrez l'évolution du design, en commençant par le début du 20e siècle, lorsque la machine a été intégrée à l'industrialisation, puis le mouvement des arts et de l'artisanat et plus tard, dans la première moitié du 20e siècle, la façon dont le design a évolué.
 tags:
   - Histoire du graphisme
@@ -8,7 +8,7 @@ tags:
   - Culture de l˙image
   - Débutant
 image: /assets/img/histoire-de-laffiche.jpg
-color: dcc599
+color: f6ac0f
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/histoire-de-laffiche.jpg) |
 |:--:|
@@ -183,6 +183,10 @@ Autre affichiste essentiel de la période, relevons le travail d'Alphonse Mucha 
 | ![Alphonse Mucha Affiche pour Job 1898](/src/assets/img/job-alphonse-mucha.jpg) |
 |:--:|
 |*Alphonse Mucha • Affiche pour Job • 1898*|
+
+| ![Jules Chéret affiche publicitaire pour le papier à cigarette Job 1900](/src/assets/img/atche.jpg) |
+|:--:|
+|*Jane Atché • affiche publicitaire pour le papier à cigarette Job • 1896*|
 
 ## Vers une sensibilité moderne
 Au début du XXe siècle, la vie quotidienne est devenue plus complexe, et les innovations dans tous les domaines ont été influencées par des concepts abstraits, pensons à la relativité restreinte est la théorie élaborée par Albert Einstein en 1905. Dans cette periode intellectuellement troublante les artistes se sont concentrés sur les qualités intrinsèques de leur médium, comme la ligne, la forme et la couleur, et ont peu à peu adopté l'abstraction.
@@ -454,6 +458,10 @@ L'ascension du nazisme a poussé de nombreux artistes européens à fuir aux Ét
 |:--:|
 |*Cipe Pineles • couverture pour Seventeen • 1949*|
 
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Glamour-magazine-by-Cipe-Pineles.jpg) |
+|:--:|
+|*Cipe Pineles • Glamour magazine • 1946*|
+
 Cipe Pineles a été la première directrice artistique d'un magazine grand public américain, Glamour, en 1942.
 
 En 1937, Laszlo Moholy-Nagy a été invité à créer une école similaire au Bauhaus à Chicago, appelée "The New Bauhaus". Bien qu'elle ait fermé après un an, elle a été remplacée par l'École de design puis l'Institut de design. Le livre de Moholy Nagy, Vision in Motion, a documenté le programme de l'école et a influencé des générations d'éducateurs et de programmes de design.
@@ -466,21 +474,96 @@ Paul Rand (1914-1996) est l'un des designers graphiques américains les plus inf
 
 En 1946, il a écrit son premier livre, Thoughts on Design, qui explique le processus de conception comme une combinaison de raison, d'intuition et d'intelligence. Rand cherchait à élever les produits les plus ordinaires en objets à la fois beaux et utiles. Il a également conçu des identités visuelles pour des entreprises telles qu'IBM, ABC, UPS et Westinghouse.
 
-Alvin Lustig (1915-1950) est connu pour ses couvertures de livres pour l'éditeur New Directions. Sa couverture pour A Season in Hell d'Arthur Rimbaud est un bel exemple de l'intégration de la peinture et du design. Bradbury Thompson (1911-1995) a travaillé pour la société papetière Westvaco et a modernisé le design du périodique Westvaco Inspirations for Printers. Son amour de la typographie expérimentale et de la manipulation d'images a fait d'Inspirations l'une des principales publications avant-gardistes du domaine.
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/ibm-1.jpg) |
+|:--:|
+|*Paul Rand • Logo pour IBM • 1962*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Journal-of-the-American-Institute-of-Graphic-Arts-AIGA-01.jpg) |
+|:--:|
+|*Paul Rand • Couverture pour l’American Institute of Graphic Art • 1968*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/ibm-2.jpg) |
+|:--:|
+|*Paul Rand • Detournement/déclinaison Logo pour IBM • 1970*|
+
+Alvin Lustig (1915-1950) est connu pour ses couvertures de livres pour l'éditeur New Directions.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/season-in-hell.jpg) |
+|:--:|
+|*Alvin Lustig • couverture pour "une saison en enfer" • 1953*|
+
+Sa couverture pour A Season in Hell d'Arthur Rimbaud est un bel exemple de l'intégration de la peinture et du design.
+
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Thompson_04.jpg) |
+|:--:|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 186, • 1951*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/rock-roll.jpg) |
+|:--:|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+
+Bradbury Thompson (1911-1995) a travaillé pour la société papetière Westvaco et a modernisé le design du périodique Westvaco Inspirations for Printers. Son amour de la typographie expérimentale et de la manipulation d'images a fait d'Inspirations l'une des principales publications avant-gardistes du domaine.
 
 Au début de la Seconde Guerre mondiale, le modernisme commençait à s'implanter aux États-Unis. À la fin de la guerre, une nouvelle vision du rêve américain était en place, associée au rêve utopique du modernisme. Les programmes de design américains ont formé leurs étudiants selon les principes du modernisme, et le pays a développé sa propre personnalité moderniste. Les idéaux modernistes ont commencé à céder la place à une attitude postmoderne d'ironie et de fragmentation dans les années 1970.
 
 ### Design publicitaire et l˙école de New York
-Dans les années 1960, une approche unique et humoristique du design publicitaire se développe autour de Madison Avenue à New York, où texte et image s'harmonisent d'une manière inédite. Cette approche, appelée l'école de New York, repose sur une relation étroite entre le contenu et la forme. Paul Rand, pionnier du design publicitaire, expérimente ce concept avec des designs ludiques pour des entreprises locales. Son travail est marqué par une inventivité et une audace qui viennent bouleverser les codes établis.
+Dans les années 1960, une approche unique et humoristique du design publicitaire se développe autour de Madison Avenue à New York, où texte et image s'harmonisent d'une manière inédite. Cette approche, appelée l'école de New York, repose sur une relation étroite entre le contenu et la forme. 
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/thinkSmall.jpg) |
+|:--:|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
 
 Bill Bernbach, collègue de Rand, transpose cette intégration du mot et de l'image dans des campagnes nationales, notamment la campagne "Think Small" pour Volkswagen. Cette campagne est un exemple parfait de cette nouvelle approche publicitaire, où le message et le visuel sont étroitement liés. L'annonce, conçue par le directeur artistique Helmut Krone, dégage une qualité charmante, surréaliste et austère, invitant le lecteur à "penser petit" face à une voiture économique dans un pays habitué à voir grand.
 
 Autres designers et projets marquants
-D'autres designers, comme Ivan Chermayeff, adoptent cette approche conceptuelle. Chermayeff crée un lien fort entre le mot et l'image dans un poster pour Mobil Oil Corporation, mettant en scène un chapeau de diplomate encadré par des casques militaires de la Première et de la Seconde Guerre mondiale. Le titre du programme, "Between the Wars", est également intégré à la composition, véhiculant un sens grâce à l'agencement des éléments. La disposition centrée du poster oblige le spectateur à se concentrer sur l'interprétation de l'idée.
+D'autres designers, comme Ivan Chermayeff, adoptent cette approche conceptuelle.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Ivan-Chermayeff-poster-for-Between-the-Wars-1977.jpg) |
+|:--:|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+
+Chermayeff crée un lien fort entre le mot et l'image dans un poster pour Mobil Oil Corporation, mettant en scène un chapeau de diplomate encadré par des casques militaires de la Première et de la Seconde Guerre mondiale. Le titre du programme, "Between the Wars", est également intégré à la composition, véhiculant un sens grâce à l'agencement des éléments. La disposition centrée du poster oblige le spectateur à se concentrer sur l'interprétation de l'idée.
 
 Les années 1960 voient également une évolution des techniques typographiques, avec l'essor de la photocomposition. Herb Lubalin, designer graphique, montre comment les lettres peuvent être transformées en formes malléables pour communiquer des idées. Ses "typogrammes", comme il les appelle, ont une double fonction de lecture et de création d'images. Ces poèmes visuels en miniature se retrouvent dans des mises en page, des couvertures de livres et des publicités.
 
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/no-more-war-poster-lubalin.jpg) |
+|:--:|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/herb.jpg) |
+|:--:|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Ms.jpg) |
+|:--:|
+|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+
 Par exemple, l'annonce d'Herb Lubalin pour un concours d'affiches anti-guerre, qui apparaît sur la quatrième de couverture du magazine Avant Garde, mêle typographie et drapeau pour communiquer la force du design et de la protestation. Lubalin, directeur artistique du magazine de 1968 à 1971, conçoit également son logo et développe la police de caractères utilisée dans le titre du magazine, qui deviendra emblématique de la période de la photocomposition.
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/glasser.jpg) |
+|:--:|
+|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Moscoso.jpg) |
+|:--:|
+|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/WesWilson.jpg) |
+|:--:|
+|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/sergent-pepper.jpg) |
+|:--:|
+|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/sniffing.jpg) |
+|:--:|
+|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+
+| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/on-y-va.jpg) |
+|:--:|
+|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
 
 ## Postmodernisme et ère numérique
 

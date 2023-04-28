@@ -8,7 +8,7 @@ tags:
   - Aller plus loins
 image: /assets/img/digital-cours.jpg
 imageAlt: This is a test
-color: f5712a
+color: 00adc8
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/digital-cours.jpg) |
 |:--:|

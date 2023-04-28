@@ -50,6 +50,7 @@ article .color-overlay{
   z-index: +1;
   mix-blend-mode: plus-lighter;
   top: 0;
+  background-color: var(--color-overlay);
 }
 article h1{
   margin: 0;
@@ -161,7 +162,8 @@ article p {
     font-family: inherit;
     text-decoration:underline;
     color: inherit;
-
+    text-decoration-color: var(--color-overlay);
+    text-decoration-thickness: 0.125em;
   }
 }
 
@@ -357,10 +359,13 @@ section:has(.article-card){
   }
 
   .article-card--tags & {
+    
     &:hover {
       filter: grayscale(1);
       background-color: white;
-
+      .color-overlay{
+        opacity: 0.5;
+      }
     }
   }
 }
@@ -390,6 +395,7 @@ section:has(.article-card){
   mix-blend-mode: plus-lighter;
   top: 0;
   padding-bottom: 68.75%;
+  background-color: var(--color-overlay);
 }
 
 /* Tags */

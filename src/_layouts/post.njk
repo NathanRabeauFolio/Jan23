@@ -8,7 +8,7 @@ section: post
 </aside>
   <article>
     <h1>{{ title }}</h1>
-    <div class="color-overlay" style="background-color:#{{ color }}"></div>
+    <div class="color-overlay"></div>
    {{ content | safe | replace("<table>", "<figure>") | replace("</table>", "</figure>")
                        | replace("<em>", "<figcaption>") | replace("</em>", "</figcaption>")
                        | replace("../","../../") | replace(" •",",<br>") | replace("˙","'") }}
@@ -32,8 +32,9 @@ section: post
 </div>
 
     <style>
-        .active {
-            text-decoration: underline;
-        }
+:root{
+--color-overlay:#{{ color }}
+}
+
     </style>
 

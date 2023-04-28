@@ -8,7 +8,7 @@ tags:
   - Réthorique visuelle
 image: /assets/img/figures-de-style-intro.jpg
 imageAlt: This is a test
-color: 009da7
+color: 816d6d
 ---
 | ![Etude de mains - Baccio Bandinelli](/src/assets/img/figures-de-style-intro.jpg) |
 |:--:|

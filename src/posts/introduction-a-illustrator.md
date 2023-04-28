@@ -8,14 +8,30 @@ tags:
   - débutant
 image: /assets/img/illustrator-intro.jpg
 imageAlt: This is a test
-color: f5712a
+color: eb6559
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/illustrator-intro.jpg) |
 |:--:|
 
-Dans Illustrator, vous créez et travaillez principalement avec des formes vectoriels (parfois appelés objets vectoriels). Les formes vectoriels sont constitués de lignes et de courbes définies par des objets mathématiques appelés vecteurs. Vous pouvez les déplacer ou modifier librement sans perdre de détails ou de netteté car elles sont indépendants de la résolution. En d'autres termes, les objets vectoriels conservent des bords nets lorsqu'ils sont redimensionnés, imprimés sur une imprimante PostScript, enregistrés dans un fichier PDF ou importés dans une application graphique vectorielle. Par conséquent, ces objets constituent le meilleur choix pour les illustrations, telles que les logos, qui seront utilisées à différentes tailles et sur différents supports de sortie.
+Dans Illustrator, vous créez et travaillez principalement avec des graphiques vectoriels (parfois appelés formes vectorielles ou objets vectoriels). Les graphiques vectoriels sont composés de lignes et de courbes définies par des objets mathématiques appelés vecteurs.
+Vous pouvez déplacer ou modifier les graphiques vectoriels sans perdre de détails car ils sont indépendants des question de résolution. En d'autres termes, ils conservent des contours nets lorsqu'ils sont redimensionnés, imprimés sur une imprimante PostScript, enregistrés dans un fichier PDF ou importés dans une application supportant ce genre d'image. Ainsi, l'imagerie vectoriel est le meilleur choix pour la création de logos ou de pictogramme utilisés à différentes tailles et sur différents supports.
+
+Illustrator permet également d'intégrer des images bitmap, techniquement appelées images raster, qui utilisent une grille rectangulaire de pixels, pour représenter le visuel. Mais n'est pas conçus pour travailler ou retoucher ce type d'images.
 
 ![Logo PawPatrol vector et bitmap](/src/assets/img/logo-PawPatrol-vector-bitmap.jpg)
+
+Là ou une image bitmap n'est composé que d'une multitudes de pixels dont les seuls qualités (au sens de caractèristique) sont d'avoir une couleur specifique (ou une opacité). L'image vectorielle est composé d'objets disposant de d'avantage de caractèristiques comme des coordonnées dans le plan et une taille definis parfois une forme geometrique precise (cercle, rectangle ...) mais aussi des qualité d'ordre graphiques comme un remplissage ou un contour.
+
+En cartographie, la différence entre données raster et données vectoriel est d'autant plus palpable lorsque l'on experiment sur google-map. Par exemple le passage d'une vue satelite, ou l'application nous propose une photographie du lieu vu du ciel (une données raster brute composé de pixels). Le mode "carte" qui permet de montré des tracés des route ou des pointage de lieux (données vectoriel par excellence puisque renseigné par des coordonnés et des qualité propre: "ceci est une route national", "ceci est une piste cyclable", "ceci est un Mac Donald" ces formes et tracès vectoriel étant duement libéllé l'application est capable de proposé par exemple des itinéraires) là ou une simple photographie aerienne reste muette est inexploitable pour une machine.
+
+Adobe Illustrator est un logiciel de création graphique vectorielle. Composés de lignes et de courbes définies par des vecteurs, des objets mathématiques, les graphiques vectoriels sont principalement créés et manipulés dans Illustrator. Grâce à leur indépendance de résolution, les graphiques vectoriels peuvent être déplacés ou modifiés sans perte de détails ou de clarté, ce qui les rend idéaux pour les œuvres d'art telles que les logos, utilisés à différentes tailles et sur divers supports.
+
+Des images bitmap, également appelées images raster, peuvent également être incorporées dans Illustrator. Ces images sont constituées d'une grille rectangulaire de pixels, chacun ayant une position et une couleur spécifiques. Des programmes tels qu'Adobe Photoshop sont utilisés pour créer des images raster.
+
+
+Dans Illustrator, vous créez et travaillez principalement avec des formes vectoriels (parfois appelés objets vectoriels). Les formes vectoriels sont constitués de lignes et de courbes définies par des objets mathématiques appelés vecteurs. Vous pouvez les déplacer ou modifier librement sans perdre de détails ou de netteté car elles sont indépendants de la résolution. En d'autres termes, les objets vectoriels conservent des bords nets lorsqu'ils sont redimensionnés, imprimés sur une imprimante PostScript, enregistrés dans un fichier PDF ou importés dans une application graphique vectorielle. Par conséquent, ces objets constituent le meilleur choix pour les illustrations, telles que les logos, qui seront utilisées à différentes tailles et sur différents supports de sortie.
+
+
 
 Illustrator vous permet également d'incorporer des images bitmap - techniquement appelées images matricielles - qui utilisent une grille rectangulaire d'éléments d'image (pixels) pour représenter le visuel. Chaque pixel se voit attribuer un emplacement et une valeur de couleur spécifiques. Les images matricielles peuvent être créées dans un programme tel que Adobe Photoshop.
 
