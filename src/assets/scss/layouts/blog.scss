@@ -48,7 +48,7 @@ article .color-overlay{
   width: var(--site-width);
   position: absolute;
   z-index: +1;
-  mix-blend-mode: plus-lighter;
+  mix-blend-mode: lighten;
   top: 0;
   background-color: var(--color-overlay);
 }
@@ -392,7 +392,7 @@ section:has(.article-card){
   width: 100%;
   position: absolute;
   z-index: +1;
-  mix-blend-mode: plus-lighter;
+  mix-blend-mode: lighten;
   top: 0;
   padding-bottom: 68.75%;
   background-color: var(--color-overlay);
