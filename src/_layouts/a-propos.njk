@@ -11,7 +11,12 @@ section: page
         "eager"
       %}
   <div class="intro-in">
-  <h1>{{ title }}</h1>
+  <h1>
+      <span>Graphiste</span>
+      <span>Web Designer</span>
+      <span>Formateur</span>
+      <span>à Rennes</span>
+  </h1>
   </div>
   </section>
   {% if subtitle %}
@@ -19,6 +24,8 @@ section: page
   {% endif %}
   {{ layoutContent | safe }}
   
+
+
   <section class="outro">
   {% image
         "src/assets/img/portrait-2.png",

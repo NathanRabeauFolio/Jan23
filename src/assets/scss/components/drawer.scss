@@ -34,8 +34,8 @@
   background-color: transparent;
   color: var(--color-text);
   cursor: pointer;
-  width: 18px;
-  height: 18px;
+  width: 2rem;
+  height: 2rem;
   flex-shrink: 0;
   margin-left: 1rem;
 
@@ -70,6 +70,7 @@
   height: 100%;
   flex-grow: 1;
   padding: 1.5rem;
+  font-size: calc(15vh / 6);;
 }
 
 .drawer--left .drawer__wrapper {

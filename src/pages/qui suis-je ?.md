@@ -9,23 +9,19 @@ eleventyNavigation:
   key: qui suis-je ?
   order: 1
 ---
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
 
-### Why create this?
+En tant que graphiste et web designer, je privilégie la qualité et le souci du détail pour offrir des créations uniques et durables à mes clients. Mon approche minutieuse et responsable me permet de concevoir des projets qui répondent aux besoins spécifiques de chaque client tout en respectant les principes du design éthique et durable.
+En parallèle, je suis formateur pour des BTS communication et des Bachelor chef de projet Web depuis 3 ans. Grâce à mon expérience et mon savoir-faire, je soutiens et accompagne ces étudiants dans la réalisation de leurs projets. J'attache une grande importance à transmettre des compétences techniques solides, tout en enrichissant leurs parcours d'un bagage culturel varié et en développant en eux leur curiosité. 
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
-<div class="col">
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+Compétent dans l'utilisation des outils de la suite Adobe (Photoshop, Illustrator, InDesign, XD et After Effect) ainsi que dans les langages du web tels que HTML, CSS et JavaScript. Je maîtrise également des technologies telles que WordPress et Jamstack. Mon champ d'expertise couvre plusieurs domaines, notamment :
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+{% include "partials/competence.njk" %}
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
+Identité visuelle (logos, chartes graphiques)
+Web design (sites web, applications mobiles, e-commerce)
+Supports de communication print (affiches, brochures, packaging)
+Communication visuelle et marketing (réseaux sociaux, bannières publicitaires)
+Motion design et animation (illustration d'idées complexes)
+Tout en mettant l'accent sur la qualité et la minutie, j'aborde chaque projet avec une sensibilité éthique et une conscience environnementale, afin de proposer des solutions de design responsables et durables.
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+ {% include "partials/trust.njk" %}
