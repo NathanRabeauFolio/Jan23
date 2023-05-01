@@ -7,8 +7,23 @@ pagination:
     alias: pdv
 permalink: "developpeur-proche-de-{{ pdv.ville | slugify }}/"
 ---
-
-<h1>{{ pdv.ville }}</h1>
+<div class="page-container local">
+<section class="intro">
+{% image
+        "src/assets/img/portrait.png",
+        home.image_alt,
+        "(min-width: 1024px) 50vw, 100vw",
+        "eager"
+      %}
+  <div class="intro-in">
+  <h1>
+      <span>Graphiste</span>
+      <span>Web Designer</span>
+      <span>Formateur</span>
+      <span>proche de {{ pdv.ville }}</span>
+  </h1>
+  </div>
+  </section>
 <a href="../graphiste-proche-de-{{ pdv.prox1 | slugify }}">{{ pdv.prox1 }}</a>
 <a href="../developpeur-proche-de-{{ pdv.prox2 | slugify }}">{{ pdv.prox2 }}</a>
 <a href="../graphiste-proche-de-{{ pdv.prox3 | slugify }}">{{ pdv.prox3 }}</a>
@@ -17,7 +32,7 @@ permalink: "developpeur-proche-de-{{ pdv.ville | slugify }}/"
 <div class="col" id="map" style="width:320px; height:320px">
 </div>
 
-
+</div>
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1t5qpyT1mkOXLqghKgk0m7pKjx1JyQ1Y&callback=initMap"
 async defer></script>
 
