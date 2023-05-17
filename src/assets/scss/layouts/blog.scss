@@ -382,13 +382,29 @@ section:has(.article-card){
   }
 
   .article-card--tags & {
-    
+    transition:.5s;
+    .article-card__title, .article-card__summary{
+    transition:.5s;
+    }
+    img{
+      transition:.5s;}
     &:hover {
+      transition:.5s;
       filter: grayscale(1);
       background-color: white;
+      .article-card__title {
+        background: rgba(255, 255, 255, 1);
+        transition:.5s;}
+      .article-card__title, .article-card__summary {
+        transform: translateY(-2.65rem);
+        transition:.5s;
+    }
       .color-overlay{
         opacity: 0.5;
+        transition:.5s;
       }
+      img{transform: scale(1.3);
+        transition:.5s;}
     }
   }
 }
