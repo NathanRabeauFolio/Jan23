@@ -9,7 +9,9 @@
 
         <a class="article-card__link" href="{{ article.url | url }}">
        <div class="color-overlay" style="background: #{{ article.data.color }};"></div>
-        <figure>
+       
+       
+       <figure>
         <picture>
       <img  loading="eager" decoding="async"  src="{{ article.data.image | url }}" alt="{{ article.data.imageAlt | safe }}" >
          </picture>

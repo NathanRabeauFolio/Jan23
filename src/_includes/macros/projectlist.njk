@@ -2,33 +2,27 @@
   <section>
     <div class="project-grid">
       {% for project in projects %}
-        <div class="project-card" {% if project.url == url %} data-current="current item"{% endif %}>
-          <h4>
-            <a class="project-card__title" href="{{ project.url | url }}">
+      
+        <div class="project-card" style="border:solid .15em #{{ project.data.color }}">
+          <a href="{{ project.url | url }}">
+            <div class="thumbnail">
+          <img src="{{ project.data.thumbnails | url }}" alt="{{ project.data.title }}">
+          <div class="overlay-thumb" style="background:#{{ project.data.color }}"></div>
+          </div>
 
-              {% if project.data.title %}
-                {{ project.data.title }}
-              {% else %}
-                Untitled
-              {% endif %}
-            </a>
-          </h4>
-          {% if project.data.summary %}
-            <p>
-              {{ project.data.summary }}
-            </p>
-          {% endif %}
           {% if project.data.tags %}
             <p class="tag-list">
               {% for tag in project.data.tags %}
                 {%- if tag != "project" -%}
                   {% set tagUrl %}/project-tags/{{ tag }}/{% endset %}
-                <a class="project-card__tag tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                <a class="project-card__tag tag" style="color:#{{ project.data.color }}" href="{{ tagUrl | url }}" rel="tag">{{ tag }} </a>
                 {%- endif -%}
               {% endfor %}
             </p>
           {% endif %}
+          </a>
         </div>
+      
       {% endfor %}
     </div>
   </section>
