@@ -32,10 +32,14 @@ section: project
 
 
 <div class="redac">
+  {% if brief %}
   <h2>brief</h2>
   <p>{{ brief }}</p>
+  {% endif %}
+  {% if reponse %}
   <h2>réponse</h2>
   <p>{{ reponse }}</p>
+  {% endif %}
 </div>
 
 </div>
