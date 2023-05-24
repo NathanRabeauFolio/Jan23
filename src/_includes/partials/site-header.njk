@@ -24,7 +24,7 @@
             href="{{ entry.url | url }}"
             {% if entry.url == page.url %} aria-current data-current="current item"{% endif %}
           >
-            {{ entry.title }}
+            {{ entry.title | replace(" ", " ") }}
           </a>
         </li>
       {%- endfor %}
