@@ -14,7 +14,6 @@ color: f6ac0f
 |:--:|
 
 Le design graphique a été façonné par des circonstances sociales, culturelles, politiques et technologiques tout au long de son évolution. On peut faire remonter l'histoire de la communication visuelle aux hiéroglyphes égyptiens créés pour consigner faits et croyances, gravés dans la pierre pour durer une éternité. Le passage au supports imprimés à lieu en Chine, où L'impression sur bois commence au IIIe siècle d'abord sur tissu, rendant la reproduction de textes et d'images matériellement possible.
-
 | ![Billet de banque et sa Matrice dynastie yuan xylographiee 1287](/src/assets/img/billet-de-banque-dynastie-yuan-xylographiee-1287.jpg) |
 |:--:|
 |*Billet de banque + Matrice • dynastie yuan xylographiee • 1287*|
@@ -83,6 +82,7 @@ La composition des livres et journaux a également évolué avec la demande croi
 
 
 ### Une réponse au tournant du siècle face à l˙industrialisation
+
 La révolution industrielle a provoqué une réaction de la part des artistes, écrivains et observateur contemporains qui s'opposaient à la déshumanisation engendrée par la mécanisation. Parmi eux, John Ruskin, écrivain et peintre britannique, défend le style gothique pour contrer la production de masse. Ses idées ont inspiré un renouveau gothique en Angleterre et en Amérique, avec des réalisations architecturales majeures, telles que le Brooklyn Bridge, conçu par l'immigrant allemand John Augustus Roebling. Ce pont, avec ses arches en ogive, contrastait avec le système de suspension en fil d'acier, technologie de pointe de l'époque.
 
 | ![John Augustus Roebling pont de Brooklyn 1869-83](/src/assets/img/brooklyn-bridge.jpg) |
@@ -118,7 +118,6 @@ William Morris en était le leader, promouvant un retour aux formes naturelles d
 | ![C. H. St. John Hornby la légende de Saint François d’Assise 1922](/src/assets/img/Hornby-pages-from-Saint-Francis-of-Assisis-Legend-1922.jpg) |
 |:--:|
 |*C. H. St. John Hornby • la légende de Saint François d’Assise • 1922*|
-
 
 ### Esthétisme (1870-1914)
 
@@ -189,6 +188,7 @@ Autre affichiste essentiel de la période, relevons le travail d'Alphonse Mucha 
 |*Jane Atché • affiche publicitaire pour le papier à cigarette Job • 1896*|
 
 ## Vers une sensibilité moderne
+
 Au début du XXe siècle, la vie quotidienne est devenue plus complexe, et les innovations dans tous les domaines ont été influencées par des concepts abstraits, pensons à la relativité restreinte est la théorie élaborée par Albert Einstein en 1905. Dans cette periode intellectuellement troublante les artistes se sont concentrés sur les qualités intrinsèques de leur médium, comme la ligne, la forme et la couleur, et ont peu à peu adopté l'abstraction.
 
 | ![Henri van de Velde Affiche pour Tropon 1899](/src/assets/img/tropon-2.jpg) |
@@ -219,8 +219,8 @@ Charles Rennie Mackintosh et Frank Lloyd Wright ont intégré cette nouvelle gé
 |:--:|
 |*Peter Behrens • affiche pour AEG • 1910*|
 
-
 ### Le monde moderne
+
 L'œuvre de l'artiste Paul Cézanne (1839-1906) ont contribué à déterminer la direction que prendrait l'abstraction visuelle. Son insistance sur les formes de base - le cylindre, la sphère et le cône - a eu un impact considérable sur le monde de l'art.
 
 | ![Paul Cezanne La Montagne Sainte Victoire 1885](/src/assets/img/Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg) |
@@ -236,6 +236,7 @@ Les graphistes, influencés par Cézanne, ont assimilé les principes de l'abstr
 L'art de l'affiche du jeune designer Lucian Bernhard a eu des effets considérables sur l'approche réductionniste du design graphique. D'abord rejeté, un imprimeur nommé Ernst Growald, a vu le génie dans ce design. Une attitude d'"économie de moyens" qui allait continuer à prospérer.
 
 ### Cubisme (1907-1921)
+
 L'artiste Pablo Picasso (1882-1973) a été grandement influencé par l'œuvre et les paroles de Cézanne.
 
 | ![Masque Ngbaka / Ngombe RDC](/src/assets/img/incarnations_ngbaka.jpg) |
@@ -250,10 +251,9 @@ Picasso a combiné la philosophie de Cézanne avec son propre intérêt pour les
 
 Son tableau emblématique Les Demoiselles d'Avignon comportait des figures décomposées en formes semi-abstraites. Picasso a montré ces formes figurales sous plusieurs points de vue simultanément, remettant ainsi en question les notions établies de point de vue, de réalité, de temps et d'espace. Cette peinture a été achevée juste après la publication de la théorie de la relativité restreinte d'Einstein, qui explorait de nouvelles théories de l'espace et du temps. Le compositeur Erik Satie (1866-1925) a également adopté des concepts similaires dans sa musique, revisitant les mêmes thèmes musicaux sous différents angles.
 
-| ![Pablo Picasso Costume pour ballet "Parade" d'Éric Satie 1917*](/src/assets/img/Costumes_du_ballet_Parade.jpg) |
+| ![Pablo Picasso Costume pour ballet Parade d'Éric Satie 1917*](/src/assets/img/Costumes_du_ballet_Parade.jpg) |
 |:--:|
-|*Pablo Picasso • Costume pour ballet "Parade" d'Éric Satie • 1917*|
-
+|*Pablo Picasso • Costume pour ballet Parade d'Éric Satie • 1917*|
 Il a collaboré avec Picasso sur le ballet Parade. Les arts visuels, la littérature, la musique et la science évoluaient et s'influençaient mutuellement.
 
 Un autre artiste et ami, Georges Braque (1882-1963), a particulièrement apprécié la manière dont le cubisme a rejeté toutes les techniques du passé (perspective, raccourci, modelage, clair-obscur) et a aidé Picasso à concevoir un nouveau mouvement artistique.
@@ -269,6 +269,7 @@ Un autre artiste et ami, Georges Braque (1882-1963), a particulièrement appréc
 Ensemble, Braque et Picasso ont peint une nouvelle réalité qui a laissé de côté les théories artistiques précédemment respectées. Le cubisme ne cherchait pas à imiter la nature. Sa nouvelle approche pouvait être appliquée à tous les arts, tant les beaux-arts que les arts appliqués, leur donnant la liberté d'interpréter la forme et l'espace d'une nouvelle manière. C'était une rupture totale avec le passé et offrait l'occasion d'explorer la créativité d'une manière jamais expérimentée auparavant.
 
 ### Futurisme (1910-1918)
+
 Les artistes, graphistes et typographes ont également trouvé une nouvelle liberté dans un mouvement artistique appelé Futurisme. Le poète et écrivain Filippo Marinetti (1876-1944) a fondé le mouvement en 1909 avec un manifeste qui proclamait: «Le mouvement et la lumière détruisent la matérialité des corps.» Le langage visuel de Marinetti était basé sur la science plutôt que sur les formes classiques.
 
 | ![Filippo Marinetti Les Mots en liberté 1919](/src/assets/img/mots-en-liberte.jpg) |
@@ -277,9 +278,9 @@ Les artistes, graphistes et typographes ont également trouvé une nouvelle libe
 
 Dans son poème de 1919 «Les mots en liberté», le chaos de la guerre, le bruit et la vitesse étaient intégrés dans la poésie visuelle de la page. Les alignements horizontaux et verticaux de la typographie avaient disparu. Les lettres étaient utilisées comme objets expressifs, et la page imprimée comme une œuvre d'art.
 
-| ![Edward McKnight Kauffer Affiche "S'envoler vers le succès … L'oiseau matinal" pour le Daily Herald 1918](/src/assets/img/Soaring_to_Success_The_Early_Bird_1918.jpg) |
+| ![Edward McKnight Kauffer Affiche S'envoler vers le succès … L'oiseau matinal pour le Daily Herald 1918](/src/assets/img/Soaring_to_Success_The_Early_Bird_1918.jpg) |
 |:--:|
-|*Edward McKnight Kauffer • Affiche "S'envoler vers le succès … L'oiseau matinal" pour le Daily Herald • 1918*|
+|*Edward McKnight Kauffer • Affiche S'envoler vers le succès … L'oiseau matinal pour le Daily Herald • 1918*|
 
 L'œuvre de deux graphistes, E. McKnight Kauffer (1890-1954) et A.M. Cassandre (1901-1968), illustre l'influence du futurisme sur les arts appliqués. Kauffer, un expatrié américain qui fut l'un des designers d'affiches les plus influents en Europe dans les années 1920 et 1930, a utilisé la dynamique du mouvement pour créer une affiche pour le journal progressiste anglais Daily Herald. Des oiseaux fragmentés, clairement influencés par le cubisme, s'envolent du haut de la page, débordant d'énergie, surtout en contraste avec la grande étendue d'espace vide au centre de l'affiche.
 
@@ -325,9 +326,9 @@ Les dadaïstes ont rejeté toutes les traditions et les normes de l'art ; leurs 
 
 En Allemagne, l'artiste dadaïste Hannah Höch (1889-1978) a apporté une perspective féministe à son travail. Elle fut l'une des pionnières du photomontage. Dans ses photomontages, Höch dépeignait ironiquement la culture de la beauté dans la photographie de mode en contraste avec des images de perfection féminine et des photos de vraies femmes. Dans son travail, elle a échangé des têtes et des corps et a fusionné le texte des journaux avec des images de journaux pour critiquer la culture dominée par les hommes de la République de Weimar et refléter le dégoût dadaïste pour le nationalisme allemand.
 
-| ![John Heartfield Photomontage "Mimétisme, parmi les travailleurs" pour la revu Aiz 1934](/src/assets/img/aiz.jpg) |
+| ![John Heartfield Photomontage Mimétisme, parmi les travailleurs pour la revu Aiz 1934](/src/assets/img/aiz.jpg) |
 |:--:|
-|*John Heartfield • Photomontage "Mimétisme, parmi les travailleurs" pour la revu Aiz • 1934*|
+|*John Heartfield • Photomontage Mimétisme, parmi les travailleurs pour la revu Aiz • 1934*|
 
 ### Surréalisme (1924-1955)
 Alors que le mouvement Dada touchait à sa fin, un autre mouvement artistique du XXe siècle naissait : le surréalisme, qui basait ses investigations sur des images psychologiquement fondées, notamment celles qui provoquaient choc et surprise. Le travail d'analyse des rêves mené par Sigmund Freud (1856-1939) nourrissait ce mouvement ; l'exploration de l'inconscient devenait un nouveau territoire pour les artistes. L'œuvre de l'artiste dada américain Man Ray (1890-1976) marquait une transition du dadaïsme au surréalisme.
@@ -486,11 +487,12 @@ En 1946, il a écrit son premier livre, Thoughts on Design, qui explique le proc
 |:--:|
 |*Paul Rand • Detournement/déclinaison Logo pour IBM • 1970*|
 
+
 Alvin Lustig (1915-1950) est connu pour ses couvertures de livres pour l'éditeur New Directions.
 
-| ![Alvin Lustig couverture pour "une saison en enfer" 1953](/src/assets/img/season-in-hell.jpg) |
+| ![Alvin Lustig couverture pour une saison en enfer 1953](/src/assets/img/season-in-hell.jpg) |
 |:--:|
-|*Alvin Lustig • couverture pour "une saison en enfer" • 1953*|
+|*Alvin Lustig • couverture pour une saison en enfer • 1953*|
 
 Sa couverture pour A Season in Hell d'Arthur Rimbaud est un bel exemple de l'intégration de la peinture et du design.
 
@@ -510,9 +512,9 @@ Au début de la Seconde Guerre mondiale, le modernisme commençait à s'implante
 ### Design publicitaire et l˙école de New York
 Dans les années 1960, une approche unique et humoristique du design publicitaire se développe autour de Madison Avenue à New York, où texte et image s'harmonisent d'une manière inédite. Cette approche, appelée l'école de New York, repose sur une relation étroite entre le contenu et la forme. 
 
-| ![Helmut Krone & Julian Koenig Affiche Think Small pour La Cocinelle de Volkswagen 1959](/src/assets/img/thinkSmall.jpg) |
+| ![Helmut Krone Julian Koenig Affiche Think Small pour La Cocinelle de Volkswagen 1959](/src/assets/img/thinkSmall.jpg) |
 |:--:|
-|*Helmut Krone & Julian Koenig • Affiche Think Small pour La Cocinelle de Volkswagen • 1959*|
+|*Helmut Krone & Julian Koenig •  Affiche Think Small pour La Cocinelle de Volkswagen • 1958*|
 
 Bill Bernbach, collègue de Rand, transpose cette intégration du mot et de l'image dans des campagnes nationales, notamment la campagne "Think Small" pour Volkswagen. Cette campagne est un exemple parfait de cette nouvelle approche publicitaire, où le message et le visuel sont étroitement liés. L'annonce, conçue par le directeur artistique Helmut Krone, dégage une qualité charmante, surréaliste et austère, invitant le lecteur à "penser petit" face à une voiture économique dans un pays habitué à voir grand.
 
@@ -527,9 +529,9 @@ Chermayeff crée un lien fort entre le mot et l'image dans un poster pour Mobil 
 
 Les années 1960 voient également une évolution des techniques typographiques, avec l'essor de la photocomposition. Herb Lubalin, designer graphique, montre comment les lettres peuvent être transformées en formes malléables pour communiquer des idées. Ses "typogrammes", comme il les appelle, ont une double fonction de lecture et de création d'images. Ces poèmes visuels en miniature se retrouvent dans des mises en page, des couvertures de livres et des publicités.
 
-| ![Herbert Lubalin Une "No more War" pour la revue Avant-Garde 1967](/src/assets/img/no-more-war-poster-lubalin.jpg) |
+| ![Herbert Lubalin Une No more War pour la revue Avant-Garde 1967](/src/assets/img/no-more-war-poster-lubalin.jpg) |
 |:--:|
-|*Herbert Lubalin • Une "No more War" pour la revue Avant-Garde • 1967*|
+|*Herbert Lubalin • Une No more War pour la revue Avant-Garde • 1967*|
 
 | ![Lubalin Inc. Logotypes 1964](/src/assets/img/herb.jpg) |
 |:--:|
@@ -595,7 +597,6 @@ Carson mélange les styles de police, superpose les textes et les images, et jou
 Depuis les années 2000, le design numérique s'est développé rapidement, avec de nouveaux outils, techniques et plateformes disponibles pour les designers. Le design graphique se trouve au cœur de l'interaction avec le public, allant des applications mobiles aux médias sociaux en passant par les sites web. Les designers sont désormais en mesure de créer des expériences interactives, des visualisations de données et des animations pour toucher un public plus large et diversifié.
 
 Parmi les designers contemporains, Stefan Sagmeister, Jessica Walsh et Paula Scher sont des figures marquantes. Leur travail se caractérise par des expérimentations audacieuses et des approches conceptuelles qui fusionnent les techniques traditionnelles et numériques. Leurs œuvres engagent le public et suscitent des discussions, soulignant ainsi le pouvoir du design graphique pour raconter des histoires, exprimer des idées et évoquer des émotions.
-
 
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Inconnue-Affiche-Excursion-Train-1876.jpg) |
 |:--:|
