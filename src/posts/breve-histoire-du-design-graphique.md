@@ -31,27 +31,27 @@ L'imagination des designers graphiques est guidée par les innovations et les be
 
 Une accélération de la technologie a commencé à prendre forme en Europe à la fin des années 1700, lorsque les économies sont passées du travail manuel une production basée sur la machine. Des inventions telles que la machine à vapeur, perfectionnée par James Watt (1736-1819), ont contribué à stimuler cette révolution industrielle, en particulier en Angleterre. Dès les années 1850, l'économie nationale anglaise était dominée par l'industrie, et sa structure de pouvoir passait des propriétaires terriens aux industriels. À mesure que les gens affluaient dans les villes pour travailler dans les usines, leur pouvoir d'achat augmentait. Les produits proposés ont suivi le rythme, tout comme la publicité. Les journaux, les magazines et les affiches se sont développés parallèlement à une forme plus massive de consomation
 
-| ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/Inconnue-Affiche-Excursion-Train-1876.jpg) |
+| ![Prospectus pour excursion en train 1876](/src/assets/img/Inconnue-Affiche-Excursion-Train-1876.jpg) |
 |:--:|
-|*Prospectus pour excursion en train • 1876.*|
+|*Prospectus pour excursion en train • 1876*|
 
 Pour les inventeurs européens, le continent souffrant s'embourbant dans l'épopée napoléonniene, l'Angleterre était une opportunité. Le Français Nicolas Robert par exemple a conçu sa première machine pour fabriquer du papier en rouleau en 1799, un brevets amelioré ultérieur  par les frères Fourdrinier. L'impression à vapeur a rapidement suivi, introduite au journal du Times de Londres en 1814 par l'Allemand Friedrich Koenig (1774-1833). La fabrication du papier et la vitesse des presses ont alors réduit le coût d'impressions, les rendant plus accessibles au public. Par conséquent, la conception des publicités, prospectus et autres supports imprimés est devenue une activité spécialisée, considérée comme distincte de la production industrielle. L'ouvrier imprimeur se vivant comme une petite aristocratie ouvriere consciente de sa position particulière dans la société du XIXe siècle.
 
 | ![Rotative Wilhelm Koenig 1876](/src/assets/img/rotative-Wilhelm-koenig-1876.jpg) |
 |:--:|
-|*Rotative Wilhelm Koenig • 1876.*|
+|*Rotative Wilhelm Koenig • 1876*|
 
 Outre les technologies de press, l'invention de la photographie à particulièrement armée le domaine naissant de la création visuelle. Le premier cliché photographique permanent a été réalisé en 1826 par l'inventeur français [Joseph Nicéphore Niépce](https://fr.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce) (1765-1833). Le partenaire de Niépce, Louis-Jacques-Mandé Daguerre (1787-1851), a perfectionné l'invention en racourcissant le processus d'exposition du sujet photographié de huit heures à trente minutes et en inventant un moyen de fixer l'image sur la plaque argentée.
 
-| ![Joseph Nicéphore Niépce Point de vue du Gras Héliogravure 1826.](/src/assets/img/joseph-nicephore-Niepce-oint-de-vue-du-gras-heliogravure-1826.jpg) |
+| ![Joseph Nicéphore Niépce Point de vue du Gras Héliogravure 1826](/src/assets/img/joseph-nicephore-Niepce-oint-de-vue-du-gras-heliogravure-1826.jpg) |
 |:--:|
-|*Joseph Nicéphore Niépce, • Point de vue du Gras Héliogravure • 1826.*|
+|*Joseph Nicéphore Niépce • Point de vue du Gras Héliogravure • 1826*|
 
 Developpé en 1839, le daguerréotype, terme désignant ce type de photographie ancienne, permet pour la première fois de capter l'évenement. Notons cependant que, les photographies semblaient d'abord irréelles pour un grand public le temps de pause, encore long, materialisant souvent des silhouettse phantomatiques. La pratique de la retouche phtographique ainsi que les premiers photomontages comme ceux d'Ernest et Eugène Appert (1830-1905) témoigne de conflits de perception de ce nouveau medium entre l'authentique et la fiction.
 
 | ![Alphonse Liébert La colonne Vendôme Daguerréotype 1871.](/src/assets/img/alphonse-liebert-place-vendome-1871.jpg) |
 |:--:|
-|*Alphonse Liébert • La colonne Vendôme • Daguerréotype • 1871.*|
+|*Alphonse Liébert • La colonne Vendôme • Daguerréotype • 1871*|
 
 Le perfectionnement du procédé photographique passe le scientifique anglais William Henry Fox Talbot (1800-1877). Ainsi invente t'il une image négative à partir de laquelle un nombre illimité de tirages sur papier (appelés calotypes) pouvaient être réalisés. Talbot publie en outre "The Pencil of Nature" que l'on retient comme le premier livre illustré par des photographies, et une planche en particulier, intitulée "The Open Door", est un exemple notoire de l'utilisation d'un medium moderne, mais reprend formellement la composition de peintures néerlandaise du XVIIe siècle.
 
@@ -238,67 +238,67 @@ L'art de l'affiche du jeune designer Lucian Bernhard a eu des effets considérab
 ### Cubisme (1907-1921)
 L'artiste Pablo Picasso (1882-1973) a été grandement influencé par l'œuvre et les paroles de Cézanne.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/incarnations_ngbaka.jpg) |
+| ![Masque Ngbaka / Ngombe RDC](/src/assets/img/incarnations_ngbaka.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|* Masque • Ngbaka / Ngombe • RDC*|
 
 Picasso a combiné la philosophie de Cézanne avec son propre intérêt pour les qualités abstraites et brutes de l'art africain traditionnel. Les peintures et les sculptures de Picasso ont conduit au développement du cubisme, l'un des mouvements artistiques les plus influents du XXe siècle.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Picasso_demoiselles_davignon.jpg) |
+| ![Pablo Picasso Les demoiselles d'Avignon 1907](/src/assets/img/Picasso_demoiselles_davignon.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Pablo Picasso • Les demoiselles d'Avignon • 1907*|
 
 Son tableau emblématique Les Demoiselles d'Avignon comportait des figures décomposées en formes semi-abstraites. Picasso a montré ces formes figurales sous plusieurs points de vue simultanément, remettant ainsi en question les notions établies de point de vue, de réalité, de temps et d'espace. Cette peinture a été achevée juste après la publication de la théorie de la relativité restreinte d'Einstein, qui explorait de nouvelles théories de l'espace et du temps. Le compositeur Erik Satie (1866-1925) a également adopté des concepts similaires dans sa musique, revisitant les mêmes thèmes musicaux sous différents angles.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Costumes_du_ballet_Parade.jpg) |
+| ![Pablo Picasso Costume pour ballet "Parade" d'Éric Satie 1917*](/src/assets/img/Costumes_du_ballet_Parade.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Pablo Picasso • Costume pour ballet "Parade" d'Éric Satie • 1917*|
 
 Il a collaboré avec Picasso sur le ballet Parade. Les arts visuels, la littérature, la musique et la science évoluaient et s'influençaient mutuellement.
 
 Un autre artiste et ami, Georges Braque (1882-1963), a particulièrement apprécié la manière dont le cubisme a rejeté toutes les techniques du passé (perspective, raccourci, modelage, clair-obscur) et a aidé Picasso à concevoir un nouveau mouvement artistique.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/braque-viaduc-de-lestaque-1907-1908.jpg) |
+| ![George Braque Viaduc de Lestaque 1908](/src/assets/img/braque-viaduc-de-lestaque-1907-1908.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*George Braque • Viaduc de Lestaque • 1908*|
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/picasso-maison-s-sur-la-colline-a-Horta-de-Ebreo-1909.jpg) |
+| ![Pablo Picasso Maisons sur la colline 1909](/src/assets/img/picasso-maison-s-sur-la-colline-a-Horta-de-Ebreo-1909.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Pablo Picasso • Maisons sur la colline • 1909*|
 
 Ensemble, Braque et Picasso ont peint une nouvelle réalité qui a laissé de côté les théories artistiques précédemment respectées. Le cubisme ne cherchait pas à imiter la nature. Sa nouvelle approche pouvait être appliquée à tous les arts, tant les beaux-arts que les arts appliqués, leur donnant la liberté d'interpréter la forme et l'espace d'une nouvelle manière. C'était une rupture totale avec le passé et offrait l'occasion d'explorer la créativité d'une manière jamais expérimentée auparavant.
 
 ### Futurisme (1910-1918)
 Les artistes, graphistes et typographes ont également trouvé une nouvelle liberté dans un mouvement artistique appelé Futurisme. Le poète et écrivain Filippo Marinetti (1876-1944) a fondé le mouvement en 1909 avec un manifeste qui proclamait: «Le mouvement et la lumière détruisent la matérialité des corps.» Le langage visuel de Marinetti était basé sur la science plutôt que sur les formes classiques.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/mots-en-liberte.jpg) |
+| ![Filippo Marinetti Les Mots en liberté 1919](/src/assets/img/mots-en-liberte.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Filippo Marinetti • Les Mots en liberté • 1919*|
 
 Dans son poème de 1919 «Les mots en liberté», le chaos de la guerre, le bruit et la vitesse étaient intégrés dans la poésie visuelle de la page. Les alignements horizontaux et verticaux de la typographie avaient disparu. Les lettres étaient utilisées comme objets expressifs, et la page imprimée comme une œuvre d'art.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Soaring_to_Success_The_Early_Bird_1918.jpg) |
+| ![Edward McKnight Kauffer Affiche "S'envoler vers le succès … L'oiseau matinal" pour le Daily Herald 1918](/src/assets/img/Soaring_to_Success_The_Early_Bird_1918.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Edward McKnight Kauffer • Affiche "S'envoler vers le succès … L'oiseau matinal" pour le Daily Herald • 1918*|
 
 L'œuvre de deux graphistes, E. McKnight Kauffer (1890-1954) et A.M. Cassandre (1901-1968), illustre l'influence du futurisme sur les arts appliqués. Kauffer, un expatrié américain qui fut l'un des designers d'affiches les plus influents en Europe dans les années 1920 et 1930, a utilisé la dynamique du mouvement pour créer une affiche pour le journal progressiste anglais Daily Herald. Des oiseaux fragmentés, clairement influencés par le cubisme, s'envolent du haut de la page, débordant d'énergie, surtout en contraste avec la grande étendue d'espace vide au centre de l'affiche.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/cassandre.jpg) |
+| ![Adolphe Mouron Cassandre Affiche le Journal l'Intransigeant 1925](/src/assets/img/cassandre.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Adolphe Mouron Cassandre • Affiche le Journal l'Intransigeant • 1925*|
 
 Cassandre, un célèbre graphiste français, a intégré la typographie et l'image dans une composition énergisée pour L'Intransigeant, où des fils de télégraphe mènent directement à l'oreille d'un visage abstrait. Là encore, les attributs futuristes du mouvement et de la vitesse sont fusionnés avec l'abstraction cubiste. Le résultat est un hybride de styles au service de l'art appliqué de la promotion.
 
 ### Suprématisme (1915-1934)
 En Russie, l'artiste Kazimir Malevich (1878-1935) a qualifié le mélange du cubisme avec le futurisme de Cubo-Futurisme.
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/remouleur.jpg) |
+| ![Kasimir Malevitch Le Rémouleur 1913](/src/assets/img/remouleur.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Kasimir Malevitch • Le Rémouleur • 1913*|
 
-| ![Lucian Bernhard Affiche pour Allumette Priester 1905](/src/assets/img/Suprematist_Composition.jpg) |
+| ![Kasimir Malevitch Composition suprématiste 1915](/src/assets/img/Suprematist_Composition.jpg) |
 |:--:|
-|*Lucian Bernhard • Affiche pour Allumette Priester • 1905*|
+|*Kasimir Malevitch • Composition suprématiste • 1915*|
 
 À la fois fracturé et énergisé, sa distillation a conduit au tableau Suprématiste de Malevich (Huit rectangles rouges). Le suprématisme, un mouvement artistique conçu par Malevich, signifiait "la suprématie du sentiment pur dans l'art créatif". Son mouvement a lancé une forme d'art qui éliminait complètement les objets et la représentation. La composition est devenue une abstraction géométrique pure et suggérait une sorte de spiritualité métaphysique, une quête d'une vérité supérieure. Réduire tout à l'essentiel était une façon de recommencer dans les arts visuels, tout comme la révolution bolchevique de 1917 cherchait à recommencer en nivelant la société en une organisation sociale sans classe et sans État. Le suprématisme, avec sa croyance en une forme et un concept purs, continue d'influencer les arts visuels aujourd'hui.
 
@@ -309,47 +309,47 @@ La Première Guerre mondiale (1914-1918) a été menée avec des mitrailleuses, 
 |:--:|
 |*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/7eme-face-du-de.jpg) |
+| ![Georges Hugnet & Marcel Duchamp La Septième Face du Dé: Poèmes - Découpages 1936](/src/assets/img/7eme-face-du-de.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Georges Hugnet & Marcel Duchamp • La Septième Face du Dé: Poèmes - Découpages • 1936*|
 
 Les dadaïstes ont rejeté toutes les traditions et les normes de l'art ; leurs publications et manifestes, tous écrits par Tristan Tzara (1896-1963), affirmaient que quoi que l'art représente, Dada représentait le contraire. Cet esprit absurde a commencé dans un petit cabaret en Suisse, mais s'est répandu, établissant des bases en Allemagne, en France et aux États-Unis.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/hoche1.jpg) |
+| ![Hannah Höch Da-Dandy 1919](/src/assets/img/hoche1.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Hannah Höch • Da-Dandy • 1919*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/hoche2.jpg) |
+| ![Hannah Höch Der Vater 1920](/src/assets/img/hoche2.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Hannah Höch • Der Vater • 1920*|
 
 En Allemagne, l'artiste dadaïste Hannah Höch (1889-1978) a apporté une perspective féministe à son travail. Elle fut l'une des pionnières du photomontage. Dans ses photomontages, Höch dépeignait ironiquement la culture de la beauté dans la photographie de mode en contraste avec des images de perfection féminine et des photos de vraies femmes. Dans son travail, elle a échangé des têtes et des corps et a fusionné le texte des journaux avec des images de journaux pour critiquer la culture dominée par les hommes de la République de Weimar et refléter le dégoût dadaïste pour le nationalisme allemand.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/aiz.jpg) |
+| ![John Heartfield Photomontage "Mimétisme, parmi les travailleurs" pour la revu Aiz 1934](/src/assets/img/aiz.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*John Heartfield • Photomontage "Mimétisme, parmi les travailleurs" pour la revu Aiz • 1934*|
 
 ### Surréalisme (1924-1955)
 Alors que le mouvement Dada touchait à sa fin, un autre mouvement artistique du XXe siècle naissait : le surréalisme, qui basait ses investigations sur des images psychologiquement fondées, notamment celles qui provoquaient choc et surprise. Le travail d'analyse des rêves mené par Sigmund Freud (1856-1939) nourrissait ce mouvement ; l'exploration de l'inconscient devenait un nouveau territoire pour les artistes. L'œuvre de l'artiste dada américain Man Ray (1890-1976) marquait une transition du dadaïsme au surréalisme.
 
 Emmanuel Radnitzky (1890-1976) a changé son nom en Man Ray à cause de l'antisémitisme répandu aux États-Unis à l'époque. Le groupe d'artistes qu'il cofonda s'appelait "Others", reflétant son affinité avec les artistes fuyant la Première Guerre mondiale en Europe. Man Ray rencontra Marcel Duchamp, qui vint à New York en 1915. Il suivit Duchamp à Paris en 1921, convaincu que son esprit créatif y prospérerait. Cela se vérifia, notamment grâce à un processus photographique sans appareil photo qu'il appela les "rayographies".
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/manray-sol.jpg) |
+| ![Man Ray Sleeping Woman 1929](/src/assets/img/manray-sol.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Man Ray • Sleeping Woman • 1929*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/02-Manraym-L-2.jpg) |
+| ![Man Ray Rayograph 1924](/src/assets/img/02-Manraym-L-2.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Man Ray • Rayograph • 1924*|
 
 
 Dans Champs Délicieux, Man Ray étendit les possibilités de la photographie en tant que médium expressif. Par pure inventivité, il créa des formes et des ombres qui scintillent avec une apparence tridimensionnelle, un effet qu'il obtint en déplaçant des faisceaux de lumière sur le papier photo.
 
 L'impact du surréalisme sur le design graphique a été profond, tant visuellement que conceptuellement. L'affiche de Man Ray pour le métro de Londres a montré comment la théorie surréaliste pouvait être appliquée au design graphique.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/manray.jpg) |
+| ![Man Ray Affiche pour le métro de Londre 1934](/src/assets/img/manray.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Man Ray • Affiche pour le métro de Londre • 1934*|
 
 Ici, l'analogie faite entre le logo et une planète crée une communication efficace et humoristique. Malheureusement, les médias de masse ont exploité le surréalisme au point que la manipulation des rêves et l'utilisation de la psychologie sont davantage reconnues comme une campagne publicitaire qu'un mouvement artistique. Néanmoins, pendant de nombreuses années, l'influence du surréalisme sur les arts graphiques a été très significative et a ouvert l'esprit des designers à des possibilités créatives sans limites.
 
@@ -359,89 +359,89 @@ Alors que la Première Guerre mondiale et la Révolution russe touchaient à leu
 
 ### Constructivisme (1919-1934)
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/tatline.jpg) |
+| ![Vladimir Evgrafovich Tatlin Plan du monument à la Troisième-Internationale 1919](/src/assets/img/tatline.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Vladimir Evgrafovich Tatlin • Plan du monument à la Troisième-Internationale • 1919*|
 
 En Russie, Vladimir Tatline (1885-1953) fonda l'art constructiviste, qui embrassa le communisme, rejeta l'art pour l'art et proclama que l'art devait avoir un but social. Son Monument à la Troisième Internationale était une construction en spirale de verre et d'acier glorifiant le déterminisme technologique des bolcheviks. Destiné à exister en tant que centre de propagande, sa forme épurée suivait sa fonction en tant que symbole non orné de l'industrie. Si elle avait été construite à l'échelle réelle, elle aurait éclipsé la Tour Eiffel. Pourtant, même en tant que modèle, il exprimait un manifeste de soutien à l'esthétique constructiviste. Le constructivisme était principalement préoccupé par l'espace, les matériaux et le mouvement. Son intention était de faire passer toutes les formes d'art d'expressions de style personnel vers un style collectif basé sur la machine. Les écrivains, photographes et designers pouvaient tous suivre cette voie.
 
 Alexander Rodtchenko (1891-1956), El Lissitzky (1890-1941) et les frères Vladimir Stenberg (1899-1982) et Georgii Stenberg (1900-1933) ont contribué à créer des designs graphiques audacieux qui parlaient le langage constructiviste.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/rodchenko.jpg) |
+| ![Alexandre Rodtchenko Affiche pour pour la maison d’édition Knigi 1924](/src/assets/img/rodchenko.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Alexandre Rodtchenko • Affiche pour pour la maison d’édition Knigi • 1924*|
 
 Dans l'affiche de Rodtchenko pour un éditeur d'État de Lenningrad, une femme crie les mots "Livres dans toutes les branches du savoir" dans un espace en forme de mégaphone. Le message socialiste et sa mise en page sont extrêmement utilitaires.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/ismes.jpg) |
+| ![El Lissitzky Die Kunstismen 1924](/src/assets/img/ismes.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*El Lissitzky • Die Kunstismen • 1924*|
 
 Les mises en page de Lissitzky pour Les Ismes de l'art exprimaient comment le langage fonctionnel et mécanique du constructivisme pouvait être utilisé typographiquement. Parce que Lissitzky parlait plusieurs langues et collaborait avec de nombreux artistes et designers, il a pu diffuser ce langage visuel, sans serif, constructiviste à travers l'Europe. Inspirés par Lissitzky, les designers ont encore affiné et construit un système complet de typographie. Lissitzky a également réussi à fusionner son approche avec les aspects sociaux du communisme, comme on peut le voir dans son affiche pour une exposition à Zurich.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Lissitzky.jpg) |
+| ![El Lissitzky Affiche pour l'exposition russe au Musée des Arts décoratifs de Zurich 1929](/src/assets/img/Lissitzky.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*El Lissitzky • Affiche pour l'exposition russe au Musée des Arts décoratifs de Zurich • 1929*|
 
 Dans l'affiche, Lissitzky utilise un double portrait pour représenter l'idée d'une stature égale des jeunes hommes et femmes dans l'Union soviétique.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/manwithmoviecamera.jpg) |
+| ![Georgii & Vladimir Sternberg Affiche pour l'Homme à la caméra de Dziga Vertov 1929](/src/assets/img/manwithmoviecamera.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Georgii & Vladimir Sternberg • Affiche pour l'Homme à la caméra de Dziga Vertov • 1929*|
 
 Pour le cinéma soviétique en plein essor, les artistes et designers Vladimir Stenberg et Georgii Stenberg ont conçu des œuvres extraordinaires dans le mode constructiviste. Travaillant en équipe, les frères Stenberg ont inventé le genre de l'affiche de film, combinant l'abstraction avec le récit visuel. L'affiche des frères Stenberg pour L'Homme à la caméra utilisait la typographie, la couleur et la perspective de manière inédite. Les bolcheviks ont vu l'utilité et la valeur du design graphique dans ces applications commerciales. Ces films et les affiches qui les promouvaient ont aidé à montrer aux masses qu'un nouvel ordre social était en place.
 
 ### De Stijl (1917-1931)
 Un mouvement d'art abstrait néerlandais appelé De Stijl ("Le Style") était connu pour ses lignes droites, ses angles droits et ses couleurs primaires.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Piet_Mondriaan.jpg) |
+| ![Piet Mondriaan Compositie met groot rood vlak, geel, zwart, grijs en blauw 1920](/src/assets/img/Piet_Mondriaan.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Piet Mondriaan • Compositie met groot rood vlak, geel, zwart, grijs en blauw • 1920*|
 
 En 1920, Piet Mondrian (1872-1944) publia le manifeste de De Stijl intitulé Néo-Plasticisme, qui devint un autre nom pour le mouvement. Dans son manifeste, Mondrian rejeta la symétrie et privilégia la manipulation et l'agencement de formes géométriques et de couleurs dans ce qu'il appelait "l'équilibre dynamique".
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/vanDoesburg-.jpg) |
+| ![Theo van Doesburg couverture pour Klassiek-Barok-Modern 1920](/src/assets/img/vanDoesburg-.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Theo van Doesburg • couverture pour Klassiek-Barok-Modern • 1920*|
 
 La Composition simultanée de Theo van Doesburg (1883-1931) est un exemple de la manière dont cette pureté spirituelle et universelle était appliquée à la peinture. Cette approche a également été appliquée au design graphique, comme on peut le voir dans les nombreuses formes de promotion de De Stijl gérées par van Doesburg, y compris les affiches et les livrets. Une police de caractères conçue par van Doesburg en 1919 a montré jusqu'où pouvait aller la suppression des courbes et des diagonales. Le point central du mouvement était le magazine De Stijl de Van Doesburg, qui contribua à diffuser les théories du mouvement. Les mises en page du magazine exprimaient la même conviction dynamique que l'on retrouve dans les peintures et l'architecture du mouvement. Les arrangements typographiques de Van Doesburg étaient structurellement poétiques, comme des meubles sur un plan d'étage. Le raffinement typographique et l'espace créé sur la page ont évolué vers le Style international typographique du design graphique.
 
 ### Bauhaus (1919-1933)
 Le mouvement Bauhaus a eu une influence majeure sur le graphisme. Fondée en 1919 à Weimar, en Allemagne, par l'architecte Walter Gropius, cette école d'art avait pour objectif d'éliminer la distinction entre les beaux-arts et les arts appliqués, et de créer une union entre les arts, l'artisanat et l'industrie. Le Bauhaus a jeté les bases de la pensée sur l'art, l'architecture et le design au XXe siècle.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/lfa_bauhaus_0110_001.jpg) |
+| ![Johannes Itten Couverture d'Utopia: Documents de la réalité 1921](/src/assets/img/lfa_bauhaus_0110_001.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Johannes Itten • Couverture d'Utopia: Documents de la réalité • 1921*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/lfa_bauhaus_0110_034.jpg) |
+| ![Johannes Itten Pages d'Utopia: Documents de la réalité 1921](/src/assets/img/lfa_bauhaus_0110_034.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Johannes Itten • Pages d'Utopia: Documents de la réalité • 1921*|
 
 L'école a été fortement influencée par les théories expressionnistes des artistes associés au Bauhaus, tels que Johannes Itten, Josef Albers, Lyonel Feininger, Paul Klee et Wassily Kandinsky. Ils ont établi un socle de spiritualité, d'intuition et d'universalité, axé sur la nature physique des matériaux. De 1919 à 1922, Itten a enseigné au Bauhaus et développé le cours préliminaire innovant qui initiait les élèves aux bases de la composition, de la théorie des couleurs et des caractéristiques des matériaux.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/StaatlichesBauhausTitelseite.jpg) |
+| ![Lázló Moholy-Nagy Catalogue du Bauhaus 1929](/src/assets/img/StaatlichesBauhausTitelseite.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Lázló Moholy-Nagy • Catalogue du Bauhaus • 1929*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Bauhausbucher14.jpg) |
+| ![Lázló Moholy-Nagy brochure pour la série de quatorze livres Bauhaus 1929](/src/assets/img/Bauhausbucher14.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Lázló Moholy-Nagy • brochure pour la série de quatorze livres Bauhaus • 1929*|
 
 Le programme du Bauhaus a évolué sous l'influence d'autres mouvements, tels que De Stijl et le constructivisme. L'arrivée de Laszlo Moholy-Nagy en 1923 a marqué un véritable tournant. Il a adopté l'esthétique de la machine pour relier art et design aux masses.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Herbert-Bayer-design-kiosque-a-journaux-1924.jpg) |
+| ![Hebert Bayer Kiosque à journaux 1924](/src/assets/img/Herbert-Bayer-design-kiosque-a-journaux-1924.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Hebert Bayer • Kiosque à journaux • 1924*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/futura.png) |
+| ![Paul Renner étude pour la police Futura 1922](/src/assets/img/futura.png) |
 |:--:|
-|*Paul Renner • Futura • 1922*|
+|*Paul Renner • étude pour la police Futura • 1922*|
 
 Herbert Bayer a poussé l'influence des arts appliqués encore plus loin en concevant un billet de banque et en utilisant des surimpressions de couleurs multiples pour prévenir la contrefaçon.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Herbert-Bayer-affiche-Ausstellung-Europaisches-Kunstgewerbe-1927.jpg) |
+| ![Herbert Bayer Affiche pour l'Exposition d'arts appliqués européens de Leipzig 1927](/src/assets/img/Herbert-Bayer-affiche-Ausstellung-Europaisches-Kunstgewerbe-1927.jpg) |
 |:--:|
-|*Tristan Tzara & Ilja Zdanevich • Le Coeur à barbe Journal transparent • 1922*|
+|*Herbert Bayer • Affiche pour l'Exposition d'arts appliqués européens de Leipzig • 1927*|
 
 En 1925, le Bauhaus a déménagé de Weimar à Dessau, puis à Berlin en 1932. Les nazis ont fermé l'école en 1933 car ils préféraient un art et une architecture qui reflétaient leur vision grandiose de l'Allemagne. L'héritage du Bauhaus réside dans ses enseignants et ses élèves qui ont diffusé ses méthodes et ses idéaux dans le monde entier.
 
@@ -454,13 +454,13 @@ L'ascension du nazisme a poussé de nombreux artistes européens à fuir aux Ét
 |:--:|
 |*Dr. Mehemed Fehmy Agha & Edward Steichen • couverture pour vogue • 1932*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Cipe-Pineles-1949.jpg) |
+| ![Cipe Pineles couverture pour Seventeen 1949](/src/assets/img/Cipe-Pineles-1949.jpg) |
 |:--:|
 |*Cipe Pineles • couverture pour Seventeen • 1949*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Glamour-magazine-by-Cipe-Pineles.jpg) |
+| ![Cipe Pineles chemin de fer pour Glamour magazine 1946](/src/assets/img/Glamour-magazine-by-Cipe-Pineles.jpg) |
 |:--:|
-|*Cipe Pineles • Glamour magazine • 1946*|
+|*Cipe Pineles • chemin de fer pour Glamour magazine • 1946*|
 
 Cipe Pineles a été la première directrice artistique d'un magazine grand public américain, Glamour, en 1942.
 
@@ -468,40 +468,40 @@ En 1937, Laszlo Moholy-Nagy a été invité à créer une école similaire au Ba
 
 Paul Rand (1914-1996) est l'un des designers graphiques américains les plus influents. Son travail, son enseignement et ses écrits ont inspiré des générations de designers. Rand a intégré l'illustration dans la conception globale de la page et a travaillé comme directeur artistique pour Apparel Arts et Esquire.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/rand46.jpg) |
+| ![Paul Rand couverture pour Réflexions sur le design 1947](/src/assets/img/rand46.jpg) |
 |:--:|
-|*Cipe Pineles • couverture pour Seventeen • 1946*|
+|*Paul Rand • couverture pour Réflexions sur le design • 1947*|
 
 En 1946, il a écrit son premier livre, Thoughts on Design, qui explique le processus de conception comme une combinaison de raison, d'intuition et d'intelligence. Rand cherchait à élever les produits les plus ordinaires en objets à la fois beaux et utiles. Il a également conçu des identités visuelles pour des entreprises telles qu'IBM, ABC, UPS et Westinghouse.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/ibm-1.jpg) |
+| ![Paul Rand Logo pour IBM 1962](/src/assets/img/ibm-1.jpg) |
 |:--:|
 |*Paul Rand • Logo pour IBM • 1962*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Journal-of-the-American-Institute-of-Graphic-Arts-AIGA-01.jpg) |
+| ![Paul Rand Couverture pour l’American Institute of Graphic Art 1968](/src/assets/img/Journal-of-the-American-Institute-of-Graphic-Arts-AIGA-01.jpg) |
 |:--:|
 |*Paul Rand • Couverture pour l’American Institute of Graphic Art • 1968*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/ibm-2.jpg) |
+| ![Paul Rand Detournement/déclinaison Logo pour IBM 1970](/src/assets/img/ibm-2.jpg) |
 |:--:|
 |*Paul Rand • Detournement/déclinaison Logo pour IBM • 1970*|
 
 Alvin Lustig (1915-1950) est connu pour ses couvertures de livres pour l'éditeur New Directions.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/season-in-hell.jpg) |
+| ![Alvin Lustig couverture pour "une saison en enfer" 1953](/src/assets/img/season-in-hell.jpg) |
 |:--:|
 |*Alvin Lustig • couverture pour "une saison en enfer" • 1953*|
 
 Sa couverture pour A Season in Hell d'Arthur Rimbaud est un bel exemple de l'intégration de la peinture et du design.
 
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Thompson_04.jpg) |
+| ![Bradbury Thompson Mise en page pour revue Westvaco Inspirations 186 1951](/src/assets/img/Thompson_04.jpg) |
 |:--:|
-|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 186, • 1951*|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 186 • 1951*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/rock-roll.jpg) |
+| ![Bradbury Thompson Mise en page pour revue Westvaco Inspirations 210 1958](/src/assets/img/rock-roll.jpg) |
 |:--:|
-|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210 • 1958*|
 
 Bradbury Thompson (1911-1995) a travaillé pour la société papetière Westvaco et a modernisé le design du périodique Westvaco Inspirations for Printers. Son amour de la typographie expérimentale et de la manipulation d'images a fait d'Inspirations l'une des principales publications avant-gardistes du domaine.
 
@@ -510,60 +510,60 @@ Au début de la Seconde Guerre mondiale, le modernisme commençait à s'implante
 ### Design publicitaire et l˙école de New York
 Dans les années 1960, une approche unique et humoristique du design publicitaire se développe autour de Madison Avenue à New York, où texte et image s'harmonisent d'une manière inédite. Cette approche, appelée l'école de New York, repose sur une relation étroite entre le contenu et la forme. 
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/thinkSmall.jpg) |
+| ![Helmut Krone & Julian Koenig Affiche Think Small pour La Cocinelle de Volkswagen 1959](/src/assets/img/thinkSmall.jpg) |
 |:--:|
-|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+|*Helmut Krone & Julian Koenig • Affiche Think Small pour La Cocinelle de Volkswagen • 1959*|
 
 Bill Bernbach, collègue de Rand, transpose cette intégration du mot et de l'image dans des campagnes nationales, notamment la campagne "Think Small" pour Volkswagen. Cette campagne est un exemple parfait de cette nouvelle approche publicitaire, où le message et le visuel sont étroitement liés. L'annonce, conçue par le directeur artistique Helmut Krone, dégage une qualité charmante, surréaliste et austère, invitant le lecteur à "penser petit" face à une voiture économique dans un pays habitué à voir grand.
 
 Autres designers et projets marquants
 D'autres designers, comme Ivan Chermayeff, adoptent cette approche conceptuelle.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Ivan-Chermayeff-poster-for-Between-the-Wars-1977.jpg) |
+| ![Ivan Chermayef affiche pour le documentaire Between the Wars 1977](/src/assets/img/Ivan-Chermayeff-poster-for-Between-the-Wars-1977.jpg) |
 |:--:|
-|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+|*Ivan Chermayef • affiche pour le documentaire Between the Wars • 1977*|
 
 Chermayeff crée un lien fort entre le mot et l'image dans un poster pour Mobil Oil Corporation, mettant en scène un chapeau de diplomate encadré par des casques militaires de la Première et de la Seconde Guerre mondiale. Le titre du programme, "Between the Wars", est également intégré à la composition, véhiculant un sens grâce à l'agencement des éléments. La disposition centrée du poster oblige le spectateur à se concentrer sur l'interprétation de l'idée.
 
 Les années 1960 voient également une évolution des techniques typographiques, avec l'essor de la photocomposition. Herb Lubalin, designer graphique, montre comment les lettres peuvent être transformées en formes malléables pour communiquer des idées. Ses "typogrammes", comme il les appelle, ont une double fonction de lecture et de création d'images. Ces poèmes visuels en miniature se retrouvent dans des mises en page, des couvertures de livres et des publicités.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/no-more-war-poster-lubalin.jpg) |
+| ![Herbert Lubalin Une "No more War" pour la revue Avant-Garde 1967](/src/assets/img/no-more-war-poster-lubalin.jpg) |
 |:--:|
-|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+|*Herbert Lubalin • Une "No more War" pour la revue Avant-Garde • 1967*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/herb.jpg) |
+| ![Lubalin Inc. Logotypes 1964](/src/assets/img/herb.jpg) |
 |:--:|
-|*Bradbury Thompson • Mise en page pour revue Westvaco Inspirations 210, • 1958*|
+|*Lubalin Inc. • Logotypes • 1964*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Ms.jpg) |
+| ![Bea Feitler Couverture pour Ms. magazine 1972](/src/assets/img/Ms.jpg) |
 |:--:|
-|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+|*Bea Feitler • Couverture pour Ms. magazine • 1972*|
 
 Par exemple, l'annonce d'Herb Lubalin pour un concours d'affiches anti-guerre, qui apparaît sur la quatrième de couverture du magazine Avant Garde, mêle typographie et drapeau pour communiquer la force du design et de la protestation. Lubalin, directeur artistique du magazine de 1968 à 1971, conçoit également son logo et développe la police de caractères utilisée dans le titre du magazine, qui deviendra emblématique de la période de la photocomposition.
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/glasser.jpg) |
+| ![Milton Glaser Portrait de Bob Dylan 1967](/src/assets/img/glasser.jpg) |
 |:--:|
-|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+|*Milton Glaser • Portrait de Bob Dylan • 1967*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/Moscoso.jpg) |
+| ![Victor Moscoso Affiche pour concert des groupes Quicksilver Messenger Service, Mount Rushmore, Big Brother and the Holding Company, Blue Cheer 1967](/src/assets/img/Moscoso.jpg) |
 |:--:|
-|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+|*Victor Moscoso • Affiche pour concert des groupes Quicksilver Messenger Service, Mount Rushmore, Big Brother and the Holding Company, Blue Cheer • 1967*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/WesWilson.jpg) |
+| ![Wes Wilson Affiche concert Captain Beefheart 1966](/src/assets/img/WesWilson.jpg) |
 |:--:|
-|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+|*Wes Wilson • Affiche concert Captain Beefheart • 1966*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/sergent-pepper.jpg) |
+| ![Jann Haworth & Peter Blake Jaquette pour l'album Sgt. Pepper's Lonely Hearts Club Band 1967](/src/assets/img/sergent-pepper.jpg) |
 |:--:|
-|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+|*Jann Haworth & Peter Blake • Jaquette pour l'album Sgt. Pepper's Lonely Hearts Club Band • 1967*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/sniffing.jpg) |
+| ![Mark Perry Fanzine Sniffin' Glue and other Rock'n'Roll Habit 1977](/src/assets/img/sniffing.jpg) |
 |:--:|
-|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+|*Mark Perry • Fanzine Sniffin' Glue and other Rock'n'Roll Habit • 1977*|
 
-| ![Tristan Tzara & Ilja Zdanevich Le Coeur à barbe Journal transparent 1922](/src/assets/img/on-y-va.jpg) |
+| ![collectif Grapus Affiche pour la Fête de la jeunesse du MJCF 1970](/src/assets/img/on-y-va.jpg) |
 |:--:|
-|*Bea Feitler •Couverture pour Ms. magazine • 1972*|
+|*collectif Grapus • Affiche pour la Fête de la jeunesse du MJCF • 1970*|
 
 ## Postmodernisme et ère numérique
 
