@@ -65,14 +65,14 @@ Explorer l'espace de travail
 
 1. La barre d'application, au dessu de la fenêtre du logiciel sur Mac OS ou dans la fenêtre sur Windows.
 2. Le panneau de contrôle affiche les options de l'outils actuellement sélectionné.
-3. Les palettes d'outils nous aident à surveiller et à modifier notre travail. Certains panneaux sont affichés par défaut, on peut en fermer certain, les réorganiser et en afficher d'autre rangé sous l'onglé <kbd>Fenêtre de la barre d'application</kbd>.
+3. Les palettes d'outils nous aident à surveiller et à modifier notre travail. Certains panneaux sont affichés par défaut, on peut en fermer certain, les réorganiser et en afficher d'autre rangé sous l'onglé <kbd>Fenêtre</kbd> de la barre d'application.
 4. Le panneau d'outils contient des outils pour créer et modifier des élément. Les outils connexes sont regroupés ensemble.
 ![Du Raster au vecteur](/src/assets/img/outils-cache.jpg)
 
 5. La fenêtre de document affiche le fichier sur lequel on travaille.
 6. La barre d'état apparaît en bas à gauche de la fenêtre du document. Elle affiche des informations, des contrôles de zoom et de navigation.
 
-![Du Raster au vecteur](/src/assets/img/outils-Test.jpg)
+![Du Raster au vecteur](/src/assets/img/outils-ai.jpg)
 
 
 
