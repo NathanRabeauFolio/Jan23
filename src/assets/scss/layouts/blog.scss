@@ -523,6 +523,12 @@ font-size: 1rem;}
 .blog .page-container{
 .article-card__title{padding: 0.2em 0 0.25em 0!important;}}
 
+.post article ol li::marker{
+  color: var(--color-overlay);
+  font-family: var(--font-family-heading);
+  font-variation-settings: "wght" 950, "wdth" 100, "opsz" 0;
+  font-size: 1.15rem;
+}
 kbd{
   display: inline-block;
   font-family: var(--font-family-third);
