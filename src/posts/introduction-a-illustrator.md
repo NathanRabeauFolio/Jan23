@@ -35,7 +35,7 @@ Le mode "carte" qui permet de montré des tracés des route ou des pointage de l
 
 ![Du Raster au vecteur](/src/assets/img/Map-vector2.jpg)
 
-## Illustrator et ouverture de fichier
+## Ouverture de fichiers et espace de travail
 
 On travaillera avec plusieurs fichiers vectoriel durant ce cours, mais avant de commencer, on restaurera les préférences par défaut d'Adobe Illustrator CC. Pour s'assurer que les outils et les panneaux fonctionnent exactement comme décrit dans ici-même.
 
@@ -59,9 +59,7 @@ On peut remarqué que ces panneaux peuvent apparaitre ouvert, superposé en ongl
 
 ![Du Raster au vecteur](/src/assets/img/icon-palette-2.jpg)
 
-## Explorer l'espace de travail
-
-### Tour d'horizon
+### Explorer l'espace de travail
 
 ![Du Raster au vecteur](/src/assets/img/illufenetre.jpg)
 
@@ -74,7 +72,7 @@ On peut remarqué que ces panneaux peuvent apparaitre ouvert, superposé en ongl
 5. La fenêtre de document affiche le fichier sur lequel on travaille.
 6. La barre d'état apparaît en bas à gauche de la fenêtre du document. Elle affiche des informations, des contrôles de zoom et de navigation.
 
-### Manipulation
+### Manipulation du panneau d'outils
 
 1. On place le pointeur sur l'outil de sélection dans le panneau d'outils. On remarque que le nom (Outil de sélection), une petite illustration de son fonctionnement et le raccourci clavier (V) sont affichés dans une infobulle.
 ![Du Raster au vecteur](/src/assets/img/ai-selection.jpg)
@@ -85,3 +83,21 @@ On peut remarqué que ces panneaux peuvent apparaitre ouvert, superposé en ongl
  On relâche le bouton de la souris, puis on clique sur l'outil de sélection de groupe pour le sélectionner. Tout outil dans le panneau d'outils qui affiche un petit triangle contient des outils supplémentaires qui peuvent être sélectionnés de cette manière. Les outils dans le menu sont dits "cachés" sous celui actuellement affiché dans le panneau.
  ![Du Raster au vecteur](/src/assets/img/ai-selection-direct-3.jpg)
  panneaux que l'on peut conserver afin de jongler entre les différents outils.
+
+### Changement de la vue
+
+Lors du travail sur des fichiers, il est probable qu'il soit nécessaire de modifier le niveau de grossissement et de naviguer parmi les planches. Le niveau de grossissement, pouvant aller de 3,13% à 64000%, est affiché dans la barre de titre (ou l'onglet du document) à côté du nom de fichier et dans le coin inférieur gauche de la fenêtre du document.
+
+Il existe de nombreuses façons de changer le niveau de zoom dans Illustrator, et dans cette section, plusieurs des méthodes les plus couramment utilisées seront explorées.
+
+Pour agrandir ou réduire la vue de l'œuvre en utilisant le menu <kbd>Affichage</kbd> , l'une des actions suivantes est effectuée :
+
+<kbd>Affichage</kbd> > <kbd>Zoom avant</kbd> est sélectionné pour agrandir l'affichage de l'œuvre.
+<kbd>Affichage</kbd> > <kbd>Zoom arrière</kbd> est sélectionné pour réduire la vue de l'œuvre.
+Il est également possible de zoomer et dézoomer à l'aide de raccourcis clavier :
+<kbd>Command</kbd> (Mac OS) ou <kbd>Ctrl</kbd> (Windows) + <kbd>+</kbd> permet de zoomer.
+<kbd>Command</kbd> (Mac OS) ou <kbd>Ctrl</kbd> (Windows) + <kbd>-</kbd> permet de dézoomer.
+Chaque fois qu'une option de zoom est choisie, la vue de l'œuvre est redimensionnée au niveau de zoom prédéfini le plus proche. Les niveaux de zoom prédéfinis apparaissent dans un menu dans le coin inférieur gauche de la fenêtre du document, identifié par une flèche vers le bas à côté d'un pourcentage.
+![Du Raster au vecteur](/src/assets/img/ai-zoom.jpg)
+En plus des options du menu <kbd>Affichage</kbd> , l'outil Zoom peut être utilisé pour agrandir et réduire la vue de l'œuvre à des niveaux de grossissement prédéfinis.
+![Du Raster au vecteur](/src/assets/img/ai-outils-zoom.jpg)
