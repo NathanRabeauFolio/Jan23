@@ -59,7 +59,9 @@ On peut remarqué que ces panneaux peuvent apparaitre ouvert, superposé en ongl
 
 ![Du Raster au vecteur](/src/assets/img/icon-palette-2.jpg)
 
-Explorer l'espace de travail
+## Explorer l'espace de travail
+
+### Tour d'horizon
 
 ![Du Raster au vecteur](/src/assets/img/illufenetre.jpg)
 
@@ -68,12 +70,18 @@ Explorer l'espace de travail
 3. Les palettes d'outils nous aident à surveiller et à modifier notre travail. Certains panneaux sont affichés par défaut, on peut en fermer certain, les réorganiser et en afficher d'autre rangé sous l'onglé <kbd>Fenêtre</kbd> de la barre d'application.
 4. Le panneau d'outils contient des outils pour créer et modifier des élément. Les outils connexes sont regroupés ensemble.
 ![Du Raster au vecteur](/src/assets/img/outils-cache.jpg)
-
+![Du Raster au vecteur](/src/assets/img/outils-ai.jpg)
 5. La fenêtre de document affiche le fichier sur lequel on travaille.
 6. La barre d'état apparaît en bas à gauche de la fenêtre du document. Elle affiche des informations, des contrôles de zoom et de navigation.
 
-![Du Raster au vecteur](/src/assets/img/outils-ai.jpg)
+### Manipulation
 
-
-
-On crée et manipule les documents et fichiers en utilisant divers éléments tels que des panneaux, des barres et des fenêtres. Toute disposition de ces éléments est appelée un espace de travail. Lorsqu'on démarre Illustrator pour la première fois, on voit l'espace de travail par défaut, que l'on peut personnaliser pour les tâches que l'on effectue. On peut créer et sauvegarder plusieurs espaces de travail - un pour l'édition et un autre pour la visualisation, par exemple - et passer de l'un à l'autre au fur et à mesure de son travail.
+1. On place le pointeur sur l'outil de sélection dans le panneau d'outils. On remarque que le nom (Outil de sélection), une petite illustration de son fonctionnement et le raccourci clavier (V) sont affichés dans une infobulle.
+![Du Raster au vecteur](/src/assets/img/ai-selection.jpg)
+2. On place le pointeur sur l'outil de sélection directe,
+![Du Raster au vecteur](/src/assets/img/ai-selection-direct.jpg)
+ et on maintient le bouton de la souris enfoncé jusqu'à ce qu'un menu d'outils apparaisse. (Sous Windows, on appuie toujours sur le bouton gauche de la souris sauf indication contraire.)
+ ![Du Raster au vecteur](/src/assets/img/ai-selection-direct-2.jpg)
+ On relâche le bouton de la souris, puis on clique sur l'outil de sélection de groupe pour le sélectionner. Tout outil dans le panneau d'outils qui affiche un petit triangle contient des outils supplémentaires qui peuvent être sélectionnés de cette manière. Les outils dans le menu sont dits "cachés" sous celui actuellement affiché dans le panneau.
+ ![Du Raster au vecteur](/src/assets/img/ai-selection-direct-3.jpg)
+ panneaux que l'on peut conserver afin de jongler entre les différents outils.
