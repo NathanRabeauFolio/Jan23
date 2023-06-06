@@ -37,7 +37,7 @@ Le mode "carte" qui permet de montré des tracés des route ou des pointage de l
 
 ## Ouverture de fichiers et espace de travail
 
-On travaillera avec plusieurs fichiers vectoriel durant ce cours, mais avant de commencer, on restaurera les préférences par défaut d'Adobe Illustrator CC. Pour s'assurer que les outils et les panneaux fonctionnent exactement comme décrit dans ici-même.
+On travaillera ici avec plusieurs fichiers vectoriel, mais avant de commencer, on restaurera les préférences par défaut d'Adobe Illustrator CC. Pour s'assurer que les outils et les panneaux fonctionnent exactement comme décrit dans ici-même.
 
 On choisit <kbd>fichier</kbd> > <kbd>ouvrir</kbd> , on navigue jusqu'au dossier contenant les fichiers à télécharger sur cette page, et on ouvre le fichier <kbd>PawPatrol.ai</kbd> .
 
@@ -115,7 +115,33 @@ On accède à ces conversions par <kbd>Affichage</kbd> > <kbd>Format d'épreuve<
 
 ### la fenêtre des calques
 
-La vue en tracés, nous a permis de saisir commemnt l'illustration était composé, On comprend qu'il s'agit de forme empilé. Si l'on selectionne avec l'outils de selection <kbd>v</kbd> le blason, on observe l'ensemble des formes qui compose cette partis de l'illustration surligné en rouge
+La vue en tracés, nous a permis de saisir commemnt l'illustration était composé, On comprend qu'il s'agit de forme empilé. Si l'on selectionne avec l'outils de selection <kbd>V</kbd> le blason, on observe l'ensemble des formes qui composent cette partis de l'illustration surligné en rouge
 ![Du Raster au vecteur](/src/assets/img/calque-ai-01.jpg)
+en bleu pour le lettrage "PAW"
 ![Du Raster au vecteur](/src/assets/img/calque-ai-02.jpg)
+et vert pour la pancarte "Patrol"
 ![Du Raster au vecteur](/src/assets/img/calque-ai-03.jpg)
+Ces éléments sont sont des calques différent, c'est à dire 3 niveaux de constructions différent.
+On peux accédés à la palette par <kbd>Affichage</kbd> > <kbd>Calques</kbd>
+![Du Raster au vecteur](/src/assets/img/calque-ai-04.jpg)
+Lorsque un élement d'un calque est selectionné, un pastille de la couleur du-dit calque apparait.
+dans cette exemeple l'outil selection nous permet de selectionner un groupe d'objets composant l'ensemble du blason.
+L'outils de selection direct (fleche blanche) <kbd>A</kbd> nous permet de selection un objet au sein de ce groupe, encore une fois nous observont une pastille s'activée en face de l'objet "Tracé transparent" selectionner
+![Du Raster au vecteur](/src/assets/img/calque-ai-05.jpg)
+On Observe à cette occasion que l'indicateur de remplissage et de contour affiche maintenant les caractères de l'object selection. A savoir un remplissage en dégradé et un contour gris.
+![Du Raster au vecteur](/src/assets/img/selectcolor.jpg)
+
+## Composer avec des objet pré-dessiné
+
+![Du Raster au vecteur](/src/assets/img/matreau.jpg)
+1. ouvrir le fichier marteau.ai
+2. ajuster le zoom <kbd>Affichage</kbd> > <kbd>Ajuster le plan de travail à la fenêtre</kbd>
+3. Ouvrir la palette des calques <kbd>Fenêtre</kbd> > <kbd>Calques</kbd>
+![Du Raster au vecteur](/src/assets/img/matreau-calques.jpg)
+
+On va devoir réagencer les objets predessiné et duement nommée dans la palette des calques.
+Commençont par le bloc tete du marteau. afin de selection les objets tete et frappe nous avons plusieurs possibilité
+Celle de la selection direct (flèche noire) <kbd>V</kbd> ou l'on cliquera d'abord sur le rectangle vertical en haut a gauche (preferenciellement sur son contour puisque son remplisage est vide) puis on cliquera sur le polygone complexe en dessous avec <kbd>shift</kbd> enfoncé.
+![Du Raster au vecteur](/src/assets/img/matreau-selection01.jpg)
+
+![Du Raster au vecteur](/src/assets/img/matreau-selection02.jpg)
