@@ -106,7 +106,7 @@ Lors de l'ouverture d'un fichier, celui-ci est automatiquement affiché en mode 
 <kbd>Affichage</kbd> > <kbd>Tracés</kbd> Permet de n'afficher que les contours des objets. Cette vue peut être utilisée pour trouver et sélectionner facilement des objets qui pourraient ne pas être visibles en mode Aperçu.
 ![Du Raster au vecteur](/src/assets/img/vue-ai-trac.jpg)
 <kbd>Affichage</kbd> > <kbd>Couleurs d'épreuve</kbd> permet de visualiser la conversion des couleurs dans un espace colorimétrique choisi. Par exemple un espace colorimétrique CMJN pour l'impression.
-![Du Raster au vecteur](/src/assets/img/vue-ai-Print.jpg)
+![Du Raster au vecteur](/src/assets/img/vue-ai-print.jpg)
 ou un espace Colorimétrique simulant une vision daltonnienne comme ici :
 ![Du Raster au vecteur](/src/assets/img/vue-ai-dalto.jpg)
 On accède à ces conversions par <kbd>Affichage</kbd> > <kbd>Format d'épreuve</kbd> , On l'applique par <kbd>Affichage</kbd> > <kbd>Couleurs d'épreuve</kbd>
