@@ -100,4 +100,22 @@ Il est également possible de zoomer et dézoomer à l'aide de raccourcis clavie
 Chaque fois qu'une option de zoom est choisie, la vue de l'œuvre est redimensionnée au niveau de zoom prédéfini le plus proche. Les niveaux de zoom prédéfinis apparaissent dans un menu dans le coin inférieur gauche de la fenêtre du document, identifié par une flèche vers le bas à côté d'un pourcentage.
 ![Du Raster au vecteur](/src/assets/img/ai-zoom.jpg)
 En plus des options du menu <kbd>Affichage</kbd> , l'outil Zoom peut être utilisé pour agrandir et réduire la vue de l'œuvre à des niveaux de grossissement prédéfinis.
-![Du Raster au vecteur](/src/assets/img/ai-outils-zoom.jpg)
+
+Lors de l'ouverture d'un fichier, celui-ci est automatiquement affiché en mode Aperçu, cependant d'autre mode d'affichage vont nous permettre de controler notre travail.
+![Du Raster au vecteur](/src/assets/img/vue-ai-aper.jpg)
+<kbd>Affichage</kbd> > <kbd>Tracés</kbd> Permet de n'afficher que les contours des objets. Cette vue peut être utilisée pour trouver et sélectionner facilement des objets qui pourraient ne pas être visibles en mode Aperçu.
+![Du Raster au vecteur](/src/assets/img/vue-ai-trac.jpg)
+<kbd>Affichage</kbd> > <kbd>Couleurs d'épreuve</kbd> permet de visualiser la conversion des couleurs dans un espace colorimétrique choisi. Par exemple un espace colorimétrique CMJN pour l'impression.
+![Du Raster au vecteur](/src/assets/img/vue-ai-Print.jpg)
+ou un espace Colorimétrique simulant une vision daltonnienne comme ici :
+![Du Raster au vecteur](/src/assets/img/vue-ai-dalto.jpg)
+On accède à ces conversions par <kbd>Affichage</kbd> > <kbd>Format d'épreuve</kbd> , On l'applique par <kbd>Affichage</kbd> > <kbd>Couleurs d'épreuve</kbd>
+<kbd>Affichage</kbd> > <kbd>Aperçus en pixel</kbd> permet de simulé une vue rasterisé de votre image vectoriel
+![Du Raster au vecteur](/src/assets/img/vue-ai-pix.jpg)
+
+### la fenêtre des calques
+
+La vue en tracés, nous a permis de saisir commemnt l'illustration était composé, On comprend qu'il s'agit de forme empilé. Si l'on selectionne avec l'outils de selection <kbd>v</kbd> le blason, on observe l'ensemble des formes qui compose cette partis de l'illustration surligné en rouge
+![Du Raster au vecteur](/src/assets/img/calque-ai-01.jpg)
+![Du Raster au vecteur](/src/assets/img/calque-ai-02.jpg)
+![Du Raster au vecteur](/src/assets/img/calque-ai-03.jpg)
