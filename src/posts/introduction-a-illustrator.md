@@ -23,15 +23,15 @@ Illustrator permet cependant d'intégrer aussi des images bitmap, techniquement 
 
 ![Logo PawPatrol vector et bitmap](/src/assets/img/logo-PawPatrol-vector-bitmap.jpg)
 
-Là ou une image matricielle (ou bitmap) n'est composé que d'une multitudes de pixels dont les seuls qualités (au sens de caractèristique) sont d'avoir une couleur specifique (ou une opacité). L'image vectorielle est composé d'objets disposant de d'avantage de caractèristiques comme des coordonnées dans le plan et une taille definis parfois une forme geometrique precise (cercle, rectangle ...) mais aussi des qualité d'ordre graphiques comme une couleur de remplissage ou un contour definit par une couleur et une épaisseur.
+Une image matricielle, également appelée bitmap, est constituée d'une multitude de pixels, dont les seules caractéristiques sont leur couleur spécifique et éventuellement leur opacité. En revanche, une image vectorielle se compose d'objets qui présentent davantage de caractéristiques. Ces caractéristiques peuvent inclure des coordonnées dans un plan et une taille définie, souvent en association avec une forme géométrique précise (cercle, rectangle, etc.). De plus, ces objets peuvent avoir des propriétés graphiques comme une couleur de remplissage ou un contour défini par une couleur et une épaisseur.
 
 ![Du Raster au vecteur](/src/assets/img/gmap-raster.jpg)
 
-En cartographie, la différence entre données raster et données vectoriel est d'autant plus palpable lorsque l'on l'experimente sur google-map. Par exemple le passage d'une vue satelite, ou l'application nous propose une photographie du lieu vu du ciel (une données raster brute composé de pixels).
+La différence entre les images matricielle et vectorielles devient particulièrement évidente en cartographie, notamment lorsqu'on utilise Google Maps. Par exemple, en passant d'une vue satellite, où l'application propose une photographie du lieu vu du ciel composée de pixel (en cartographie on parlera de une donnée raster)...
 
 ![Du Raster au vecteur](/src/assets/img/Map-vector.jpg)
 
-Le mode "carte" qui permet de montré des tracés des route ou des pointage de lieux (données vectoriel par excellence puisque renseigné par des coordonnés et des qualité propre: "ceci est une route national", "ceci est une piste cyclable", "ceci est un Mac Donald" ces formes et tracès vectoriel étant duement libéllé, l'application est capable de proposé des itinéraires) là ou une simple photographie aerienne reste muette est inexploitable pour une machine.
+...au mode "carte", qui permet d'afficher des tracés de routes ou des points d'intérêt (données vectorielles par excellence, puisqu'elles sont définies par des coordonnées et des caractéristiques de couleurs, de contour, de forme ou encore de libélé : "ceci est une route nationale", "ceci est une piste cyclable", "ceci est un Mac Donald"). Grâce à ces formes et tracés vectoriels correctement renseigné, l'application est capable de proposer des itinéraires. En revanche, une simple photographie aérienne reste muette et inexploitable pour une machine.
 
 ![Du Raster au vecteur](/src/assets/img/Map-vector2.jpg)
 
@@ -143,5 +143,11 @@ On va devoir réagencer les objets predessiné et duement nommée dans la palett
 Commençont par le bloc tete du marteau. afin de selection les objets tete et frappe nous avons plusieurs possibilité
 Celle de la selection direct (flèche noire) <kbd>V</kbd> ou l'on cliquera d'abord sur le rectangle vertical en haut a gauche (preferenciellement sur son contour puisque son remplisage est vide) puis on cliquera sur le polygone complexe en dessous avec <kbd>shift</kbd> enfoncé.
 ![Du Raster au vecteur](/src/assets/img/matreau-selection01.jpg)
-
+On peut aussi selectionner deux objets distinct en formant une zone de selection avec un click maintenue à proximité de la première forme et en dessinant une zone en excartant le curseur jusqu'a englobé tout ou partie de la seconde forme.
 ![Du Raster au vecteur](/src/assets/img/matreau-selection02.jpg)
+On peut encore selectionner 1 ou plusieur objet en cliquant dans le petit rond en face de l'objet dans la fenêtre des calques, on appuiera la <kbd>Cmd</kbd> ou <kbd>ctrl</kbd> en cliquant pour selectionner les objets suivant
+![Du Raster au vecteur](/src/assets/img/matreau-selection-calque.jpg)
+
+![Du Raster au vecteur](/src/assets/img/matreau-selection-duo.jpg)
+
+![Du Raster au vecteur](/src/assets/img/matreau-selection-cle.jpg)
