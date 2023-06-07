@@ -150,4 +150,18 @@ On peut encore selectionner 1 ou plusieur objet en cliquant dans le petit rond e
 
 ![Du Raster au vecteur](/src/assets/img/matreau-selection-duo.jpg)
 
+Lorsque l'on reclique sur un des élements selectionnés, celui-ci apparait comme surligné.
+
 ![Du Raster au vecteur](/src/assets/img/matreau-selection-cle.jpg)
+
+on observe alors que l'indicateur de reference des alignement (palette proprieté) passe alors de <kbd>aligner sur une selection</kbd> à <kbd>aligner sur un objet clé</kbd>. On comprend alors que l'objet surligné devient l'objet de reference pour nos action d'alignement
+
+![Du Raster au vecteur](/src/assets/img/matreau-allign00.jpg)
+
+on clique alors sur <kbd>alignement vertical en haut</kbd>
+
+![Du Raster au vecteur](/src/assets/img/matreau-allign05.jpg)
+
+On observe alors que le 
+
+![Du Raster au vecteur](/src/assets/img/matreau-allign06.jpg)
