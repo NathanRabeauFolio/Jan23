@@ -27,8 +27,11 @@ section: post
   </article>
 <aside>
    {% if sources %}
-  <a href = "{{ sources | url }}" download = "">Download</a>
+  <a href = "{{ sources | url }}" download = "" class="download">Télécharger le support</a><br>
    {% endif %}
+  <a href = " http://www.linkedin.com/shareArticle?mini=true&url=animated-lily-68e918.netlify.app/cours/{{ title | lower | replace(" ","-") | replace("à","a") }}/&title={{ title }}&summary=balalal&source=nathanrabeau.com">Linkedintest</a>
+  
+
 </aside>
   <nav>
     <a href="{{ '/cours/' | url }}">← View All Articles</a>
