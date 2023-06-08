@@ -8,12 +8,16 @@ aside{
     position: fixed;
   }
   &:nth-of-type(2){
-    left: calc(75% - var(--site-width) + var(--site-width) + 4vw + 4rem)!important;
+    left: calc(75% - var(--site-width) + var(--site-width) + 4vw + 4rem) !important;
     position: fixed;
-    top: 90vh;
+    top: calc(100% - 10rem);
     z-index: 9999;
     line-height: 1em;
     font-size: 1.5rem;
+    height: 9rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     a{font-family: var(--font-family-heading);
       font-variation-settings: "wght" 485, "wdth" 55, "opsz" 10;
     color: black;
@@ -47,6 +51,19 @@ aside{
         background-repeat: no-repeat;
         content: '';
       }}
+      .twitter{position: relative;
+        &::before{
+          display: block;
+          width: 2rem;
+          height: 2rem;
+          bottom: 0;
+          left: -2.5rem;
+          position: absolute;
+          background-image: url(../img/twitter-icn.svg);
+          background-size: contain;
+          background-repeat: no-repeat;
+          content: '';
+        }}
   }
   @media (max-width: 1200px){
     display:none;
