@@ -7,6 +7,11 @@ aside{
   > * {
     position: fixed;
   }
+  &:nth-of-type(2){
+    left: calc(75% - var(--site-width) + var(--site-width) + 4vw + 2rem)!important;
+    top: 90vh;
+    z-index: 9999;
+  }
   @media (max-width: 1200px){
     display:none;
   }

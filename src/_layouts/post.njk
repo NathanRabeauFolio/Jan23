@@ -25,7 +25,11 @@ section: post
     {% endif %}
 
   </article>
-
+<aside>
+   {% if sources %}
+  <a href = "{{ sources | url }}" download = "">Download</a>
+   {% endif %}
+</aside>
   <nav>
     <a href="{{ '/cours/' | url }}">← View All Articles</a>
   </nav>

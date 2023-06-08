@@ -9,6 +9,7 @@ tags:
 image: /assets/img/illustrator-intro.jpg
 imageAlt: This is a test
 color: eb6559
+sources: /assets/zip/introduction-a-illustrator-source.zip
 ---
 | ![Forst, Averell & Co. Affiche pour imprimerie Hoe 1870](/src/assets/img/illustrator-intro.jpg) |
 |:--:|
@@ -72,7 +73,7 @@ On peut remarqué que ces panneaux peuvent apparaitre ouvert, superposé en ongl
 5. La fenêtre de document affiche le fichier sur lequel on travaille.
 6. La barre d'état apparaît en bas à gauche de la fenêtre du document. Elle affiche des informations, des contrôles de zoom et de navigation.
 
-### Manipulation du panneau d'outils
+### Manipulation du panneau d˙outils
 
 1. On place le pointeur sur l'outil de sélection dans le panneau d'outils. On remarque que le nom (Outil de sélection), une petite illustration de son fonctionnement et le raccourci clavier (V) sont affichés dans une infobulle.
 ![Du Raster au vecteur](/src/assets/img/ai-selection.jpg)
@@ -154,7 +155,7 @@ Lorsque l'on reclique sur un des élements selectionnés, celui-ci apparait comm
 
 ![Du Raster au vecteur](/src/assets/img/matreau-selection-cle.jpg)
 
-On observe alors que l'indicateur de reference des alignement (palette proprieté) passe alors de <kbd>aligner sur une selection</kbd> à <kbd>aligner sur un objet clé</kbd>. On comprend alors que l'objet surligné devient l'objet de reference pour nos action d'alignement
+On observe alors que l'indicateur de reference des alignement (palette proprieté) passe alors de <kbd>aligner sur une selection</kbd> à <kbd>aligner sur un objet clé</kbd> . On comprend alors que l'objet surligné devient l'objet de reference pour nos action d'alignement
 
 ![Du Raster au vecteur](/src/assets/img/matreau-allign00.jpg)
 
@@ -166,3 +167,12 @@ On observe alors que l'élement tête viens s'aligné avec la partie haute de l'
 
 ![Du Raster au vecteur](/src/assets/img/matreau-allign06.jpg)
 
+Pour aligné le bord droit du de l'element frappe au bord gauche de l'élement gauche. On devrat derouler les option supplémentaire de la palette raccourcis d'alignement.
+
+![Du Raster au vecteur](/src/assets/img/matreau-allign03.jpg)
+
+Puis on clique sur <kbd>distribution horizontal de l'espace</kbd> en verifiant que la valeur d'espacement est de 0.
+
+![Du Raster au vecteur](/src/assets/img/matreau-allign04.jpg)
+
+![Du Raster au vecteur](/src/assets/img/matreau-allign07.jpg)
