@@ -1,6 +1,7 @@
 /* Article card */
 
 aside{
+
   position: absolute;
   display: block;
   left: 2vw;
@@ -17,7 +18,7 @@ aside{
     height: 9rem;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-end;
     a{font-family: var(--font-family-heading);
       font-variation-settings: "wght" 485, "wdth" 55, "opsz" 10;
     color: black;
@@ -64,12 +65,13 @@ aside{
           background-repeat: no-repeat;
           content: '';
         }}
-  }
-  @media (max-width: 1200px){
-    display:none;
-  }
+  
+}
+@media (max-width: 1200px){
+  display:none!important;
 }
 
+}
 .toc{
   
   line-height: 1em;
