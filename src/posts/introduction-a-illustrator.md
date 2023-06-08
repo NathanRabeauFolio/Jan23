@@ -95,8 +95,8 @@ Pour agrandir ou réduire la vue de l'œuvre en utilisant le menu <kbd>Affichage
 <kbd>Affichage</kbd> > <kbd>Zoom avant</kbd> est sélectionné pour agrandir l'affichage de l'œuvre.
 <kbd>Affichage</kbd> > <kbd>Zoom arrière</kbd> est sélectionné pour réduire la vue de l'œuvre.
 Il est également possible de zoomer et dézoomer à l'aide de raccourcis clavier :
-<kbd>Command</kbd> (Mac OS) ou <kbd>Ctrl</kbd> (Windows) + <kbd>+</kbd> permet de zoomer.
-<kbd>Command</kbd> (Mac OS) ou <kbd>Ctrl</kbd> (Windows) + <kbd>-</kbd> permet de dézoomer.
+<kbd>⌘</kbd> (Mac OS) ou <kbd>Ctrl</kbd> (Windows) + <kbd>+</kbd> permet de zoomer.
+<kbd>⌘</kbd> (Mac OS) ou <kbd>Ctrl</kbd> (Windows) + <kbd>-</kbd> permet de dézoomer.
 Chaque fois qu'une option de zoom est choisie, la vue de l'œuvre est redimensionnée au niveau de zoom prédéfini le plus proche. Les niveaux de zoom prédéfinis apparaissent dans un menu dans le coin inférieur gauche de la fenêtre du document, identifié par une flèche vers le bas à côté d'un pourcentage.
 ![Du Raster au vecteur](/src/assets/img/ai-zoom.jpg)
 En plus des options du menu <kbd>Affichage</kbd> , l'outil Zoom peut être utilisé pour agrandir et réduire la vue de l'œuvre à des niveaux de grossissement prédéfinis.
@@ -141,11 +141,11 @@ On Observe à cette occasion que l'indicateur de remplissage et de contour affic
 
 On va devoir réagencer les objets predessiné et duement nommée dans la palette des calques.
 Commençont par le bloc tete du marteau. afin de selection les objets tete et frappe nous avons plusieurs possibilité
-Celle de la selection direct (flèche noire) <kbd>V</kbd> ou l'on cliquera d'abord sur le rectangle vertical en haut a gauche (preferenciellement sur son contour puisque son remplisage est vide) puis on cliquera sur le polygone complexe en dessous avec <kbd>shift</kbd> enfoncé.
+Celle de la selection direct (flèche noire) <kbd>V</kbd> ou l'on cliquera d'abord sur le rectangle vertical en haut a gauche (preferenciellement sur son contour puisque son remplisage est vide) puis on cliquera sur le polygone complexe en dessous avec <kbd>⇧</kbd> enfoncé.
 ![Du Raster au vecteur](/src/assets/img/matreau-selection01.jpg)
 On peut aussi selectionner deux objets distinct en formant une zone de selection avec un click maintenue à proximité de la première forme et en dessinant une zone en excartant le curseur jusqu'a englobé tout ou partie de la seconde forme.
 ![Du Raster au vecteur](/src/assets/img/matreau-selection02.jpg)
-On peut encore selectionner 1 ou plusieur objet en cliquant dans le petit rond en face de l'objet dans la fenêtre des calques, on appuiera la <kbd>Cmd</kbd> ou <kbd>ctrl</kbd> en cliquant pour selectionner les objets suivant
+On peut encore selectionner 1 ou plusieur objet en cliquant dans le petit rond en face de l'objet dans la fenêtre des calques, on appuiera la <kbd>⌘</kbd> ou <kbd>ctrl</kbd> en cliquant pour selectionner les objets suivant
 ![Du Raster au vecteur](/src/assets/img/matreau-selection-calque.jpg)
 
 ![Du Raster au vecteur](/src/assets/img/matreau-selection-duo.jpg)
@@ -154,14 +154,15 @@ Lorsque l'on reclique sur un des élements selectionnés, celui-ci apparait comm
 
 ![Du Raster au vecteur](/src/assets/img/matreau-selection-cle.jpg)
 
-on observe alors que l'indicateur de reference des alignement (palette proprieté) passe alors de <kbd>aligner sur une selection</kbd> à <kbd>aligner sur un objet clé</kbd>. On comprend alors que l'objet surligné devient l'objet de reference pour nos action d'alignement
+On observe alors que l'indicateur de reference des alignement (palette proprieté) passe alors de <kbd>aligner sur une selection</kbd> à <kbd>aligner sur un objet clé</kbd>. On comprend alors que l'objet surligné devient l'objet de reference pour nos action d'alignement
 
 ![Du Raster au vecteur](/src/assets/img/matreau-allign00.jpg)
 
-on clique alors sur <kbd>alignement vertical en haut</kbd>
+On clique alors sur <kbd>alignement vertical en haut</kbd>
 
 ![Du Raster au vecteur](/src/assets/img/matreau-allign05.jpg)
 
-On observe alors que le 
+On observe alors que l'élement tête viens s'aligné avec la partie haute de l'élément frappe
 
 ![Du Raster au vecteur](/src/assets/img/matreau-allign06.jpg)
+
