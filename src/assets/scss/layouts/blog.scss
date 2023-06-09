@@ -9,7 +9,7 @@ aside{
     position: fixed;
   }
   &:nth-of-type(2){
-    left: calc(75% - var(--site-width) + var(--site-width) + 4vw + 4rem) !important;
+    left: calc(25% + var(--site-width)) !important;
     position: fixed;
     top: calc(100% - 10rem);
     z-index: 9999;
@@ -19,19 +19,38 @@ aside{
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    padding-left: 3rem;
+
     a{font-family: var(--font-family-heading);
       font-variation-settings: "wght" 485, "wdth" 55, "opsz" 10;
     color: black;
+    text-decoration: underline;
+    text-decoration-thickness: 0.15rem;
+    text-decoration-color: var(--color-overlay);
+    &::after{
+      display: block;
+      content:'';
+      position: absolute;
+      left: -2.5rem;
+      bottom: -0.25rem;
+      width: 2rem;
+      height: 2rem;
+      mix-blend-mode: lighten;
+      background-color: var(--color-overlay);
+      z-index:-1;
+    }
   &:hover{
     border-bottom: none;
   }
 }
     .download{position: relative;
     &::before{
+      background-color: white;
+      mix-blend-mode: lighten;
       display: block;
       width: 2rem;
       height: 2rem;
-      bottom: 0;
+      bottom:-0.25rem;;
       left: -2.5rem;
       position: absolute;
       background-image: url(../img/Download-icn.svg);
@@ -41,10 +60,12 @@ aside{
     }}
     .linkedin{position: relative;
       &::before{
+        background-color: white;
+        mix-blend-mode: lighten;
         display: block;
         width: 2rem;
         height: 2rem;
-        bottom: 0;
+        bottom:-0.25rem;;
         left: -2.5rem;
         position: absolute;
         background-image: url(../img/linkedin-icn.svg);
@@ -54,10 +75,12 @@ aside{
       }}
       .twitter{position: relative;
         &::before{
+          background-color: white;
+          mix-blend-mode: lighten;
           display: block;
           width: 2rem;
           height: 2rem;
-          bottom: 0;
+          bottom:-0.25rem;;
           left: -2.5rem;
           position: absolute;
           background-image: url(../img/twitter-icn.svg);
