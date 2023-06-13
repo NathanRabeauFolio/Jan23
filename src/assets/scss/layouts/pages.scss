@@ -5,6 +5,22 @@ main:has(.about-me){
 
 .about-me{
     overflow-x:visible;
+
+
+.site-header {
+    }
+    p{
+    
+        font-family: var(--font-family-third) !important;
+        font-variation-settings: "wght" 500, "MONO" 1000 !important;
+        font-size: 1rem !important;
+        -webkit-hyphens: auto; 
+        -moz-hyphens: auto; 
+        -ms-hyphens: auto; 
+        hyphens: auto;
+}
+.intro{}
+
 }
 
 .trust{
@@ -119,7 +135,10 @@ section{
     }}
 }
 
+
+
 }
+
 
 .intro-contenues{
     display: flex;
