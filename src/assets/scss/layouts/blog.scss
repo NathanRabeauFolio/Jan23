@@ -217,16 +217,21 @@ article h3{
   }
 
   article h4{
-    font-family: var(--font-family-base);
-    font-size: 1.8rem;
+    font-size: 1rem;
     line-height: 1.618;
-    margin: 0rem 5.5rem;
+    margin: 1.5rem 1.5rem;
+    letter-spacing: .05em;
+    font-variation-settings: "wght" 900, "wdth" 100, "opsz" 0;
+    text-transform: uppercase;
+    }
+.post  article h5{
+
+    margin: 1.5rem 1.5rem 1rem;
+    font-family: var(--font-family-base);
+    font-weight: 900;
     font-style: italic;
-    font-weight: bold;
-    &::before{
-      content: '—';
-    }
-    }
+    font-size: 1.8rem;
+      }
 
 article p {
   text-align: justify;
